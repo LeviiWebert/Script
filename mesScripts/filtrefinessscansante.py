@@ -87,7 +87,7 @@ def main():
     df_j = df_finess.merge(df_scansante,on="FINESSJ",how="inner")
 
     #df_filtered=df_f.merge(df_j,on="Nom_y",how="left")
-    print("concaténation des deux fusion")
+    print("concaténation des deux")
     df_filtered = pd.concat([df_f, df_j], ignore_index=True)
     
     print(f"  ➜ Résultat après merge : {df_filtered.shape[0]} lignes × {df_filtered.shape[1]} colonnes")
