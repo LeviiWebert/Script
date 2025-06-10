@@ -1,5 +1,14 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+"""
+Il faut installer pandas : pip install pandas
+
+-f chemin vers le fichiers finess
+-fs chemin vers le finess scansante
+-o chemin complet vers l'output(il faut que ce soit un chemin vers un fichier excel en .xlsx et pas juste un dossiers)
+
+exemple :
+
+python filtrefinessscansante.py -f "C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\Data-FINESS_Modele.xlsx" -fs "C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\FinessScansante.xlsx" -o "C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\Filtered_Finess.xlsx"
+"""
 
 import os
 import sys
@@ -80,16 +89,8 @@ def main():
 
     print("Mise en forme des colonnes FINESS")
     df_finess,df_scansante=equalizeFiness(df_finess,df_scansante)
-    print("Merge des deux fichiers\n")
-    print("Premier merge sur le finess établissement")
-    df_f = df_finess.merge(df_scansante,on="FINESS",how="inner")
-    print("Premier merge sur le finess juridique")
-    df_j = df_finess.merge(df_scansante,on="FINESSJ",how="inner")
-
-    #df_filtered=df_f.merge(df_j,on="Nom_y",how="left")
-    print("concaténation des deux")
-    df_filtered = pd.concat([df_f, df_j], ignore_index=True)
-    
+    print("Merge des deux fichiers")
+    df_filtered = df_finess.merge(df_scansante,on="FINESS",how="inner")
     print(f"  ➜ Résultat après merge : {df_filtered.shape[0]} lignes × {df_filtered.shape[1]} colonnes")
 
 
