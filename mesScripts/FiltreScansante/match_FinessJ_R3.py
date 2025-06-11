@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Chemin vers votre "table point" (table A)
-PATH_MATCH_FJ= r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\MatchFinessJOnlyR2.xlsx"
+PATH_MATCH_FJ= r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\RestantR3R4àTraité.xlsx"
 PATH_OUTPUT=r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\Match_Algo_R3.xlsx"
 COL_NOM_SS="NomScanSante"
 COL_NOM_GOUV="Nom"
@@ -14,6 +14,7 @@ STOPWORDS = {
     "UNITE","CSAPA","CEGIDD",
     "CLICK"
 }
+
 
 CH = "CENTRE HOSPITALIER"
 

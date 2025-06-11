@@ -1,9 +1,8 @@
 import pandas as pd
-from fuzzywuzzy import fuzz
 
 
 df_finessj = pd.read_excel(
-    r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\FinessJR2.xlsx",
+    r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\FinessScansante.xlsx",
     dtype=str,
     engine="openpyxl"
 )

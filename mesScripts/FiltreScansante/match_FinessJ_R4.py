@@ -2,7 +2,8 @@ import pandas as pd
 import re
 
 # Chemin vers votre "table point" (table A)
-PATH_MATCH_FJ= r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\MatchFinessJOnlyR2.xlsx"
+#PATH_MATCH_FJ= r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\Result_Algo_R2.xlsx"
+PATH_MATCH_FJ= r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\RestantR3R4àTraité.xlsx"
 PATH_OUTPUT=r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\Match_Algo_R4.xlsx"
 COL_NOM_SS="NomScanSante"
 COL_NOM_GOUV="Nom"
@@ -13,6 +14,16 @@ STOPWORDS = {
     "CSADA","IFSI","IFAS",
     "UNITE","CSAPA","CEGIDD",
     "CLICK"
+}
+# R5
+STOPWORDS |= {
+    "CLAT","CV","CMPP",
+    "FAM","HDJ","MAS",
+    "PSY","SMUR","SSR",
+    "EHPAA", "HAD", "SSIAD", "USLD",
+    "SSR", "SAMU", "SMUR", "CMP", "CMPP", "CSAPA", "CLIC", "CMRR", "FAM", "MAS",
+    "CS", "CMS", "ES", "EPS", "EPSM"
+
 }
 REPLACE = {
     "-"," DE "," DU ",
