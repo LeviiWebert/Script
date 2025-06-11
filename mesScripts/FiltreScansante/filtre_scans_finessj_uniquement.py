@@ -1,8 +1,6 @@
 import pandas as pd
-import logging
 from fuzzywuzzy import fuzz
-import os
-import sys
+
 
 df_finessj = pd.read_excel(
     r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\FinessJR2.xlsx",
