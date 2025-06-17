@@ -3,7 +3,7 @@ import re
 
 # Chemin vers votre "table point" (table A)
 #PATH_MATCH_FJ= r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\Result_Algo_R2.xlsx"
-PATH_MATCH_FJ= r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\RestantR3R4àTraité.xlsx"
+PATH_MATCH_FJ= r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\R3R4R5restant.xlsx"
 PATH_OUTPUT=r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\TABLEAU à TRAIté\Match_Algo_R4.xlsx"
 COL_NOM_SS="NomScanSante"
 COL_NOM_GOUV="Nom"
@@ -13,17 +13,15 @@ STOPWORDS = {
     "SSIAD","HAD","ANTENNE",
     "CSADA","IFSI","IFAS",
     "UNITE","CSAPA","CEGIDD",
-    "CLICK"
+    "CLIC"
 }
 # R5
 STOPWORDS |= {
     "CLAT","CV","CMPP",
-    "FAM","HDJ","MAS",
+    " FAM ","HDJ"," MAS ",
     "PSY","SMUR","SSR",
-    "EHPAA", "HAD", "SSIAD", "USLD",
-    "SSR", "SAMU", "SMUR", "CMP", "CMPP", "CSAPA", "CLIC", "CMRR", "FAM", "MAS",
-    "CS", "CMS", "ES", "EPS", "EPSM"
-
+    "EHPAA", "USLD", "SAMU", "CMP", "CMRR",
+    " CS ", "CMS", " ES ", "EPS", "EPSM"
 }
 REPLACE = {
     "-"," DE "," DU ",
@@ -40,6 +38,9 @@ for idx, row in df_match.iterrows():
     for mot in REPLACE:
         nom = nom.replace(mot, " ")
         scans = scans.replace(mot, " ")
+    # ST -> SAINT
+    nom.replace(" ST "," SAINT ")
+    scans.replace(" ST "," SAINT ")
     mots_nom = nom.split()
     if not any(word in nom for word in STOPWORDS):
         # comparaison des mots entre eux en tant qu'entier
