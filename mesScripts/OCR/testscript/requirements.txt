@@ -1,0 +1,15 @@
+# Dépendances pour OCR Medical Document Processor
+
+# Traitement PDF et images
+PyMuPDF==1.23.26
+opencv-python==4.8.1.78
+
+# OCR
+pytesseract==0.3.10
+
+# Traitement de données
+pandas==2.1.4
+numpy==1.24.4
+
+# Autres utilitaires
+unicodedata2==15.1.0

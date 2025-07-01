@@ -1,0 +1,19 @@
+================================================================================
+EXTRACTION DES TITRES - RÉSULTATS GEMINI
+Date d'extraction: 2025-06-27 16:35:32
+Fichier source: resultats_analyse_gemini.txt
+Total de titres extraits: 3
+================================================================================
+
+FICHIER: img00001.jpg
+CHEMIN: C:\test\Cardiologie\img00001.jpg
+TITRES:
+- Cardiologie interventionnelle
+- Cardiologie générale
+- ---------------------------------------
+
+================================================================================
+STATISTIQUES:
+Nombre de fichiers traités: 1
+Répartition par fichier:
+  - img00001.jpg: 3 titre(s)

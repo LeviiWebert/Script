@@ -1,0 +1,367 @@
+"""
+Testing and validation utilities for OCR medical document processing.
+Provides comparison tools and quality assessment metrics.
+"""
+
+import pandas as pd
+import numpy as np
+import logging
+import re
+from typing import List, Tuple, Dict, Any
+from ocr_processing import TextProcessor
+
+
+class QualityAssessment:
+    """Provides quality assessment tools for OCR results."""
+    
+    def __init__(self):
+        """Initialize quality assessment tools."""
+        self.numeric_pattern = re.compile(r"^\d+(\.\d+)?$")
+    
+    def compare_with_reference(self, extracted_path: str, reference_path: str) -> Dict[str, Any]:
+        """
+        Compare extracted table with reference table cell by cell.
+        
+        Args:
+            extracted_path: Path to extracted Excel file
+            reference_path: Path to reference Excel file
+            
+        Returns:
+            Dictionary with comparison results and statistics
+        """
+        try:
+            # Load both files
+            df_extracted = pd.read_excel(extracted_path, header=None, dtype=str)
+            df_reference = pd.read_excel(reference_path, header=None, dtype=str)
+            
+            # Ensure same dimensions
+            max_rows = max(df_extracted.shape[0], df_reference.shape[0])
+            max_cols = max(df_extracted.shape[1], df_reference.shape[1])
+            
+            df_extracted = df_extracted.reindex(
+                index=range(max_rows), 
+                columns=range(max_cols), 
+                fill_value=""
+            )
+            df_reference = df_reference.reindex(
+                index=range(max_rows), 
+                columns=range(max_cols), 
+                fill_value=""
+            )
+            
+            # Initialize comparison results
+            results = {
+                'exact_matches': [],
+                'false_values': [],
+                'aberrant_values': [],
+                'pattern_errors': []
+            }
+            
+            # Compare each cell
+            for row_idx in range(max_rows):
+                for col_idx in range(max_cols):
+                    self._compare_cell(
+                        row_idx, col_idx, 
+                        df_extracted, df_reference, 
+                        results
+                    )
+            
+            # Calculate statistics
+            stats = self._calculate_statistics(results, max_rows * max_cols)
+            
+            # Log summary
+            self._log_comparison_summary(results, stats)
+            
+            # Generate detailed report
+            self._generate_detailed_report(results)
+            
+            return {**results, 'statistics': stats}
+            
+        except Exception as e:
+            logging.error(f"Error in comparison: {e}")
+            return {}
+    
+    def _compare_cell(self, row_idx: int, col_idx: int, 
+                     df_extracted: pd.DataFrame, df_reference: pd.DataFrame,
+                     results: Dict[str, List]) -> None:
+        """
+        Compare a single cell between extracted and reference data.
+        
+        Args:
+            row_idx: Row index
+            col_idx: Column index
+            df_extracted: Extracted data DataFrame
+            df_reference: Reference data DataFrame
+            results: Dictionary to store comparison results
+        """
+        # Get cell values
+        extracted_val = self._get_clean_cell_value(df_extracted.iat[row_idx, col_idx])
+        reference_val = self._get_clean_cell_value(df_reference.iat[row_idx, col_idx])
+        
+        # Exact match
+        if extracted_val == reference_val:
+            results['exact_matches'].append((row_idx + 1, col_idx + 1, extracted_val))
+            return
+        
+        # Check if both are numeric
+        extracted_is_numeric = self.numeric_pattern.fullmatch(extracted_val)
+        reference_is_numeric = self.numeric_pattern.fullmatch(reference_val)
+        
+        if extracted_is_numeric and reference_is_numeric:
+            # Check for aberrant values (outliers)
+            if self._is_aberrant_value(col_idx, extracted_val, reference_val, df_reference):
+                column_stats = self._get_column_statistics(df_reference, col_idx)
+                results['aberrant_values'].append((
+                    row_idx + 1, col_idx + 1, 
+                    extracted_val, reference_val,
+                    column_stats['mean'], column_stats['std']
+                ))
+                return
+        
+        # Pattern error (numeric vs non-numeric mismatch)
+        if extracted_is_numeric != reference_is_numeric:
+            results['pattern_errors'].append((
+                row_idx + 1, col_idx + 1, 
+                extracted_val, reference_val
+            ))
+            return
+        
+        # Regular false value
+        results['false_values'].append((
+            row_idx + 1, col_idx + 1, 
+            extracted_val, reference_val
+        ))
+    
+    def _get_clean_cell_value(self, raw_value: Any) -> str:
+        """
+        Clean and normalize cell value.
+        
+        Args:
+            raw_value: Raw cell value
+            
+        Returns:
+            Cleaned string value
+        """
+        if pd.isna(raw_value):
+            return ""
+        
+        value = str(raw_value).strip()
+        return TextProcessor.strip_symbols(value)
+    
+    def _is_aberrant_value(self, col_idx: int, extracted_val: str, 
+                          reference_val: str, df_reference: pd.DataFrame) -> bool:
+        """
+        Check if extracted value is aberrant compared to reference column statistics.
+        
+        Args:
+            col_idx: Column index
+            extracted_val: Extracted value
+            reference_val: Reference value
+            df_reference: Reference DataFrame
+            
+        Returns:
+            True if value is aberrant (beyond 3 standard deviations)
+        """
+        try:
+            column_stats = self._get_column_statistics(df_reference, col_idx)
+            if column_stats['count'] < 2:
+                return False
+            
+            extracted_num = float(extracted_val)
+            reference_num = float(reference_val)
+            
+            diff = abs(extracted_num - reference_num)
+            return diff > 3 * column_stats['std']
+            
+        except (ValueError, TypeError):
+            return False
+    
+    def _get_column_statistics(self, df: pd.DataFrame, col_idx: int) -> Dict[str, float]:
+        """
+        Get statistical information for a column.
+        
+        Args:
+            df: DataFrame
+            col_idx: Column index
+            
+        Returns:
+            Dictionary with mean, std, and count
+        """
+        try:
+            # Extract numeric values from column
+            column_values = pd.to_numeric(
+                df[col_idx].dropna().astype(str).str.replace(",", "."),
+                errors="coerce"
+            ).dropna()
+            
+            return {
+                'mean': column_values.mean() if len(column_values) > 0 else 0,
+                'std': column_values.std() if len(column_values) > 1 else 0,
+                'count': len(column_values)
+            }
+            
+        except Exception:
+            return {'mean': 0, 'std': 0, 'count': 0}
+    
+    def _calculate_statistics(self, results: Dict[str, List], total_cells: int) -> Dict[str, Any]:
+        """
+        Calculate overall comparison statistics.
+        
+        Args:
+            results: Comparison results
+            total_cells: Total number of cells compared
+            
+        Returns:
+            Dictionary with statistics
+        """
+        error_cells = (len(results['false_values']) + 
+                      len(results['aberrant_values']) + 
+                      len(results['pattern_errors']))
+        
+        accuracy = ((total_cells - error_cells) / total_cells * 100) if total_cells > 0 else 0
+        
+        return {
+            'total_cells': total_cells,
+            'exact_matches': len(results['exact_matches']),
+            'error_cells': error_cells,
+            'accuracy_percentage': accuracy,
+            'false_values_count': len(results['false_values']),
+            'aberrant_values_count': len(results['aberrant_values']),
+            'pattern_errors_count': len(results['pattern_errors'])
+        }
+    
+    def _log_comparison_summary(self, results: Dict[str, List], stats: Dict[str, Any]) -> None:
+        """
+        Log comparison summary.
+        
+        Args:
+            results: Comparison results
+            stats: Statistics dictionary
+        """
+        logging.info(f"[QUALITY] Exact matches: {stats['exact_matches']} cells")
+        logging.info(f"[QUALITY] False values: {stats['false_values_count']} cells")
+        logging.info(f"[QUALITY] Aberrant values: {stats['aberrant_values_count']} cells")
+        logging.info(f"[QUALITY] Pattern errors: {stats['pattern_errors_count']} cells")
+        logging.info(f"[QUALITY] Overall accuracy: {stats['accuracy_percentage']:.2f}% "
+                    f"({stats['error_cells']}/{stats['total_cells']} errors)")
+    
+    def _generate_detailed_report(self, results: Dict[str, List]) -> None:
+        """
+        Generate detailed CSV report of comparison results.
+        
+        Args:
+            results: Comparison results
+        """
+        try:
+            report_rows = []
+            
+            # Add exact matches
+            for row, col, val in results['exact_matches']:
+                report_rows.append({
+                    'type': 'exact',
+                    'row': row,
+                    'col': col,
+                    'extracted': val,
+                    'reference': val,
+                    'mean': None,
+                    'std': None
+                })
+            
+            # Add false values
+            for row, col, ext_val, ref_val in results['false_values']:
+                report_rows.append({
+                    'type': 'false',
+                    'row': row,
+                    'col': col,
+                    'extracted': ext_val,
+                    'reference': ref_val,
+                    'mean': None,
+                    'std': None
+                })
+            
+            # Add aberrant values
+            for row, col, ext_val, ref_val, mean, std in results['aberrant_values']:
+                report_rows.append({
+                    'type': 'aberrant',
+                    'row': row,
+                    'col': col,
+                    'extracted': ext_val,
+                    'reference': ref_val,
+                    'mean': mean,
+                    'std': std
+                })
+            
+            # Add pattern errors
+            for row, col, ext_val, ref_val in results['pattern_errors']:
+                report_rows.append({
+                    'type': 'pattern',
+                    'row': row,
+                    'col': col,
+                    'extracted': ext_val,
+                    'reference': ref_val,
+                    'mean': None,
+                    'std': None
+                })
+            
+            # Save to CSV
+            df_report = pd.DataFrame(report_rows)
+            report_file = "test_report.csv"
+            df_report.to_csv(report_file, index=False)
+            logging.info(f"[QUALITY] Detailed report generated: {report_file}")
+            
+        except Exception as e:
+            logging.error(f"Error generating detailed report: {e}")
+
+
+class ValidationMetrics:
+    """Provides validation metrics for OCR results."""
+    
+    @staticmethod
+    def assess_row_count(actual_rows: int, expected_range: Tuple[int, int] = (45, 55)) -> bool:
+        """
+        Assess if row count is within expected range.
+        
+        Args:
+            actual_rows: Actual number of rows detected
+            expected_range: Tuple of (min, max) expected rows
+            
+        Returns:
+            True if row count is acceptable
+        """
+        min_rows, max_rows = expected_range
+        is_valid = min_rows <= actual_rows <= max_rows
+        
+        logging.info(f"[VALIDATION] Rows detected: {actual_rows} (expected: {min_rows}-{max_rows})")
+        
+        if not is_valid:
+            logging.warning("[VALIDATION] Row count outside expected range - "
+                          "consider adjusting tolerance or crop parameters")
+        
+        return is_valid
+    
+    @staticmethod
+    def assess_column_detection(centers: List[float], expected_columns: int = None) -> bool:
+        """
+        Assess column detection quality.
+        
+        Args:
+            centers: List of detected column centers
+            expected_columns: Expected number of columns
+            
+        Returns:
+            True if column detection is acceptable
+        """
+        detected_columns = len(centers)
+        
+        logging.info(f"[VALIDATION] Columns detected: {detected_columns}")
+        logging.debug(f"[VALIDATION] Column centers: {centers}")
+        
+        if expected_columns:
+            is_valid = detected_columns == expected_columns
+            if not is_valid:
+                logging.warning(f"[VALIDATION] Expected {expected_columns} columns, "
+                              f"but detected {detected_columns}")
+            return is_valid
+        
+        # Basic validation - at least 2 columns expected for medical tables
+        return detected_columns >= 2

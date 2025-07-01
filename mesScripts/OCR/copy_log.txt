@@ -1,0 +1,3908 @@
+=== LOG DE COPIE DES DOSSIERS ===
+Date: 2025-06-25 14:50:55
+Fichier source: resultats_analyse_gemini.txt
+Dossier images: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images
+Action: Copie (dossiers originaux conservés)
+============================================================
+
+ORIGINAL: ABLATIONDESVARICES (conservé)
+COPIE: Ablation des varices (+2 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Ablation des varices
+  - Chirurgie des carotides
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: ANSUFFISANCECARDIAQUE (conservé)
+COPIE: CHU - Hôpital Rangueil, Toulouse (31) (+40 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CHU, Bordeaux (33)
+  - CHU, Nancy (54)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU Nantes, Nantes/Saint-Herblain (44)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU, Poitiers (86)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - HCL - Hôpital Louis-Pradel, Bron (69)
+  - CH, La Roche-sur-Yon (85)
+  - CHU, Dijon (21)
+  - CH, Saint-Nazaire (44)
+  - CHU, Angers (49)
+  - CH, Libourne (33)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CH, Valenciennes (59)
+  - CHU, Lille (59)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU, Tours (37)
+  - CHU, Nîmes (30)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CH, Cherbourg-Octeville (50)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - CH, Argenteuil (95)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - CH, Pau (64)
+  - CH, Chartres (28)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CH, Vannes (56)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - CH, Chambéry (73)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: APPENDICITE (conservé)
+COPIE: HÔPITAUX (+2 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - HÔPITAUX
+  - CLINIQUES
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: APPENDICITE_1 (conservé)
+COPIE: Hôpital Saint-Antoine, Paris (75) (+50 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital Saint-Antoine, Paris (75)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CH, Annecy (74)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CH, Vannes (56)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CH, Versailles (78)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - CH, Avignon (84)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CHU, Nîmes (30)
+  - HCL - Hôpital Femme-mère-enfant*, Bron (69)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - Hôpitaux civils, Colmar (68)
+  - CHI, Créteil (94)
+  - CH, Saint-Brieuc (22)
+  - CHU, Besançon (25)
+  - CHU, Angers (49)
+  - Clinique mutualiste de l'Estuaire, Saint-Nazaire (44)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CH, Bayonne (64)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - CHU, Orléans (45)
+  - Hôpital Nord Franche-Comté-Belfort, Trévenans (90)
+  - Hôpital Trousseau*, Paris (75)
+  - CH, Villefranche-sur-Saône (69)
+  - CH, La Roche-sur-Yon (85)
+  - Hôpital Saint-Camille, Bry-sur-Marne (94)
+  - CHI, Toulon (83)
+  - CHI, Quimper (29)
+  - CH, Angoulême (16)
+  - CHI, Lorient (56)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôpital Bichat, Paris (75)
+  - Hôpitaux pédiatriques*, Nice (06)
+  - CHU, Poitiers (86)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CH, Roubaix (59)
+  - CH, Pontoise (95)
+  - GH Nord-Essonne, Longjumeau (91)
+  - CH, Valenciennes (59)
+  - CH, Chambéry (73)
+  - CH, Valence (26)
+  - CH, Le Mans (72)
+  - CHU Amiens-Picardie, Salouël (80)
+  - Hôpital Lariboisière, Paris (75)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpitaux Mère-enfants, Toulouse (31)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: ARTHROSEDELAMAIN (conservé)
+COPIE: Chirurgie de l'épaule (+2 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Chirurgie de l'épaule
+  - Arthrose de la main
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: ARTHROSEDELAMAIN_1 (conservé)
+COPIE: Clinique de la Miséricorde, Caen (14) (+59 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Clinique de la Miséricorde, Caen (14)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - Hôpital Albert-Schweitzer, Colmar (68)
+  - CH, Saint-Quentin (02)
+  - CHU - Centre chirurgical Émile-Gallé, Nancy (54)
+  - CH/Clinique, Charleville-Mézières (08)
+  - CH, Valenciennes (59)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - Hôpital Saint-Antoine, Paris (75)
+  - Hôpital Belle-Isle, Metz (57)
+  - CH, La Roche-sur-Yon (85)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - Clinique du Ter, Ploemeur (56)
+  - Hôpital européen, Marseille (13)
+  - CH, Villefranche-sur-Saône (69)
+  - Hôpital de la Croix-Saint-Simon, Paris (75)
+  - CHU, Nîmes (30)
+  - GH, Mulhouse (68)
+  - CHI, Pontarlier (25)
+  - CH, Chalon-sur-Saône (71)
+  - GH mutualiste, Grenoble (38)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CH, Rodez (12)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - Pôle santé Oréliance, Saran (45)
+  - Centre de la main d'Angers, Trélazé (49)
+  - Clinique Lille-Sud, Lesquin (59)
+  - Polyclinique de Courlancy, Reims (51)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Clinique du Pré, Le Mans (72)
+  - Clinique Saint-François, Haguenau (67)
+  - Hôp. privé Paul-d'Égine, Champigny-sur-Marne (94)
+  - Clinique du Diaconat-Roosevelt, Mulhouse (68)
+  - Hôpital privé La Châtaigneraie, Beaumont (63)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Hôpital privé Pays-de-Savoie, Annemasse (74)
+  - Clinique mutualiste catalane, Perpignan (66)
+  - Clinique de l'Yvette, Longjumeau (91)
+  - Clinique Fontvert, Sorgues (84)
+  - Clinique Axium, Aix-en-Provence (13)
+  - Hôpital privé de l'Ouest parisien, Trappes (78)
+  - Hôpital privé Dijon-Bourgogne, Dijon (21)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Clinique Médipôle-Garonne, Toulouse (31)
+  - Hôpital privé Océane, Vannes (56)
+  - Clinique Rhéna, Strasbourg (67)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Polyclinique Saint-Roch, Montpellier (34)
+  - Hôpital privé Saint-Martin, Pessac (33)
+  - Clinique Louis-Pasteur, Essey-lès-Nancy (54)
+  - Clinique Aguilera, Biarritz (64)
+  - Clinique Saint-Léonard, Trélazé (49)
+  - Hôpital privé Cannes-Oxford, Cannes (06)
+  - Médipôle de Savoie, Challes-les-Eaux (73)
+  - Polyclinique Jean-Villar, Bruges (33)
+  - Clinique Jean-le-Bon, Dax (40)
+  - Hôpital privé Nancy-Lorraine, Nancy (54)
+  - Polyclinique Saint-Jean, Cagnes-sur-Mer (06)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: AUDITION (conservé)
+COPIE: Polyclinique de Reims-Bezannes, Bezannes (51) (+60 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Clinique Saint-Augustin, Bordeaux (33)
+  - Hôpital privé Clairval, Marseille (13)
+  - Hôpital privé des Côtes-d'Armor, Plérin (22)
+  - Hôpital privé de la Loire, Saint-Étienne (42)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Clinique Saint-Pierre, Perpignan (66)
+  - Polyclinique du Parc, Saint-Saulve (59)
+  - Clinique Mathilde, Rouen (76)
+  - Clinique de l'Anjou, Angers (49)
+  - Clinique Pasteur-Lanroze, Brest (29)
+  - Clinique de l'Atlantique, Puilboreau (17)
+  - Centre médico-chirurgical du Mans, Le Mans (72)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Médipôle de Savoie, Challes-les-Eaux (73)
+  - Clinique Belharra, Bayonne (64)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Hôpital privé de Provence, Aix-en-Provence (13)
+  - Hôpital privé de la Baie, Avranches (50)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Hôpital Necker-Enfants malades*, Paris (75)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - Fondation Rothschild, Paris (75)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - CHU, Besançon (25)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CHU - Hôtel-Dieu - Hôp. Mère-enfants, Nantes (44)
+  - CHU - Hôp. de Brabois, Vandœuvre-lès-Nancy (54)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - CHU - Hôpital Clocheville*, Tours (37)
+  - CHU - Hôpital Morvan, Brest (29)
+  - CHU, Nîmes (30)
+  - GHICL - Clinique Sainte-Marie, Cambrai (59)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - Hôp. de la Timone (Enfants)/Hôp. Nord, Marseille (13)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - CHU, Dijon (21)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - CHI, Lorient (56)
+  - CHU, Poitiers (86)
+  - HCL - Hôpital Femme-mère-enfant*, Bron (69)
+  - GHICL - Hôpital Saint-Vincent-de-Paul, Lille (59)
+  - CHU, Angers (49)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHI, Créteil (94)
+  - GHSV - Clinique Sainte-Barbe, Strasbourg (67)
+  - Hôpital Robert-Debré*, Paris (75)
+  - CH, Saint-Nazaire (44)
+  - Hôpital Lariboisière, Paris (75)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CALCULSURINAIRES (conservé)
+COPIE: Hôpital Tenon, Paris (75) (+80 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital Tenon, Paris (75)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - Hôpital européen, Marseille (13)
+  - CH, Grasse (06)
+  - CH, Valenciennes (59)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - Hôpitaux civils, Colmar (68)
+  - GH, Seclin (59)
+  - CH, Dax (40)
+  - Hôpital Robert-Schuman, Vantoux (57)
+  - CHU, Nîmes (30)
+  - Clinique mutualiste de l'Estuaire, Saint-Nazaire (44)
+  - Hôp. Nord Franche-Comté-Belfort, Trévenans (90)
+  - Clinique mutualiste de la Porte-de-l'Orient, Lorient (56)
+  - CH, Roubaix (59)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - CH, Villefranche-sur-Saône (69)
+  - CH, Angoulême (16)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU, Angers (49)
+  - GH mutualiste, Grenoble (38)
+  - CH, Le Mans (72)
+  - GHICL - Hôpital Saint-Philibert, Lomme (59)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CH, Chambéry (73)
+  - CH, Annecy (74)
+  - CH/Clinique, Charleville-Mézières (08)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - CH, Vannes (56)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CH, La Roche-sur-Yon (85)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CHU, Orléans (45)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Hôp. privé de Provence, Aix-en-Provence (13)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Hôpital privé d'Antony, Antony (92)
+  - Polycli. Pau-Pyrénées - Site Navarre, Pau (64)
+  - Polycli. Médipôle Saint-Roch, Cabestany (66)
+  - Hôpital privé Saint-François, Desertines (03)
+  - Hôpital privé Beauregard, Marseille (13)
+  - Polycli. Saint-Privat, Boujan-sur-Libron (34)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Pôle santé Oréliance, Saran (45)
+  - Clinique Rhéna, Strasbourg (67)
+  - Clinique Ambroise-Paré, Toulouse (31)
+  - Polycli. de Blois, La Chaussée-Saint-Victor (41)
+  - Clinique Sainte-Clotilde, Sainte-Clotilde (974)
+  - Hôpital privé Nancy-Lorraine, Nancy (54)
+  - Clinique des Cèdres, Cornebarrieu (31)
+  - Clinique Saint-George, Nice (06)
+  - Polycli. Saint-Jean-l'Ermitage, Melun (77)
+  - Clinique de l'Anjou, Angers (49)
+  - Pôle Santé-République, Clermont-Ferrand (63)
+  - Clinique Esquirol-Saint-Hilaire, Agen (47)
+  - Clinique d'Occitanie, Muret (31)
+  - Clinique Rhône-Durance, Avignon (84)
+  - Clinique Toulouse-Lautrec, Albi (81)
+  - Clinique Claude-Bernard, Ermont (95)
+  - Clinique des Ormeaux, Le Havre (76)
+  - Hôpital privé du Vert-Galant, Tremblay-en-France (93)
+  - Polyclinique du Parc, Cholet (49)
+  - Clinique de l'Espérance, Mougins (06)
+  - Polycli. de Limoges - Site Chénieux, Limoges (87)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Clinique Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - Clinique Bon-Secours, Le Puy-en-Velay (43)
+  - Clinique Chantecler, Marseille (13)
+  - Polyclinique La Pergola, Vichy (03)
+  - Clinique des Orchidées, Le Port (974)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Polyclinique Grand-Sud, Nîmes (30)
+  - Polyclinique Saint-Côme, Compiègne (60)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDELAPROSTATE (conservé)
+COPIE: ACTIVITÉ (+10 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - ACTIVITÉ
+  - NOTORIÉTÉ
+  - DURÉE DE SÉJOUR
+  - INDICE DE GRAVITÉ
+  - ULTRASONS
+  - CURIETHÉRAPIE
+  - TRAITEMENTS FOCAUX
+  - ROBOTS CHIRURGICAUX
+  - SUIVI À DOMICILE
+  - NOTE /20
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDELAPROSTATE_1 (conservé)
+COPIE: Clinique Saint-Augustin (+30 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Clinique Saint-Augustin
+  - Clinique urologique Nantes-Atlantis
+  - Hôpital privé de Provence
+  - Clinique Saint-Vincent
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann
+  - Clinique La Croix du Sud
+  - Polyclinique de Reims-Bezannes
+  - Hôpital privé La Louvière
+  - Clinique du Pré
+  - Hôpital privé Saint-Grégoire
+  - Polyclinique Bordeaux-Nord-Aquitaine
+  - Hôpital privé Océane
+  - Hôpital privé Saint-Martin
+  - Clinique de l'Anjou
+  - Hôpital privé La Châtaigneraie
+  - Santé Atlantique
+  - Clinique Rhéna
+  - Clinique Turin
+  - Polyclinique Médipôle Saint-Roch
+  - Hôpital privé Les Franciscaines
+  - Clinique Toulouse-Lautrec
+  - Hôpital privé d'Antony
+  - Clinique Rhône-Durance
+  - Clinique Mathilde
+  - Pôle santé Léonard-de-Vinci
+  - Infirmerie protestante de Lyon
+  - Polyclinique Saint-Jean-l'Ermitage
+  - Clinique du Cèdre
+  - Polyclinique Saint-Privat
+  - Centre médico-chirurgical du Mans
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDELATHYRODE (conservé)
+COPIE: Centre Léon-Bérard (CLCC), Lyon (69) (+42 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Centre Léon-Bérard (CLCC), Lyon (69)
+  - Gustave-Roussy (CLCC), Villejuif (94)
+  - Institut Bergonié (CLCC), Bordeaux (33)
+  - Hôpital Cochin, Paris (75)
+  - Centre Oscar-Lambret (CLCC), Lille (59)
+  - Institut Curie (CLCC), Paris (75)
+  - IUCT Oncopole, Toulouse (31)
+  - CHU - Hôtel-Dieu - Hôp. Mère-enfants, Nantes (44)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - Centre Georges-François-Leclerc (CLCC), Dijon (21)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - Instit. du cancer de Montpellier (CLCC), Montpellier (34)
+  - Institut de cancérologie, Strasbourg (67)
+  - Institut de cancérologie de Lorraine (CLCC), Vandœuvre-lès-Nancy (54)
+  - Centre Jean-Perrin (CLCC), Clermont-Ferrand (63)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - Hôpital de la Conception, Marseille (13)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - Institut universitaire de la face et du cou, Nice (06)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU, Nîmes (30)
+  - Institut Jean-Godinot (CLCC), Reims (51)
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - Institut de cancéro. Strasbourg Europe, Strasbourg (67)
+  - CHU, Poitiers (86)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - CHU, Angers (49)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - Centre François-Baclesse (CLCC), Caen (14)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - Institut Curie (CLCC), Saint-Cloud (92)
+  - Hôpital privé Jean-Mermoz, Lyon (69)
+  - Clinique Turin, Paris (75)
+  - Clinique Rive-Gauche, Toulouse (31)
+  - Clinique Saint-George, Nice (06)
+  - Clinique Belledonne, Saint-Martin-d'Hères (38)
+  - Clinique Mathilde, Rouen (76)
+  - Hôpital privé Saint-Martin, Pessac (33)
+  - Polyclinique du Parc-Drevon, Dijon (21)
+  - Hôpital privé Arras-Les Bonnettes, Arras (62)
+  - Polyclinique Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDELAVESSE (conservé)
+COPIE: Institut mutualiste Montsouris, Paris (75) (+60 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Institut mutualiste Montsouris, Paris (75)
+  - Hôpital Foch, Suresnes (92)
+  - Hôpital Saint-Louis, Paris (75)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - Hôpital Robert-Schuman, Vantoux (57)
+  - Clinique mutualiste de la Porte-de-l'Orient, Lorient (56)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - Hôpital européen, Marseille (13)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CH, Bayonne (64)
+  - Hôpital Tenon, Paris (75)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - CHU, Nîmes (30)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CH, Chambéry (73)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - Hôpitaux civils, Colmar (68)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CH, La Roche-sur-Yon (85)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CH, Dax (40)
+  - CH, Valenciennes (59)
+  - Clinique mutualiste de l'Estuaire, Saint-Nazaire (44)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CH, Brive-la-Gaillarde (19)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - Institut Paoli-Calmettes (CLCC), Marseille (13)
+  - CHU Amiens-Picardie, Salouël (80)
+  - GH mutualiste, Grenoble (38)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU, Angers (49)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - Hôpital de la Conception, Marseille (13)
+  - Hôpital Bichat, Paris (75)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - Hôpital Nord Franche-Comté-Belfort, Trévenans (90)
+  - Clinique Saint-Augustin, Bordeaux (33)
+  - Polycli. Médipôle Saint-Roch, Cabestany (66)
+  - Hôp. privé de Provence, Aix-en-Provence (13)
+  - Clinique de l'Espérance, Mougins (06)
+  - Polycli. Pau-Pyrénées - Site Navarre, Pau (64)
+  - Clinique Rhéna, Strasbourg (67)
+  - Hôpital privé Nancy-Lorraine, Nancy (54)
+  - Polyclinique Grand-Sud, Nîmes (30)
+  - Hôpital privé des Côtes-d'Armor, Plérin (22)
+  - Polyclinique de Keraudren, Brest (29)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Clinique Claude-Bernard, Ermont (95)
+  - Polycli. de Limoges - Site Chénieux, Limoges (87)
+  - Clinique Toulouse-Lautrec, Albi (81)
+  - Polycli. Saint-Privat, Boujan-sur-Libron (34)
+  - Clinique de l'Anjou, Angers (49)
+  - Clinique Pasteur, Royan (17)
+  - Hôpital privé La Louvière, Lille (59)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Nouvelle Clinique Bel-Air, Bordeaux (33)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDELOVAIRE (conservé)
+COPIE: Centre Oscar-Lambret (CLCC), Lille (59) (+45 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Centre Oscar-Lambret (CLCC), Lille (59)
+  - Institut Curie (CLCC), Paris (75)
+  - Institut Curie (CLCC), Saint-Cloud (92)
+  - IUCT Oncopole, Toulouse (31)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - Centre Léon-Bérard (CLCC), Lyon (69)
+  - Gustave-Roussy (CLCC), Villejuif (94)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - Institut Paoli-Calmettes (CLCC), Marseille (13)
+  - Institut de cancérologie de l'Ouest - centre René-Gauducheau (CLCC), Saint-Herblain (44)
+  - Centre François-Baclesse (CLCC), Caen (14)
+  - Institut de cancérologie de Lorraine (CLCC), Vandœuvre-lès-Nancy (54)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - Centre Jean-Perrin (CLCC), Clermont-Ferrand (63)
+  - Institut Bergonié (CLCC), Bordeaux (33)
+  - Hôpital Tenon, Paris (75)
+  - Hôpital Lariboisière, Paris (75)
+  - Hôpital de la Croix-Saint-Simon, Paris (75)
+  - Centre Georges-François-Leclerc (CLCC), Dijon (21)
+  - Centre Henri-Becquerel (CLCC), Rouen (76)
+  - CHU, Besançon (25)
+  - CHU - Hôp. Arnaud-de-Villeneuve, Montpellier (34)
+  - Hôpital Cochin, Paris (75)
+  - CHU - Hôpital Mère-enfant, Limoges (87)
+  - Instit. du cancer de Montpellier (CLCC), Montpellier (34)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpital Sud, Rennes (35)
+  - Clinique mutualiste La Sagesse, Rennes (35)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHU - Hôpital d'Estaing, Clermont-Ferrand (63)
+  - Hôpital privé Toulon-Hyères-Saint-Jean, Toulon (83)
+  - Hôpital privé Beauregard, Marseille (13)
+  - Clinique Tivoli-Ducos, Bordeaux (33)
+  - Clinique Belharra, Bayonne (64)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Polyclinique du Parc, Caen (14)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Polyclinique Urbain-V, Avignon (84)
+  - Polyclinique de Limoges - Site Émailleurs-Colombier, Limoges (87)
+  - Clinique Pasteur, Toulouse (31)
+  - Hôpital privé Jean-Mermoz, Lyon (69)
+  - Hôpital privé de l'Estuaire, Le Havre (76)
+  - Clinique Belledonne, Saint-Martin-d'Hères (38)
+  - Hôpital privé Natecia, Lyon (69)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDELPUTERUS (conservé)
+COPIE: Centre Oscar-Lambret (CLCC), Lille (59) (+50 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Centre Oscar-Lambret (CLCC), Lille (59)
+  - IUCT Oncopole, Toulouse (31)
+  - Institut Paoli-Calmettes (CLCC), Marseille (13)
+  - CHU, Besançon (25)
+  - Institut Curie (CLCC), Paris (75)
+  - Gustave-Roussy (CLCC), Villejuif (94)
+  - Centre François-Baclesse (CLCC), Caen (14)
+  - CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - Centre Henri-Becquerel (CLCC), Rouen (76)
+  - Hôpital Nord Franche-Comté-Belfort, Trévenans (90)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - Clinique mutualiste La Sagesse, Rennes (35)
+  - CHU - Hôpital Mère-enfant, Limoges (87)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital Jeanne-de-Flandre, Lille (59)
+  - Institut Bergonié (CLCC), Bordeaux (33)
+  - CHU, Dijon (21)
+  - Centre Jean-Perrin (CLCC), Clermont-Ferrand (63)
+  - Centre Léon-Bérard (CLCC), Lyon (69)
+  - Institut Curie (CLCC), Saint-Cloud (92)
+  - CHR Metz-Thionville - Hôpital Bel-Air, Thionville (57)
+  - Institut de cancérologie de Lorraine (CLCC), Vandœuvre-lès-Nancy (54)
+  - Clinique Sainte-Anne, Strasbourg (67)
+  - CHU Guadeloupe-Pointe-à-Pitre, Les Abymes (971)
+  - CHU - Hôpital Sud, Rennes (35)
+  - Hôpital de la Conception, Marseille (13)
+  - CHU, Orléans (45)
+  - CHI, Lorient (56)
+  - CH, Valenciennes (59)
+  - Institut du cancer de Montpellier (CLCC), Montpellier (34)
+  - Institut de cancérologie de l'Ouest - centre René-Gauducheau (CLCC), Saint-Herblain (44)
+  - CHU - Maternité, Nancy (54)
+  - CH, La Roche-sur-Yon (85)
+  - CH, Le Mans (72)
+  - Hôpital Cochin, Paris (75)
+  - CHU Réunion - Site Sud, Saint-Pierre (974)
+  - CH, Pau (64)
+  - CHI, Créteil (94)
+  - Hôpitaux civils, Colmar (68)
+  - Hôpital Tenon, Paris (75)
+  - CH, Vannes (56)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - Hôpital Bichat, Paris (75)
+  - CH, Saintes (17)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU Amiens-Picardie, Salouël (80)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDELPUTERUS_1 (conservé)
+COPIE: Hôpital privé Geoffroy-Saint-Hilaire, Paris (75) (+30 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital privé Geoffroy-Saint-Hilaire, Paris (75)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Centre Clinical, Soyaux (16)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Clinique Rive-Gauche, Toulouse (31)
+  - Clinique Tivoli-Ducos, Bordeaux (33)
+  - Clinique des Cèdres, Cornebarrieu (31)
+  - Polyclinique Urbain-V, Avignon (84)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Clinique Pasteur, Toulouse (31)
+  - Hôpital privé Beauregard, Marseille (13)
+  - Pôle santé Léonard-de-Vinci, Chambray-lès-Tours (37)
+  - Polyclinique Pau-Pyrénées - Site Navarre, Pau (64)
+  - Hôpital privé La Châtaigneraie, Beaumont (63)
+  - Clinique Clémentville, Montpellier (34)
+  - Clinique Victor-Pauchet, Amiens (80)
+  - Hôpital-clinique Claude-Bernard, Metz (57)
+  - Clinique du Tertre-Rouge, Le Mans (72)
+  - Hôpital privé Le Bois, Lille (59)
+  - Clinique du Fief-de-Grimoire, Poitiers (86)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Clinique Sainte-Clotilde, Sainte-Clotilde (974)
+  - Hôpital privé Drôme-Ardèche, Guilherand-Granges (07)
+  - Hôpital privé d'Antony, Antony (92)
+  - Clinique Ambroise-Paré, Toulouse (31)
+  - Polyclinique de l'Ormeau - Site Centre, Tarbes (65)
+  - Clinique Saint-Pierre, Perpignan (66)
+  - Clinique de l'Europe, Rouen (76)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDUCOLONOUDELINTESTIN (conservé)
+COPIE: Hôpital Saint-Antoine, Paris (75) (+40 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital Saint-Antoine, Paris (75)
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - Institut Paoli-Calmettes (CLCC), Marseille (13)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - CHU, Besançon (25)
+  - Hôpital Nord Franche-Comté-Belfort, Trévenans (90)
+  - Hôpital européen, Marseille (13)
+  - CH, La Roche-sur-Yon (85)
+  - CHU, Nîmes (30)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU, Angers (49)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - CHU, Dijon (21)
+  - CHU - Hôpital de la Croix-Saint-Simon, Paris (75)
+  - CHU - Hôpital d'Estaing, Clermont-Ferrand (63)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CHU, Poitiers (86)
+  - Hôpital Robert-Schuman, Vantoux (57)
+  - CH, Angoulême (16)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - Hôpital Saint-Louis, Paris (75)
+  - CH, Vannes (56)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - Gustave-Roussy (CLCC), Villejuif (94)
+  - Hôpitaux civils, Colmar (68)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CH, Annecy (74)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CHU, Orléans (45)
+  - Institut de cancérologie de l'Ouest - centre René-Gauducheau (CLCC), Saint-Herblain (44)
+  - Institut du cancer de Montpellier (CLCC), Montpellier (34)
+  - Hôpital Beaujon, Clichy (92)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - Hôpital Foch, Suresnes (92)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDUPANCRAS (conservé)
+COPIE: CANCER DE L'ESTOMAC OU DE L'ESOPHAGE (+2 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CANCER DE L'ESTOMAC OU DE L'ESOPHAGE
+  - CANCER DU PANCRÉAS
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDUPOUMON (conservé)
+COPIE: ACTIVITÉ (+11 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - ACTIVITÉ
+  - NOTORIÉTÉ
+  - DURÉE DE SÉJOUR
+  - INDICE DE GRAVITÉ
+  - TECHNICITÉ
+  - ÉVALUATION DE LA MORTALITÉ
+  - RÉANIMATION
+  - ROBOTS CHIRURGICAUX
+  - TOMOTHÉRAPIE/RADIOCHIRURGIE
+  - PET-SCAN
+  - NOTE /20
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDUREIN (conservé)
+COPIE: CHU - Hôpital Pellegrin, Bordeaux (33) (+45 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - Hôpital Foch, Suresnes (92)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - Institut Paoli-Calmettes (CLCC), Marseille (13)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - Hôpitaux civils, Colmar (68)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - CHU, Angers (49)
+  - CHU, Dijon (21)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CHU Amiens-Picardie, Salouël (80)
+  - Hôpital Saint-Louis, Paris (75)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Institut mutualiste Montsouris, Paris (75)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - Clinique Saint-Augustin, Bordeaux (33)
+  - Clinique Rhéna, Strasbourg (67)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Hôp. privé de Provence, Aix-en-Provence (13)
+  - Infirmerie protestante de Lyon, Caluire-et-Cuire (69)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Clinique Rhône-Durance, Avignon (84)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Clinique Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Clinique Toulouse-Lautrec, Albi (81)
+  - Polycli. Médipôle Saint-Roch, Cabestany (66)
+  - Polycli. Saint-Privat, Boujan-sur-Libron (34)
+  - Hôpital privé Nancy-Lorraine, Nancy (54)
+  - Clinique Saint-George, Nice (06)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDUSEIN (conservé)
+COPIE: Institut Curie (CLCC), Paris (75) (+50 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Institut Curie (CLCC), Paris (75)
+  - Institut Curie (CLCC), Saint-Cloud (92)
+  - IUCT Oncopole, Toulouse (31)
+  - Institut Bergonié (CLCC), Bordeaux (33)
+  - Centre François-Baclesse (CLCC), Caen (14)
+  - Institut Paoli-Calmettes (CLCC), Marseille (13)
+  - Institut de cancérologie de l'Ouest - centre René-Gauducheau (CLCC), Saint-Herblain (44)
+  - Gustave-Roussy (CLCC), Villejuif (94)
+  - Centre Léon-Bérard (CLCC), Lyon (69)
+  - Institut du cancer de Montpellier (CLCC), Montpellier (34)
+  - Centre Henri-Becquerel (CLCC), Rouen (76)
+  - Centre Oscar-Lambret (CLCC), Lille (59)
+  - Institut de cancérologie de l'Ouest - centre Paul-Papin (CLCC), Angers (49)
+  - Centre Georges-François-Leclerc (CLCC), Dijon (21)
+  - Institut de cancérologie Strasbourg Europe, Strasbourg (67)
+  - Centre Eugène-Marquis (CLCC), Rennes (35)
+  - Institut Jean-Godinot (CLCC), Reims (51)
+  - Centre Jean-Perrin (CLCC), Clermont-Ferrand (63)
+  - Institut de cancérologie de Lorraine (CLCC), Vandœuvre-lès-Nancy (54)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôpital Saint-Louis, Paris (75)
+  - Centre Antoine-Lacassagne (CLCC), Nice (06)
+  - CHU, Besançon (25)
+  - Hôpital Nord Franche-Comté-Belfort, Trévenans (90)
+  - Hôpitaux civils, Colmar (68)
+  - CHU - Hôpital Morvan, Brest (29)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHI, Lorient (56)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CH, Le Mans (72)
+  - CHU, Nîmes (30)
+  - Hôpital Tenon, Paris (75)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - CHU, Orléans (45)
+  - CH, Valenciennes (59)
+  - CH, La Roche-sur-Yon (85)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - Clinique mutualiste La Sagesse, Rennes (35)
+  - CHU - Hôpital Mère-enfant, Limoges (87)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - GH, Mulhouse (68)
+  - CH, Chambéry (73)
+  - CH, Vannes (56)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CH, Pontoise (95)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - Hôpital de la Croix-Saint-Simon, Paris (75)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CANCERDUSEIN2 (conservé)
+COPIE: Clinique Clémentville (+30 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Clinique Clémentville
+  - Clinique Tivoli-Ducos
+  - Hôpital privé du Confluent
+  - Pôle Santé-République
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann
+  - Hôpital-clinique Claude-Bernard
+  - Hôpital privé Saint-Grégoire
+  - Clinique Saint-Jean-de-Dieu
+  - Hôpital privé des Côtes-d'Armor
+  - Polyclinique Urbain-V
+  - Clinique Belharra
+  - Hôpital privé Le Bois
+  - Clinique Rhéna
+  - Polyclinique de Reims-Bezannes
+  - Clinique Victor-Pauchet
+  - Clinique Saint-Pierre
+  - Pôle santé Léonard-de-Vinci
+  - Clinique de l'Atlantique
+  - Hôpital privé Beauregard
+  - Clinique Bizet
+  - Clinique Pasteur
+  - Clinique Charcot
+  - Hôpital privé Jean-Mermoz
+  - Hôpital privé Drôme-Ardèche
+  - Clinique du Fief-de-Grimoire
+  - Clinique mutualiste de Bretagne-Occidentale
+  - Clinique Belledonne
+  - Hôpital privé Toulon-Hyères-Saint-Jean
+  - Clinique Mathilde
+  - Clinique de l'Espérance
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CHIRURGIECARDIAQUEADULTE (conservé)
+COPIE: Hôp. de la Pitié-Salpêtrière, Paris (75) (+59 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôp. de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôp. Pontchaillou, Rennes (35)
+  - CHU Nantes - Hôpital Nord-Laennec, Saint-Herblain (44)
+  - CHU - Hôp. Rangueil, Toulouse (31)
+  - CHU - Institut cœur-poumon, Lille (59)
+  - CHU - Hôp. Haut-Lévêque, Pessac (33)
+  - Hôpital Bichat, Paris (75)
+  - CHU, Dijon (21)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôp. Charles-Nicolle, Rouen (76)
+  - HCL - Hôp. Louis-Pradel, Bron (69)
+  - CHU, Angers (49)
+  - Hôp. de la Timone (adultes), Marseille (13)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - CH, Annecy (74)
+  - Instit. mutualiste Montsouris, Paris (75)
+  - CHU - Hôp. Dupuytren, Limoges (87)
+  - CHU - Hôp. Nord, Saint-Étienne (42)
+  - CHU Réunion - Site Félix-Guyon, Saint-Denis (974)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CH, Lens* (62)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - CHU, Besançon (25)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU, Poitiers (86)
+  - CHU - Hôp. Robert-Debré, Reims (51)
+  - Centre chirurgical Marie-Lannelongue, Le Plessis-Robinson (92)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHR Metz-Thionville - Hôpital de Mercy, Ars-Laquenexy (57)
+  - GH, Mulhouse (68)
+  - CHU Martinique - Site P. Zobda-Quitman, Fort-de-France (972)
+  - Institut Arnault-Tzanck, Saint-Laurent-du-Var (06)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Hôp. privé Jacques-Cartier, Massy (91)
+  - Hôpital privé Le Bois, Lille (59)
+  - Clinique Saint-Augustin, Bordeaux (33)
+  - Centre cardiologique du Nord, Saint-Denis (93)
+  - Clinique Pasteur, Toulouse (31)
+  - Hôp. privé de Parly-II, Le Chesnay (78)
+  - Clinique de la Sauvegarde, Lyon (69)
+  - Infirmerie protestante de Lyon, Caluire-et-Cuire (69)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Nouvelles Cliniques de Tours, Saint-Cyr-sur-Loire (37)
+  - Clinique du Millénaire, Montpellier (34)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Clinique Saint-Pierre, Perpignan (66)
+  - Hôp.-clinique Claude-Bernard, Metz (57)
+  - Hôpital privé Clairval, Marseille (13)
+  - Hôp. privé Les Franciscaines, Nîmes (30)
+  - Hôpital Necker-Enfants malades, Paris (75)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - Hôpital de la Timone (enfants), Marseille (13)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CHIRURGIEDELACHEVILLE (conservé)
+COPIE: CHU - Hôpital Purpan, Toulouse (31) (+79 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - CHU Grenoble - Site Sud, Échirolles (38)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - GH mutualiste, Grenoble (38)
+  - HCL - Hôp. de la Croix-Rousse, Lyon (69)
+  - Cli. mutualiste de la Porte-de-l'Orient, Lorient (56)
+  - Hôpitaux Sud, Marseille (13)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU - Hôp. de la Côte de Nacre, Caen (14)
+  - Institut Calot, Berck (62)
+  - Hôpital Albert-Schweitzer, Colmar (68)
+  - CH, Pau (64)
+  - CH, Versailles (78)
+  - Cli. mutualiste La Sagesse, Rennes (35)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - Hôpital Ambroise-Paré, Boulogne-Billancourt (92)
+  - CHU - Hôp. de Hautepierre, Strasbourg (67)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CH, Bayonne (64)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CH, La Roche-sur-Yon (85)
+  - Clinique mutualiste, Pessac (33)
+  - Hôpital d'instruction des armées Sainte-Anne, Toulon (83)
+  - CHU - Hôp. Lapeyronie, Montpellier (34)
+  - CHU - Hôp. de la Cavale-Blanche, Brest (29)
+  - CH, Valenciennes (59)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - Hôpital privé Jean-Mermoz, Lyon (69)
+  - Clinique du sport, Mérignac (33)
+  - Clinique du sport, Paris (75)
+  - Cli. Médipôle-Garonne, Toulouse (31)
+  - Clinique Juge, Marseille (13)
+  - Clinique Maussins-Nollet, Paris (75)
+  - Clinique du Cèdre, Bois-Guillaume (76)
+  - Hôp. privé de la Loire, Saint-Étienne (42)
+  - Clinique du Parc, Lyon (69)
+  - Clinique Paris-Lilas, Les Lilas (93)
+  - Clinique des Cèdres, Échirolles (38)
+  - Clinique Saint-Vincent, Besançon (25)
+  - Polyclinique du Parc, Caen (14)
+  - Polyclinique de Courlancy, Reims (51)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Hôpital privé La Louvière, Lille (59)
+  - Clinique Rhéna, Strasbourg (67)
+  - Hôp. privé La Châtaigneraie, Beaumont (63)
+  - Clinique ambulatoire de Domont, Ézanville (95)
+  - Clinique Saint-Léonard, Trélazé (49)
+  - Clinique d'Argonay, Argonay (74)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Clinique de la Sauvegarde, Lyon (69)
+  - Clinique des Cèdres, Cornebarrieu (31)
+  - Polycli. Saint-Laurent, Rennes (35)
+  - Clinique Arago, Paris (75)
+  - Cli. du Croisé-Laroche, Marcq-en-Barœul (59)
+  - Clinique Drouot-Remusat, Paris (75)
+  - Médipôle de Savoie, Challes-les-Eaux (73)
+  - Clinique Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - Hôpital Raymond-Poincaré, Garches (92)
+  - Hôp. Ambroise-Paré, Boulogne-Billancourt (92)
+  - CHU, Angers (49)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - CHU - Centre chirurgical Émile-Gallé, Nancy (54)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CHU, Nîmes (30)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - Hôpital Nord, Marseille (13)
+  - CHU, Dijon (21)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CH, Agen (47)
+  - CHU - Hôpitaux Mère-enfants, Toulouse (31)
+  - CHU Réunion - Site Sud, Saint-Pierre (974)
+  - Hôpital Necker-Enfants malades*, Paris (75)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CHIRURGIEDELACORNEE (conservé)
+COPIE: CH national d'ophtalmologie des Quinze-Vingts, Paris (75) (+30 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CH national d'ophtalmologie des Quinze-Vingts, Paris (75)
+  - Fondation Rothschild, Paris (75)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - OphtalmoPôle, Paris (75)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - CHU - Hôpital Morvan, Brest (29)
+  - CHU, Dijon (21)
+  - CHR Metz-Thionville - Hôpital de Mercy, Ars-Laquenexy (57)
+  - CHU Amiens-Picardie/Institut ophtalmologique de Picardie, Salouël (80)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Polyclinique Saint-Roch, Montpellier (34)
+  - Clinique Juge, Marseille (13)
+  - Nouvelle Clinique Bel-Air, Bordeaux (33)
+  - Clinique Monticelli-Vélodrome, Marseille (13)
+  - Institut ophtalmique de Somain, Somain (59)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Polyclinique Côte-Basque-Sud, Saint-Jean-de-Luz (64)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CHIRURGIEDELARETINE (conservé)
+COPIE: CH national d'ophtalmologie des Quinze-Vingts, Paris (75) (+60 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CH national d'ophtalmologie des Quinze-Vingts, Paris (75)
+  - OphtalmoPôle, Paris (75)
+  - Fondation Rothschild, Paris (75)
+  - CHU, Dijon (21)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - Hôpital Lariboisière, Paris (75)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CH, Lens (62)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CH, Pau (64)
+  - CHU, Poitiers (86)
+  - CHU Amiens-Picardie/Institut ophtalmologique de Picardie, Salouël (80)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - CHI, Créteil (94)
+  - GH, La Rochelle (17)
+  - CHU, Besançon (25)
+  - Hôpital Nord, Marseille (13)
+  - CH, Avignon (84)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Clinique Juge, Marseille (13)
+  - Nouvelle Clinique Bel-Air, Bordeaux (33)
+  - Hôpital privé Geoffroy-Saint-Hilaire, Paris (75)
+  - Polyclinique de Limoges - Site Chénieux, Limoges (87)
+  - Clinique Honoré-Cave, Montauban (82)
+  - Cli. Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - Clinique de l'Anjou, Angers (49)
+  - Clinique Rhéna, Strasbourg (67)
+  - Hôpital privé La Louvière, Lille (59)
+  - Clinique Axium, Aix-en-Provence (13)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Hôpital privé Cannes-Oxford, Cannes (06)
+  - Clinique Delay, Bayonne (64)
+  - Polyclinique Médipôle Saint-Roch, Cabestany (66)
+  - Institut ophtalmique de Somain, Somain (59)
+  - Polyclinique de Courlancy, Reims (51)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Clinique du Parc, Lyon (69)
+  - Clinique Pasteur-Lanroze, Brest (29)
+  - Clinique Ambroise-Paré, Lille (59)
+  - Hôpital privé Océane, Vannes (56)
+  - Polyclinique Saint-Roch, Montpellier (34)
+  - Nouvelle Clinique Bordeaux-Tondu, Bordeaux (33)
+  - Clinique Saint-Michel, Toulon (83)
+  - Clinique Saint-Jean-de-Dieu, Paris (75)
+  - Hôpital-clinique Claude-Bernard, Metz (57)
+  - Clinique Belledonne, Saint-Martin-d'Hères (38)
+  - Clinique Monticelli-Vélodrome, Marseille (13)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CHIRURGIEDELOBESITE (conservé)
+COPIE: Polycli. de Reims-Bezannes, Bezannes (51) (+55 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Polycli. de Reims-Bezannes, Bezannes (51)
+  - Hôpital privé d'Antony, Antony (92)
+  - Clinique de l'Anjou, Angers (49)
+  - Hôp. privé Saint-Grégoire, Saint-Grégoire (35)
+  - Polyclinique de Limoges - Site Chénieux, Limoges (87)
+  - Polyclinique de Keraudren, Brest (29)
+  - Infirmerie protestante de Lyon, Caluire-et-Cuire (69)
+  - Clinique mutualiste de Bretagne-Occidentale, Quimper (29)
+  - Hôp. privé de Provence, Aix-en-Provence (13)
+  - Polyclinique Grand-Sud, Nîmes (30)
+  - Hôpital privé Le Bois, Lille (59)
+  - Polyclinique de Poitiers, Poitiers (86)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Clinique du Millénaire, Montpellier (34)
+  - Clinique du Cèdre, Bois-Guillaume (76)
+  - Clinique Saint-Pierre, Perpignan (66)
+  - Clinique Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - Clinique Belharra, Bayonne (64)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Clinique Tivoli-Ducos, Bordeaux (33)
+  - Polycli. Saint-Privat, Boujan-sur-Libron (34)
+  - Cli. Louis-Pasteur, Essey-lès-Nancy (54)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Hôpital privé Jean-Mermoz, Lyon (69)
+  - Clinique de l'Orangerie, Strasbourg (67)
+  - Polyclinique Saint-Côme, Compiègne (60)
+  - Clinique du Parc, Castelnau-le-Lez (34)
+  - Pôle santé Léonard-de-Vinci, Chambray-lès-Tours (37)
+  - Santé Atlantique, Saint-Herblain (44)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - CHU - Hôpital Saint-Éloi, Montpellier (34)
+  - Hôpital Antoine-Béclère, Clamart (92)
+  - Hôpital Bichat, Paris (75)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital de l'Archet, Nice (06)
+  - CHI, Créteil (94)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - Clinique mutualiste, Pessac (33)
+  - Hôpital européen, Marseille (13)
+  - CHU, Orléans (45)
+  - CHU, Nîmes (30)
+  - Hôpital Avicenne, Bobigny (93)
+  - Institut mutualiste Montsouris, Paris (75)
+  - Hôpital de la Conception, Marseille (13)
+  - CHU, Poitiers (86)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - CH, Valenciennes (59)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - Hôpitaux civils, Colmar (68)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CHIRURGIEDENTAIREETORALEDELENFANTETDELADOLESCENT (conservé)
+COPIE: CHU - Hôpital Pellegrin, Bordeaux (33) (+57 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU, Dijon (21)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - CH, Niort (79)
+  - CHU - Hôpital d'Estaing, Clermont-Ferrand (63)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - CHU, Besançon (25)
+  - Clinique mutualiste de Bonneveine, Marseille (13)
+  - CH, Chambéry (73)
+  - GHICL - Clinique Sainte-Marie, Cambrai (59)
+  - Hôpital européen, Marseille (13)
+  - CH, Saint-Nazaire (44)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - CH, Perpignan (66)
+  - CHU - Hôpital Morvan, Brest (29)
+  - CH, Roanne (42)
+  - GH, Seclin (59)
+  - CH, Angoulême (16)
+  - CH, Cambrai (59)
+  - CHU, Nîmes (30)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CH, Ancenis (44)
+  - Clinique de la Miséricorde, Caen (14)
+  - CHU Martinique - Site Mangot-Vulcin, Le Lamentin (972)
+  - Hôpitaux civils, Colmar (68)
+  - CH, Annecy (74)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Hôpital privé Paris-Essonne Les Charmilles, Arpajon (91)
+  - Clinique de Vitrolles, Vitrolles (13)
+  - Cli. Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Pôle santé Léonard-de-Vinci, Chambray-lès-Tours (37)
+  - Nouvelle Clinique Bordeaux-Tondu, Bordeaux (33)
+  - Clinique Juge, Marseille (13)
+  - Hôpital privé Jean-Mermoz, Lyon (69)
+  - Polyclinique Jean-Villar, Bruges (33)
+  - Clinique Saint-Charles, La Roche-sur-Yon (85)
+  - Clinique Rive-Gauche, Toulouse (31)
+  - Nouvelles Cliniques de Tours, Saint-Cyr-sur-Loire (37)
+  - Clinique Delay, Bayonne (64)
+  - Hôpital privé de Marne-la-Vallée, Bry-sur-Marne (94)
+  - Clinique Chantecler, Marseille (13)
+  - Polyclinique Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - Polyclinique de Poitiers, Poitiers (86)
+  - Nouvelle Clinique Bel-Air, Bordeaux (33)
+  - Hôpital privé La Châtaigneraie, Beaumont (63)
+  - Clinique Axium, Aix-en-Provence (13)
+  - Hôpital privé La Louvière, Lille (59)
+  - Clinique Belledonne, Saint-Martin-d'Hères (38)
+  - Clinique de la Plaine, Clermont-Ferrand (63)
+  - Clinique Saint-François, Haguenau (67)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Hôpital privé Claude-Galien, Quincy-sous-Sénart (91)
+  - Polyclinique de Limoges - Site Émailleurs-Colombier,
+----------------------------------------
+
+ORIGINAL: CHIRURGIEDESCAROTIDES (conservé)
+COPIE: Clinique Louis-Pasteur, Essey-lès-Nancy (54) (+55 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Clinique Louis-Pasteur, Essey-lès-Nancy (54)
+  - Centre cardiologique du Nord, Saint-Denis (93)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Clinique Rhéna, Strasbourg (67)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Hôpital-clinique Claude-Bernard, Metz (57)
+  - Institut Arnault-Tzanck, Saint-Laurent-du-Var (06)
+  - Polyclinique Les Fleurs, Ollioules (83)
+  - Hôp. privé Drôme-Ardèche, Guilherand-Granges (07)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Clinique Pasteur, Toulouse (31)
+  - Clinique Saint-Pierre, Perpignan (66)
+  - Hôpital privé Nancy-Lorraine, Nancy (54)
+  - Clinique du Millénaire, Montpellier (34)
+  - Hôpital privé de Provence, Aix-en-Provence (13)
+  - Clinique Saint-Vincent, Besançon (25)
+  - Infirmerie protestante de Lyon, Caluire-et-Cuire (69)
+  - Hôpital privé Clairval, Marseille (13)
+  - Clinique Saint-Joseph, Trélazé (49)
+  - Clinique Rhône-Durance, Avignon (84)
+  - Clinique Saint-Augustin, Bordeaux (33)
+  - Clinique Belledonne, Saint-Martin-d'Hères (38)
+  - Hôpital privé Les Franciscaines, Nîmes (30)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Hôpital privé Dijon-Bourgogne, Dijon (21)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - HCL - Hôpitaux Édouard-Herriot/Louis-Pradel, Lyon/Bron (69)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - Centre chirurgical Marie-Lannelongue, Le Plessis-Robinson (92)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34)
+  - Clinique mutualiste de la Porte-de-l'Orient, Lorient (56)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU - Institut cœur-poumon, Lille (59)
+  - Hôpital Ambroise-Paré, Boulogne-Billancourt (92)
+  - CHU Nantes - Hôpital Nord-Laennec, Saint-Herblain (44)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU, Dijon (21)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU, Besançon (25)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - CHU, Poitiers (86)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - Institut mutualiste Montsouris, Paris (75)
+  - Hôpital Robert-Schuman, Vantoux (57)
+  - CHU, Angers (49)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CHIRURGIEDUDOSDELADULTE (conservé)
+COPIE: CHU - Hôpital Pellegrin, Bordeaux (33) (+90 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - Hôpitaux civils, Colmar (68)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital central, Nancy (54)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpital Maison-Blanche, Reims (51)
+  - CHU, Dijon (21)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - Hôpital Nord, Marseille (13)
+  - CHU, Poitiers (86)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CH, Annecy (74)
+  - Institut mutualiste Montsouris, Paris (75)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU, Besançon (25)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - HCL - Hôpital Pierre-Wertheimer, Bron (69)
+  - CHU - Hôtel-Dieu,, Nantes (44)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - Hôpital Beaujon, Clichy (92)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - Hôpital Foch, Suresnes (92)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CH, Valenciennes (59)
+  - Hôpital européen, Marseille (13)
+  - CHU, Angers (49)
+  - CHU, Nîmes (30)
+  - CH, Bastia (2B)
+  - CHU Réunion - Site Sud, Saint-Pierre (974)
+  - Fondation Rothschild, Paris (75)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - Institut Calot, Berck (62)
+  - GHICL - Hôpital Saint-Philibert, Lomme (59)
+  - GH mutualiste, Grenoble (38)
+  - Clinique mutualiste de la Porte-de-l'Orient, Lorient (56)
+  - CHU de Martinique, Fort-de-France (972)
+  - Hôpital d'instruction des armées Sainte-Anne, Toulon (83)
+  - Hôpital Lariboisière, Paris (75)
+  - Hôpital privé Saint-Martin, Pessac (33)
+  - Hôpital privé Clairval, Marseille (13)
+  - Hôpital privé Les Franciscaines, Versailles (78)
+  - Clinique du Parc, Castelnau-le-Lez (34)
+  - Clinique du Pré, Le Mans (72)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Clinique du Millénaire, Montpellier (34)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Clinique des Cèdres, Cornebarrieu (31)
+  - Polycli. Pau-Pyrénées - Site Navarre, Pau (64)
+  - Clinique Belharra, Bayonne (64)
+  - Hôpital privé Dijon-Bourgogne, Dijon (21)
+  - Hôpital privé Sévigné, Cesson-Sévigné (35)
+  - Clinique Saint-Léonard, Trélazé (49)
+  - Clinique Charcot, Sainte-Foy-lès-Lyon (69)
+  - Hôpital privé Le Bois, Lille (59)
+  - Hôpital privé de la Loire, Saint-Étienne (42)
+  - Polyclinique Francheville, Périgueux (24)
+  - Hôpital privé Les Franciscaines, Nîmes (30)
+  - Polyclinique Jean-Villar, Bruges (33)
+  - Polyclinique Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Clinique Rhéna, Strasbourg (67)
+  - Polyclinique Majorelle, Nancy (54)
+  - Hôpital privé Jean-Mermoz, Lyon (69)
+  - Hôp. privé Saint-Grégoire, Saint-Grégoire (35)
+  - Clinique Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Hôpital privé Geoffroy-Saint-Hilaire, Paris (75)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Clinique Saint-Vincent, Besançon (25)
+  - Clinique Victor-Pauchet, Amiens (80)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Clinique d'Argonay, Argonay (74)
+  - Pôle santé Oréliance, Saran (45)
+  - Clinique de la Sauvegarde, Lyon (69)
+  - Clinique de l'Atlantique, Puilboreau (17)
+  - Polyclinique de Courlancy, Reims (51)
+  - Clinique Bretéché, Nantes (44)
+  - Clinique du Parc, Lyon (69)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CHIRURGIEDUNEZETDESSINUS (conservé)
+COPIE: Hôpital privé de Marne-la-Vallée (+93 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital privé de Marne-la-Vallée
+  - Clinique mutualiste Jules-Verne
+  - Hôpital privé Paris-Essonne Les Charmilles
+  - Santé Atlantique
+  - Clinique de Vitrolles
+  - Hôpital privé Jean-Mermoz
+  - Clinique Saint-Jean-Sud-de-France
+  - Hôpital privé d'Antony
+  - Clinique Axium
+  - Clinique Belledonne
+  - Hôpital privé La Châtaigneraie
+  - Polyclinique de Reims-Bezannes
+  - Clinique Delay
+  - Hôpital privé La Louvière
+  - Clinique Rive-Gauche
+  - Clinique Saint-André
+  - Hôpital privé du Confluent
+  - Clinique Juge
+  - Nouvelle Clinique Bordeaux-Tondu
+  - Nouvelles Cliniques de Tours
+  - CHU - Hôpital Claude-Huriez
+  - CHU - Hôpital Pellegrin
+  - GHSV - Clinique Sainte-Barbe
+  - CHU - Hôpital Gui-de-Chauliac
+  - Hôpital Paris Saint-Joseph
+  - Institut universitaire de la face et du cou
+  - CHU - Hôp. de Brabois
+  - Fondation Rothschild
+  - CHU - Hôpital Larrey
+  - HCL - Édouard-Herriot
+  - Hôpital Lariboisière
+  - CHI, Créteil
+  - Hôpital de la Conception
+  - Hôpital Robert-Schuman
+  - CHU - Hôpital de la Côte de Nacre
+  - Hôpital Necker-Enfants malades
+  - CHU - Hôpital de Hautepierre
+  - Hôpital de la Pitié-Salpêtrière
+  - HCL - Hôpital de la Croix-Rousse
+  - CHU, Nîmes
+  - Hôpital européen
+  - HCL - Hôpital Lyon-Sud
+  - CHU, Besançon
+  - CHI, Eaubonne-Montmorency
+  - CH, Pontoise
+  - Hôpital Bicêtre
+  - CHR Metz-Thionville - Hôpital de Mercy
+  - Hôpitaux civils
+  - Hôpital Saint-Joseph
+  - CH, Vannes
+  - Hôpital Bichat
+  - Hôpital Albert-Schweitzer
+  - Clinique mutualiste La Sagesse
+  - CH, Le Puy-en-Velay
+  - Hôpital européen Georges-Pompidou
+  - CHU - Hôpital Nord
+  - CHU, Dijon
+  - CH, Annecy
+  - CHU - Hôtel-Dieu - Hôp. Mère-enfants
+  - CHU - Hôpital Dupuytren
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann
+  - Institut Arthur-Vernes
+  - Clinique Belharra
+  - Clinique Turin
+  - Polyclinique du Beaujolais
+  - Hôpital privé de la Loire
+  - Clinique Rhéna
+  - Hôpital privé Saint-Grégoire
+  - Clinique du Parc
+  - Clinique de l'Atlantique
+  - Hôpital privé Le Bois
+  - Hôpital privé Clairval
+  - Clinique Ambroise-Paré
+  - Hôp. privé de Villeneuve-d'Ascq
+  - Clinique Médipôle-Garonne
+  - Clinique La Croix du Sud
+  - Hôpital privé Pays-de-Savoie
+  - Clinique de l'Union
+  - Clinique Saint-Augustin
+  - Clinique de l'Espérance
+  - Clinique Paris-Bercy
+  - Clinique Saint-François
+  - Clinique de l'Anjou
+  - Clinique du Trocadéro
+  - Clinique de la Plaine
+  - Clinique des Cèdres
+  - Clinique Jean-Causse
+  - Polyclinique Pau-Pyrénées - Site Navarre
+  - Clinique de la Sauvegarde
+  - Hôpital privé de Provence
+  - Infirmerie protestante de Lyon
+  - Clinique Tivoli-Ducos
+  - Clinique Clémentville
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CHIRURGIEDURECTUM (conservé)
+COPIE: Chirurgie de l’obésité (+2 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Chirurgie de l’obésité
+  - Chirurgie du rectum
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: CHRURGEDUPIED (conservé)
+COPIE: Classement des 336 hôpitaux ayant pratiqué au moins douze actes de chirurgie du pied en 2022. Ci- (+4 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Classement des 336 hôpitaux ayant pratiqué au moins douze actes de chirurgie du pied en 2022. Ci-dessous, les 30 meilleurs.
+  - Classement des 350 cliniques ayant pratiqué au moins douze actes de chirurgie du pied en 2022. Ci-dessous, les 30 meilleures.
+  - Classement des 381 hôpitaux ayant pratiqué au moins douze actes de chirurgie de la cheville en 2022. Ci-contre, les 30 meilleurs.
+  - Classement des 238 cliniques ayant pratiqué au moins douze actes de chirurgie de la cheville en 2022. Ci-dessous, les 25 meilleures.
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: DEPRESSION (conservé)
+COPIE: Hôpital Henri-Mondor, Créteil (94) (+45 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CH Le Vinatier, Bron (69)
+  - CHU, Brest (29)
+  - CH Charles-Perrens, Bordeaux (33)
+  - GHU Paris Psychiatrie et neurosciences, Paris (75)
+  - CH La Chartreuse, Dijon (21)
+  - EPSM Lille-Métropole, Armentières (59)
+  - CHU, Lille (59)
+  - CHU, Clermont-Ferrand (63)
+  - CH du Rouvray, Sotteville-lès-Rouen (76)
+  - CHU, Dijon (21)
+  - EPS Ville-Évrard, Neuilly-sur-Marne (93)
+  - CH Esquirol, Limoges (87)
+  - CH Guillaume-Régnier, Rennes (35)
+  - CH, Lannemezan (65)
+  - CHU, Toulouse (31)
+  - CH Henri-Laborit, Poitiers (86)
+  - CHU, Besançon (25)
+  - GH Paul Guiraud, Villejuif (94)
+  - CH, Le Havre (76)
+  - CHU, Montpellier (34)
+  - CH George-Sand, Bourges (18)
+  - CHU, Tours (37)
+  - Hôpitaux Sud, Marseille (13)
+  - CH Montperrin, Aix-en-Provence (13)
+  - EPSM de Saône-et-Loire, Sevrey (71)
+  - Centre psychothérapique de l'Ain, Bourg-en-Bresse (01)
+  - CH des Pyrénées, Pau (64)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CHU, Nantes (44)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - Nouvel Hôpital de Navarre, Évreux (27)
+  - CHU, Nîmes (30)
+  - Hôpital Louis-Mourier, Colombes (92)
+  - Hôpitaux de Saint-Maurice, Saint-Maurice (94)
+  - EPSM de la Marne, Châlons-en-Champagne (51)
+  - CH, Arras (62)
+  - CH Drôme Vivarais, Montéléger (26)
+  - Centre psychothérapique de Nancy, Laxou (54)
+  - CH de Vauclaire, Montpon-Ménestérol (24)
+  - EPS Barthélemy-Durand, Étampes (91)
+  - EPSM Morbihan, Saint-Avé (56)
+  - EPS Alsace-Nord, Brumath (67)
+  - CH, Rouffach (68)
+  - Hôpital Lariboisière-Fernand-Widal, Paris (75)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: DIABETEDELADULTE (conservé)
+COPIE: CHU - Hôpital Rangueil, Toulouse (31) (+40 autres) (1)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - Hôpital Lariboisière, Paris (75)
+  - CHU, Nîmes (30)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CHU, Dijon (21)
+  - Hôpital Cochin, Paris (75)
+  - CH, Roubaix (59)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - Hôtel-Dieu, Le Creusot (71)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - Hôpital Bichat, Paris (75)
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - Hôpital Avicenne, Bobigny (93)
+  - Hôpital de la Conception, Marseille (13)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CH, Le Havre (76)
+  - CH, Avignon (84)
+  - CH/Clinique, Charleville-Mézières (08)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - HCL - Hôpital Louis-Pradel, Bron (69)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - CH, Chambéry (73)
+  - CH, Béthune (62)
+  - Hôpitaux civils, Colmar (68)
+  - CHU - Hôpital Sud, Rennes (35)
+  - CH, Valenciennes (59)
+  - CHU Nantes - Hôpital Nord-Laennec, Saint-Herblain (44)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHI, Eaubonne-Montmorency (95)
+  - CH, La Roche-sur-Yon (85)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU, Besançon (25)
+  - Hôpital Saint-Antoine, Paris (75)
+  - CHU Amiens-Picardie - Site Nord, Amiens (80)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: DIABETEDELENFANTETDELADOLESCENT (conservé)
+COPIE: Hôpital Robert-Debré, Paris (75) (+35 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital Robert-Debré, Paris (75)
+  - Hôpital Necker-Enfants malades, Paris (75)
+  - CHU - Hôpital Sud, Rennes (35)
+  - CHU, Dijon (21)
+  - HCL - Hôpital Femme-mère-enfant, Bron (69)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CHU, Angers (49)
+  - CH, Chambéry (73)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CH, Perpignan (66)
+  - GHICL - Hôpital Saint-Vincent-de-Paul, Lille (59)
+  - Hôpital de la Timone (Enfants), Marseille (13)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - American Memorial Hospital, Reims (51)
+  - CHU - Hôpitaux Mère-enfants, Toulouse (31)
+  - CHU, Besançon (25)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - GH, Mulhouse (68)
+  - CH, Corbeil-Essonnes (91)
+  - Hôpital Jean-Verdier, Bondy (93)
+  - CH, Troyes (10)
+  - CH, Avignon (84)
+  - Hôpital Louis-Mourier, Colombes (92)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CH, Le Havre (76)
+  - CH, Brive-la-Gaillarde (19)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CH, Saint-Brieuc (22)
+  - CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34)
+  - Hôpitaux pédiatriques, Nice (06)
+  - CHU - Hôpital Jeanne-de-Flandre, Lille (59)
+  - CH, Argenteuil (95)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: ENDOMETRIOSE (conservé)
+COPIE: CHU - Hôpital Jeanne-de-Flandre, Lille (59) (+35 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Jeanne-de-Flandre, Lille (59)
+  - CHU - Hôpital d'Estaing, Clermont-Ferrand (63)
+  - Hôpital Tenon, Paris (75)
+  - CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34)
+  - CHU - Hôpitaux Mère-enfants, Toulouse (31)
+  - Clinique mutualiste La Sagesse, Rennes (35)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CHU, Angers (49)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CHU, Dijon (21)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital Sud, Rennes (35)
+  - Hôpital Cochin, Paris (75)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - CH, Valenciennes (59)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHU, Besançon (25)
+  - CHU Amiens-Picardie, Salouël (80)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - Clinique Tivoli-Ducos, Bordeaux (33)
+  - Clinique Axium, Aix-en-Provence (13)
+  - Clinique Bouchard, Marseille (13)
+  - Polyclinique Urbain-V, Avignon (84)
+  - Clinique Mathilde, Rouen (76)
+  - Clinique Pasteur, Toulouse (31)
+  - Hôpital privé Natecia, Lyon (69)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Polyclinique Saint-Roch, Montpellier (34)
+  - Hôpital privé de Provence, Aix-en-Provence (13)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Clinique Belledonne, Saint-Martin-d'Hères (38)
+  - Hôpital privé Le Bois, Lille (59)
+  - Santé Atlantique, Saint-Herblain (44)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: FIBROMEUTRIN (conservé)
+COPIE: Hôpital Cochin, Paris (75) (+100 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital Cochin, Paris (75)
+  - CHU - Hôpital d'Estaing, Clermont-Ferrand (63)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôpital Foch, Suresnes (92)
+  - Hôpital Bichat, Paris (75)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - Hôpital Lariboisière, Paris (75)
+  - CHU - Hôtel-Dieu - Hôp. Mère-enfants, Nantes (44)
+  - Institut mutualiste Montsouris, Paris (75)
+  - CHU - Hôpital Jeanne-de-Flandre, Lille (59)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - Clinique mutualiste La Sagesse, Rennes (35)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Hôpital de la Croix-Saint-Simon, Paris (75)
+  - Hôpital de la Conception, Marseille (13)
+  - CHU, Dijon (21)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - CHU Amiens-Picardie, Salouël (80)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - Hôp. Nord Franche-Comté-Belfort, Trévenans (90)
+  - CHU - Maternité, Nancy (54)
+  - CHU - Hôp. Arnaud-de-Villeneuve, Montpellier (34)
+  - GH, Mulhouse (68)
+  - CHI, Créteil (94)
+  - CHU - Hôpitaux Mère-enfants, Toulouse (31)
+  - CH, Saint-Nazaire (44)
+  - Hôpital Antoine-Béclère, Clamart (92)
+  - Hôpital Tenon, Paris (75)
+  - CHI, Lorient (56)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CHU Strasbourg - CMCO, Schiltigheim (67)
+  - HCL - Hôpital Femme-mère-enfant, Bron (69)
+  - CH, Annecy (74)
+  - CHU Martinique - Site Mère-enfant, Fort-de-France (972)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU, Angers (49)
+  - CHU Guadeloupe-Pointe-à-Pitre, Les Abymes (971)
+  - CH, Saint-Denis (93)
+  - CH Basse-Terre, Guadeloupe (971)
+  - CHU Réunion - Site Sud, Saint-Pierre (974)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - Hôpital européen, Marseille (13)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - GHICL - Hôpital Saint-Vincent-de-Paul, Lille (59)
+  - CHU - Hôpital Sud, Rennes (35)
+  - Clinique Sainte-Anne, Strasbourg (67)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - Hôp. franco-britannique Kléber, Levallois-Perret (92)
+  - Clinique Tivoli-Ducos, Bordeaux (33)
+  - Hôpital privé Beauregard, Marseille (13)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Hôpital privé Le Bois, Lille (59)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Clinique Mathilde, Rouen (76)
+  - Cli. internationale du Parc-Monceau, Paris (75)
+  - Polyclinique du Parc, Caen (14)
+  - Hôpital privé de Provence, Aix-en-Provence (13)
+  - Polyclinique Santa-Maria, Nice (06)
+  - Clinique Saint-Jean-de-Dieu, Paris (75)
+  - Clinique des Cèdres, Cornebarrieu (31)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Clinique Saint-Paul, Fort-de-France (972)
+  - Polyclinique Jean-Villar, Bruges (33)
+  - Polyclinique Majorelle, Nancy (54)
+  - Centre Clinical, Soyaux (16)
+  - Hôpital privé Natecia, Lyon (69)
+  - Pôle santé Oréliance, Saran (45)
+  - Hôpital privé Geoffroy-Saint-Hilaire, Paris (75)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Clinique de la Muette, Paris (75)
+  - Clinique Rive-Gauche, Toulouse (31)
+  - Hôpital privé Nord-Parisien, Sarcelles (95)
+  - Hôpital privé d'Antony, Antony (92)
+  - Polycli. de Limoges - Site Émailleurs-Colombier, Limoges (87)
+  - Hôpital privé Jean-Mermoz, Lyon (69)
+  - Hôpital privé Pays-de-Savoie, Annemasse (74)
+  - Hôpital privé La Châtaigneraie, Beaumont (63)
+  - Hôp. privé Paul-d'Égine, Champigny-sur-Marne (94)
+  - Clinique de l'Anjou, Angers (49)
+  - Clinique Pasteur, Toulouse (31)
+  - Hôp. privé Toulon-Hyères-Saint-Jean, Toulon (83)
+  - Pôle santé Léonard-de-Vinci, Chambray-lès-Tours (37)
+  - Clinique Belledonne, Saint-Martin-d'Hères (38)
+  - Clinique Les Eaux-Claires, Baie-Mahault (971)
+  - Clinique Belharra, Bayonne (64)
+  - Infirmerie protestante de Lyon, Caluire-et-Cuire (69)
+  - Clinique Victor-Pauchet, Amiens (80)
+  - Clinique de l'Essonne, Évry (91)
+  - Hôpital privé Les Franciscaines, Versailles (78)
+  - Hôp. privé de Villeneuve-d'Ascq, Villeneuve-d'Ascq (59)
+  - Clinique Anne-d'Artois, Béthune (62)
+  - Clinique Sainte-Clotilde, Sainte-Clotilde (974)
+  - Clinique de l'Atlantique, Puilboreau (17)
+  - Polyclinique Saint-Roch, Montpellier (34)
+  - Polyclinique Urbain-V, Avignon (84)
+  - Clinique Bouchard, Marseille (13)
+  - Polyclinique Grand-Sud, Nîmes (30)
+  - Clinique du Diaconat-Fonderie, Mulhouse (68)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: GLANDESSALIVAIRES (conservé)
+COPIE: Clinique Jean-Causse, Colombiers (34) (+70 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Clinique Jean-Causse, Colombiers (34)
+  - Institut Arthur-Vernes, Paris (75)
+  - Clinique Mathilde*, Rouen (76)
+  - Hôpital privé La Louvière, Lille (59)
+  - Clinique Saint-Augustin, Bordeaux (33)
+  - Clinique Ambroise-Paré, Toulouse (31)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Hôpital privé Clairval, Marseille (13)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Polyclinique de Kério, Pontivy (56)
+  - Pôle santé Oréliance, Saran (45)
+  - Clinique Rive-Gauche*, Toulouse (31)
+  - Clinique de l'Anjou, Angers (49)
+  - Hôpital privé Le Bois, Lille (59)
+  - Clinique Pasteur-Lanroze, Brest (29)
+  - Hôpital privé des Côtes-d'Armor, Plérin (22)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Polyclinique du Parc, Saint-Saulve (59)
+  - Clinique Belledonne*, Saint-Martin-d'Hères (38)
+  - Nouvelles Cli. de Tours, Saint-Cyr-sur-Loire (37)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Clinique Belharra, Bayonne (64)
+  - Hôpital privé de la Loire, Saint-Étienne (42)
+  - Clinique du Val-d'Ouest Vendôme, Écully (69)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Nouvelle Cli. Bordeaux-Tondu, Bordeaux (33)
+  - Clinique de l'Atlantique, Puilboreau (17)
+  - Clinique Médipôle-Garonne, Toulouse (31)
+  - Clinique Saint-Hilaire*, Rouen (76)
+  - CHU - Hôpital Larrey, Toulouse (31)
+  - Hôpital de la Conception, Marseille (13)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CHU - Hôtel-Dieu - Hôp. Mère-enfants, Nantes (44)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CHU, Nîmes (30)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHU - Hôpital Morvan, Brest (29)
+  - CHI, Toulon (83)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU, Dijon (21)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - Hôpital Tenon, Paris (75)
+  - Hôpital Lariboisière, Paris (75)
+  - CH, Perpignan (66)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - CH, Annecy (74)
+  - CHR Metz-Thionville - Hôpital de Mercy, Ars-Laquenexy (57)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - Institut universitaire de la face et du cou, Nice (06)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - Inf. protestante de Lyon, Caluire-et-Cuire (69)
+  - Clinique Paris-Bercy, Charenton-le-Pont (94)
+  - Clinique Mathilde, Rouen (76)
+  - Clinique Clémentville, Montpellier (34)
+  - Polycli. de l'Ormeau - Site Pyrénées, Tarbes (65)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Hôpital privé de Provence, Aix-en-Provence (13)
+  - Clinique des Cèdres, Cornebarrieu (31)
+  - Centre médico-chirurgical du Mans, Le Mans (72)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: HERMIESDELABDOMEN (conservé)
+COPIE: Hôpitaux (+2 autres) (1)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpitaux
+  - Cliniques
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: INFARCTUSDUMYOCARDE (conservé)
+COPIE: CHU - Hôpital Haut-Lévêque, Pessac (33) (+90 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - HCL - Hôpital Louis-Pradel, Bron (69)
+  - CHR Metz-Thionville - Hôpital de Mercy, Ars-Laquenexy (57)
+  - CHU - Institut cœur-poumon, Lille (59)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU, Dijon (21)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34)
+  - CHU Réunion - Site Félix-Guyon, Saint-Denis (974)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - CH, La Roche-sur-Yon (85)
+  - CHU, Besançon (25)
+  - CHU, Nîmes (30)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CH, Brive-la-Gaillarde (19)
+  - CH, Vannes (56)
+  - CH, Chambéry (73)
+  - Grand Hôp. de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CH, Valenciennes (59)
+  - Hôpital de la Croix-Rousse (HCL) / CH, Villefranche-sur-Saône (69)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CH, Avignon (84)
+  - Hôpital Nord Franche-Comté-Belfort, Trévenans (90)
+  - CHU Nantes - Hôpital Nord-Laennec, Saint-Herblain (44)
+  - CHI, Aix-en-Provence (13)
+  - CH, Saint-Brieuc (22)
+  - CH, Lens (62)
+  - CH, Saintes (17)
+  - CHU - Hôp. Charles-Nicolle, Rouen (76)
+  - CH, Annecy (74)
+  - CHU, Angers (49)
+  - CH, Bourges (18)
+  - CHI, Toulon (83)
+  - CH, Valence (26)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - Hôp. européen Georges-Pompidou, Paris (75)
+  - CH, Périgueux (24)
+  - CH, Saint-Nazaire (44)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU, Poitiers (86)
+  - CHU - Hôp. de la Côte de Nacre, Caen (14)
+  - CH Saint-Joseph-Saint-Luc, Lyon (69)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU - Hôp. de la Cavale-Blanche, Brest (29)
+  - CH, Angoulême (16)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Clinique Pasteur, Toulouse (31)
+  - Clinique Saint-Pierre, Perpignan (66)
+  - Clinique du Millénaire, Montpellier (34)
+  - Nouvelles Cli. de Tours, Saint-Cyr-sur-Loire (37)
+  - Clinique Saint-Hilaire, Rouen (76)
+  - Centre de cardiologie du Pays basque, Bayonne (64)
+  - Centre cardiologique du Nord, Saint-Denis (93)
+  - Clinique Claude-Bernard, Albi (81)
+  - Clinique Convert, Bourg-en-Bresse (01)
+  - Polycli. Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - Clinique du Pont-de-Chaume, Montauban (82)
+  - Clinique de la Sauvegarde, Lyon (69)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Hôpital privé Nancy-Lorraine, Nancy (54)
+  - Clinique Esquirol-Saint-Hilaire, Agen (47)
+  - Centre de cardiologie Axium-Rambot, Aix-en-Provence (13)
+  - Clinique Rhône-Durance, Avignon (84)
+  - Pôle santé Oréliance, Saran (45)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Polyclinique Saint-Laurent, Rennes (35)
+  - Hôpital-clinique Claude-Bernard, Metz (57)
+  - Clinique Saint-Joseph, Trélazé (49)
+  - Hôpital privé de Parly-II, Le Chesnay (78)
+  - Clinique du Diaconat-Fonderie, Mulhouse (68)
+  - Hôp. privé de Bois-Bernard, Bois-Bernard (62)
+  - Clinique Sainte-Clotilde, Sainte-Clotilde (974)
+  - Hôpital privé Jacques-Cartier, Massy (91)
+  - Clinique Les Fontaines, Melun (77)
+  - Centre médico-chirurgical du Mans, Le Mans (72)
+  - Centre cardio. d'Évecquemont, Évecquemont (78)
+  - Clinique Belledonne, Saint-Martin-d'Hères (38)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Polyclinique Les Fleurs, Ollioules (83)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Hôpital privé Saint-Martin, Pessac (33)
+  - Clinique du Parc, Castelnau-le-Lez (34)
+  - Hôpital privé Dijon-Bourgogne, Dijon (21)
+  - Euromed Cardio, Marseille (13)
+  - Hôpital privé de l'Estuaire, Le Havre (76)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: MALADIEDEPARKINSON (conservé)
+COPIE: Hôpital de la Timone (adultes), Marseille (13) (+30 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - CHU, Lille (59)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - Fondation Rothschild, Paris (75)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU, Poitiers (86)
+  - CHU - Hôpital central, Nancy (54)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU, Nîmes (30)
+  - HCL - Hôpital Pierre-Wertheimer, Bron (69)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - Hôpitaux civils, Colmar (68)
+  - CHU - Hôpital Maison-Blanche, Reims (51)
+  - CHU, Besançon (25)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU, Dijon (21)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU Nantes - Hôpital Nord-Laennec, Saint-Herblain (44)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CH, Valenciennes (59)
+  - CHU, Angers (49)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CH, Annecy (74)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: MATERNITE (conservé)
+COPIE: ACTIVITÉ (+80 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - ACTIVITÉ
+  - DURÉE DE SÉJOUR
+  - OBSTÉTRICIEN DE GARDE
+  - ANESTHÉSISTE DE GARDE
+  - PÉDIATRE DE GARDE
+  - CÉSARIENNES
+  - PÉRIDURALES
+  - ÉPISIOTOMIES
+  - EXTRACTIONS INSTRUMENTALES
+  - DÉCLENCHEMENTS
+  - AUTOANALGÉSIES
+  - ALLAITEMENT
+  - PSYCHOLOGUE
+  - BLOC OPÉRATOIRE
+  - NÉONATALOGIE
+  - UNITÉ KANGOUROU
+  - UNITÉ DÉMÉDICALISÉE
+  - PRÉSENCE DU PÈRE
+  - CHAMBRES À 1 LIT
+  - CHAMBRES AVEC SDB
+  - SUIVI À DOMICILE
+  - NOTE / 20
+  - ---------------------------------------
+  - Institut mutualiste Montsouris
+  - Hôpital privé Armand-Brillard
+  - Clinique Mathilde
+  - CH Saint-Joseph-Saint-Luc
+  - Clinique Belharra
+  - CH, Valence
+  - Polyclinique Grand-Sud
+  - Hôpital privé La Châtaigneraie
+  - CH, Libourne
+  - Hôpital Lariboisière
+  - Polyclinique du Parc
+  - CH, Mantes-la-Jolie
+  - CHU Strasbourg - CMCO
+  - Clinique Sainte-Anne
+  - Hôpital de la Pitié-Salpêtrière
+  - HCL - Hôpital Lyon-Sud
+  - Hôpital Beaujon
+  - Hôpital franco-britannique Kléber
+  - CH, Tourcoing
+  - Polyclinique Bordeaux-Rive-Droite
+  - CH, Niort
+  - CH, Saint-Quentin
+  - CH/Clinique, Charleville-Mézières
+  - Hôpital Tenon
+  - Hôpital privé de la Loire
+  - Clinique Bouchard
+  - Clinique Clémentville
+  - CH, Angoulême
+  - CH, Cholet
+  - Clinique Ambroise-Paré
+  - CH, Brive-la-Gaillarde
+  - Polyclinique Majorelle
+  - GH mutualiste
+  - Polyclinique Méditérranée
+  - Hôpitaux civils
+  - CHI, Compiègne-Noyon
+  - CH, Dunkerque
+  - CH, Épinal
+  - CH, Saint-Cloud
+  - Clinique Claude-Bernard
+  - Hôpital privé Toulon-Hyères-Saint-Jean
+  - Clinique Belledonne
+  - Hôpital privé Natecia
+  - Hôpital privé de Villeneuve-d'Ascq
+  - Hôpital privé de la Seine-Saint-Denis
+  - Hôpital Bichat
+  - Hôpital privé Le Bois
+  - Clinique du Tertre-Rouge
+  - CH, Saintes
+  - Clinique générale d'Annecy
+  - CH, Saint-Lô
+  - CH, Rodez
+  - Hôpital-clinique Claude-Bernard
+  - Hôpital Jean-Verdier
+  - Clinique Bretéché
+  - CH, Lisieux
+  - Hôpital Novo
+  - Clinique Saint-Vincent-de-Paul
+----------------------------------------
+
+ORIGINAL: MEDECINEVASCULAIRE (conservé)
+COPIE: CHU Grenoble - Site Nord, La Tronche (38) (+35 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - CHU, Dijon (21)
+  - CHU - Hôtel-Dieu, Nantes (44)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CH, Annecy (74)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU - Hôpital Saint-André, Bordeaux (33)
+  - CHU, Poitiers (86)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CH, Valenciennes (59)
+  - CHU, Angers (49)
+  - CH, Le Mans (72)
+  - Hôpitaux civils, Colmar (68)
+  - Hôpital Nord, Marseille (13)
+  - CH, La Roche-sur-Yon (85)
+  - CH, Versailles (78)
+  - CHU Martinique - Site P. Zobda-Quitman, Fort-de-France (972)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CHI, Toulon (83)
+  - CH, Chambéry (73)
+  - CH, Vannes (56)
+  - Hôpital Avicenne, Bobigny (93)
+  - CH, Avignon (84)
+  - CHU, Besançon (25)
+  - Hôpital Nord Franche-Comté-Belfort, Trévenans (90)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: MSICULEBLIAIRE (conservé)
+COPIE: Hôpitaux (+102 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpitaux
+  - Cliniques
+  - Hôpital de la Croix-Saint-Simon, Paris (75)
+  - Hôpital européen, Marseille (13)
+  - Cli. mutualiste de l'Estuaire, Saint-Nazaire (44)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - Hôpital Robert-Schuman, Vantoux (57)
+  - CH, La Roche-sur-Yon (85)
+  - Hôp. Nord Franche-Comté-Belfort, Trévenans (90)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - CHI, Elbeuf (76)
+  - CH, Annecy (74)
+  - Hôpital Saint-Antoine, Paris (75)
+  - CH, Roubaix (59)
+  - GH, Mulhouse (68)
+  - CHU, Angers (49)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôpitaux civils, Colmar (68)
+  - CH, Chambéry (73)
+  - CHU Amiens-Picardie, Salouël (80)
+  - Maison de Santé Protestante de Bordeaux-Bagatelle, Talence (33)
+  - CH, Le Mans (72)
+  - CH/Clinique, Charleville-Mézières (08)
+  - CHU, Nîmes (30)
+  - Polyclinique, Hénin-Beaumont (62)
+  - CH, Vannes (56)
+  - CH, Villefranche-sur-Saône (69)
+  - CH, Avignon (84)
+  - Clinique mutualiste, Pessac (33)
+  - CH, Chartres (28)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CH, Valenciennes (59)
+  - CHU, Orléans (45)
+  - CHI, Compiègne-Noyon (60)
+  - CH, Pau (64)
+  - CH, Saint-Brieuc (22)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CH, Angoulême (16)
+  - CH, Pontoise (95)
+  - CH, Le Havre (76)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CH, Chalon-sur-Saône (71)
+  - GH, La Rochelle (17)
+  - CHU - Hôpital de l'Archet, Nice (06)
+  - CHI, Quimper (29)
+  - CHU - Hôp. de Brabois, Vandœuvre-lès-Nancy (54)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - CH, Périgueux (24)
+  - CHU - Hôtel-Dieu - Hôp. Mère-enfants, Nantes (44)
+  - CHI, Lorient (56)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Clinique Claude-Bernard, Ermont (95)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Hôpital privé de la Loire, Saint-Étienne (42)
+  - Clinique du Cèdre, Bois-Guillaume (76)
+  - Hôpital privé de Provence, Aix-en-Provence (13)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Polyclinique Saint-Côme, Compiègne (60)
+  - Hôpital privé Dijon-Bourgogne, Dijon (21)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Clinique du Diaconat-Roosevelt, Mulhouse (68)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Polyclinique de Poitiers, Poitiers (86)
+  - Centre hospitalier privé Sainte-Marie, Osny (95)
+  - Pôle santé Oréliance, Saran (45)
+  - Clinique des Cèdres, Cornebarrieu (31)
+  - Polyclinique Saint-Privat, Boujan-sur-Libron (34)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Hôp. privé du Vert-Galant, Tremblay-en-France (93)
+  - Polycli. de Limoges - Site Chénieux, Limoges (87)
+  - Polyclinique de Keraudren, Brest (29)
+  - Clinique de l'Anjou, Angers (49)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Clinique de l'Orangerie, Strasbourg (67)
+  - Polyclinique Grand-Sud, Nîmes (30)
+  - Centre hospitalier privé de l'Europe, Le Port-Marly (78)
+  - Inf. protestante de Lyon, Caluire-et-Cuire (69)
+  - Hôpital privé d'Antony, Antony (92)
+  - Clinique Claude-Bernard, Albi (81)
+  - Clinique Belharra, Bayonne (64)
+  - Hôpital privé La Casamance, Aubagne (13)
+  - Clinique Rhéna, Strasbourg (67)
+  - Hôpital privé Jean-Mermoz, Lyon (69)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Pôle santé Léonard-de-Vinci, Chambray-lès-Tours (37)
+  - Clinique de l'Europe, Rouen (76)
+  - Clinique mutualiste Bénigne-Joly, Talant (21)
+  - Polyclinique Bordeaux-Rive-Droite, Lormont (33)
+  - Hôpital privé de l'Estuaire, Le Havre (76)
+  - Hôpital privé de Villeneuve-d'Ascq, Villeneuve-d'Ascq (59)
+  - Clinique d'Occitanie, Muret (31)
+  - Polycli. Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - Hôpital privé Nancy-Lorraine, Nancy (54)
+  - Hôpital privé Beauregard, Marseille (13)
+  - Clinique de la Sauvegarde, Lyon (69)
+  - Centre médico-chirurgical et obstétrical d'Évry, Évry (91)
+  - Hôpital privé Sévigné, Cesson-Sévigné (35)
+  - Clinique du Renaison, Roanne (42)
+  - Clinique du Parc, Saint-Priest-en-Jarez (42)
+  - Polycli. Pau-Pyrénées - Site Navarre, Pau (64)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: pGEAUCOME (conservé)
+COPIE: CH national d'ophtalmologie des Quinze-Vingts, Paris (75) (+57 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CH national d'ophtalmologie des Quinze-Vingts, Paris (75)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Fondation Rothschild, Paris (75)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - OphtalmoPôle, Paris (75)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU, Poitiers (86)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - Hôpital Nord, Marseille (13)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CHU, Angers (49)
+  - Clinique mutualiste, Pessac (33)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - CH, Pau (64)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - Clinique Monticelli-Vélodrome, Marseille (13)
+  - Clinique Juge, Marseille (13)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Clinique ophtalmologique Thiers, Bordeaux (33)
+  - Clinique Honoré-Cave, Montauban (82)
+  - Nouvelle Clinique Bel-Air, Bordeaux (33)
+  - Polyclinique Saint-Laurent, Rennes (35)
+  - Centre ambulatoire Kléber, Lyon (69)
+  - Clinique du Parc, Castelnau-le-Lez (34)
+  - Hôpital privé de la Baie, Avranches (50)
+  - Centre médico-chirurgical du Mans, Le Mans (72)
+  - Hôpital privé Geoffroy-Saint-Hilaire, Paris (75)
+  - Clinique Pasteur, Toulouse (31)
+  - Polyclinique de Limoges - Site Chénieux, Limoges (87)
+  - Hôpital privé Cannes-Oxford, Cannes (06)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Clinique Saint-André, Vandœuvre-lès-Nancy (54)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Clinique Rive-Gauche, Toulouse (31)
+  - Clinique Jouvenet, Paris (75)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - Hôpital Robert-Debré*, Paris (75)
+  - Hôpital Necker-Enfants malades*, Paris (75)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU, Besançon (25)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - Clinique de la Part-Dieu, Lyon (69)
+  - Clinique Ambroise-Paré, Lille (59)
+  - Clinique Saint-Jean-de-Dieu, Paris (75)
+  - Clinique Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Clinique du Diaconat-Fonderie, Mulhouse (68)
+  - Institut ophtalmique de Somain, Somain (59)
+  - Clinique Saint-George, Nice (06)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: PNEUMOLOGIE (conservé)
+COPIE: Hôpital Nord, Marseille (13) (+50 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital Nord, Marseille (13)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital Larrey, Toulouse (31)
+  - Hôpital Bichat, Paris (75)
+  - CHU Nantes - Hôpital Nord-Laennec, Saint-Herblain (44)
+  - CHU - Institut cœur-poumon, Lille (59)
+  - Hôpital Cochin, Paris (75)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - Hôpital Foch, Suresnes (92)
+  - CHU, Dijon (21)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - CHI, Créteil (94)
+  - Hôpital Tenon, Paris (75)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - CHU, Besançon (25)
+  - CHU, Angers (49)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - Grand Hôp. de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CHU, Poitiers (86)
+  - CHU Martinique - Site P. Zobda-Quitman, Fort-de-France (972)
+  - CH, La Roche-sur-Yon (85)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - CHU - Hôpital Maison-Blanche, Reims (51)
+  - Hôpital Avicenne, Bobigny (93)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - CH, Annecy (74)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - HCL - Hôpital Louis-Pradel, Bron (69)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU, Nîmes (30)
+  - CHI, Évreux (27)
+  - CH, Le Havre (76)
+  - CH, Valenciennes (59)
+  - CH, Le Mans (72)
+  - Centre chirurgical Marie-Lannelongue, Le Plessis-Robinson (92)
+  - CH, Béthune (62)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: PNEUMOLOGIE_1 (conservé)
+COPIE: Polyclinique Bordeaux-Nord-Aquitaine (+40 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Polyclinique Bordeaux-Nord-Aquitaine
+  - Clinique Pasteur
+  - Clinique du Millénaire
+  - Institut Arnault-Tzanck
+  - Clinique du Parc
+  - Hôpital privé d'Antony
+  - Clinique des Cèdres
+  - Hôpital privé du Confluent
+  - Clinique de l'Union
+  - Hôpital privé Nancy-Lorraine
+  - Polyclinique Médipôle Saint-Roch
+  - Hôpital privé de Bois-Bernard
+  - Hôpital privé Jean-Mermoz
+  - Hôpital privé de Provence
+  - Pôle santé Léonard-de-Vinci
+  - Clinique d'Occitanie
+  - Hôpital privé de Marne-Chantereine
+  - Polyclinique de Reims-Bezannes
+  - Polyclinique Bordeaux-Rive-Droite
+  - Clinique Rhéna
+  - Hôpital-clinique Claude-Bernard
+  - Clinique Belharra
+  - Hôpital privé de la Loire
+  - Polyclinique Saint-Côme
+  - Polyclinique Les Fleurs
+  - Clinique de l'Europe
+  - Clinique du Pont-de-Chaume
+  - Santé Atlantique
+  - Clinique Les Eaux-Claires
+  - Nouvelles Cliniques de Tours
+  - Clinique du Val-d'Or
+  - Pôle santé Oréliance
+  - Polyclinique de l'Ormeau - Site Centre
+  - Hôpital privé Vert-Coteau
+  - Hôpital privé de l'Ouest parisien
+  - Hôpital privé de la Seine-Saint-Denis
+  - Clinique Esquirol-Saint-Hilaire
+  - Centre médico-chirurgical et obstétrique de la Côte d'Opale
+  - Clinique La Croix du Sud
+  - Hôpital privé de l'Estuaire
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: PROCTOLOGIE (conservé)
+COPIE: Hôpitaux (+2 autres) (2)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpitaux
+  - Cliniques
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: PROTHESEDEGENOU (conservé)
+COPIE: HCL - Hôpital de la Croix-Rousse, Lyon (69) (+80 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - Hôpital de la Croix-Saint-Simon, Paris (75)
+  - CHU Amiens-Picardie, Salouël (80)
+  - Institut Calot, Berck (62)
+  - Hôpital Robert-Schuman, Vantoux (57)
+  - HCL - Hôpital Renée-Sabran, Hyères (83)
+  - Institut mutualiste Montsouris, Paris (75)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CH, Versailles (78)
+  - CHU, Nîmes (30)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - CHU - Centre chirurgical Émile-Gallé, Nancy (54)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - Hôpital Lariboisière, Paris (75)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CH, Valenciennes (59)
+  - Clinique mutualiste de la Porte-de-l'Orient, Lorient (56)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - CH, La Roche-sur-Yon (85)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU, Angers (49)
+  - Clinique mutualiste, Pessac (33)
+  - CHU Grenoble - Site Sud, Échirolles (38)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - Hôpital Cochin, Paris (75)
+  - GH mutualiste, Grenoble (38)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - Clinique du Ter, Ploemeur (56)
+  - Hôpitaux civils, Colmar (68)
+  - Hôpitaux Sud, Marseille (13)
+  - Hôpital Albert-Schweitzer, Colmar (68)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - CH, Libourne (33)
+  - CHU, Poitiers (86)
+  - CH, Tourcoing (59)
+  - CH, Chambéry (73)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - Clinique Médipôle-Garonne, Toulouse (31)
+  - Clinique du sport, Mérignac (33)
+  - Clinique Arago, Paris (75)
+  - Clinique Rhéna, Strasbourg (67)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Polyclinique du Parc, Saint-Saulve (59)
+  - Clinique de l'Atlantique, Puilboreau (17)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Clinique Saint-Vincent, Besançon (25)
+  - Clinique mutualiste catalane, Perpignan (66)
+  - Polyclinique La Ligne-Bleue, Épinal (88)
+  - Clinique Claude-Bernard, Ermont (95)
+  - Clinique Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Polyclinique de Courlancy, Reims (51)
+  - Hôpital privé La Châtaigneraie, Beaumont (63)
+  - Médipôle de Savoie, Challes-les-Eaux (73)
+  - Clinique Louis-Pasteur, Essey-lès-Nancy (54)
+  - Polyclinique du Parc, Caen (14)
+  - Clinique du Croisé-Laroche, Marcq-en-Barœul (59)
+  - Hôpital privé Dijon-Bourgogne, Dijon (21)
+  - Pôle santé Oréliance, Saran (45)
+  - Clinique Saint-Nabor, Saint-Avold (57)
+  - Clinique Aguilera, Biarritz (64)
+  - Clinique du Cèdre, Bois-Guillaume (76)
+  - Clinique Saint-Léonard, Trélazé (49)
+  - Clinique Ambroise-Paré, Thionville (57)
+  - Hôpital privé Pays-de-Savoie, Annemasse (74)
+  - Hôpital privé de la Miotte, Belfort (90)
+  - Clinique Juge, Marseille (13)
+  - Polycli. de Limoges - Site Chénieux, Limoges (87)
+  - Clinique d'Argonay, Argonay (74)
+  - Clinique Saint-George, Nice (06)
+  - Clinique mutualiste de Bretagne-Occidentale, Quimper (29)
+  - Hôpital privé Jean-Mermoz, Lyon (69)
+  - Clinique Maussins-Nollet, Paris (75)
+  - Clinique Les Fontaines, Melun (77)
+  - Clinique des Cèdres, Cornebarrieu (31)
+  - Centre orthopédique médico-chirurgical de Dracy-le-Fort, Dracy-le-Fort (71)
+  - Clinique de l'Europe, Rouen (76)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: PROTHESEDEHANCHE (conservé)
+COPIE: Hôpital de la Croix-Saint-Simon, Paris (75) (+50 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital de la Croix-Saint-Simon, Paris (75)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - Hôpital Cochin, Paris (75)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU, Nîmes (30)
+  - HCL - Hôpital Renée-Sabran, Hyères (83)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - CH, Versailles (78)
+  - Hôpital Ambroise-Paré, Boulogne-Billancourt (92)
+  - CHU, Dijon (21)
+  - CH, La Roche-sur-Yon (85)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CH, Valenciennes (59)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU - Hôtel-Dieu, Nantes (44)
+  - CHU, Angers (49)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CH, Mâcon (71)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU, Poitiers (86)
+  - CHI, Quimper (29)
+  - Hôpital Robert-Schuman, Vantoux (57)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - CH, Chambéry (73)
+  - Institut mutualiste Montsouris, Paris (75)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - Hôpital Lariboisière, Paris (75)
+  - CH, Saint-Nazaire (44)
+  - CHU - Hôpital Maison-Blanche, Reims (51)
+  - Institut Calot, Berck (62)
+  - CH, Vannes (56)
+  - CH/Clinique, Charleville-Mézières (08)
+  - CH, Le Mans (72)
+  - Clinique mutualiste, Pessac (33)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CHU Grenoble - Site Sud, Échirolles (38)
+  - CH, Libourne (33)
+  - CH, Chalon-sur-Saône (71)
+  - CHU, Orléans (45)
+  - Hôpitaux civils, Colmar (68)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: RYTHMOLOGIE (conservé)
+COPIE: CHU - Hôpital Haut-Lévêque, Pessac (33) (+50 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - Institut mutualiste Montsouris, Paris (75)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - HCL - Hôpital Louis-Pradel, Bron (69)
+  - CHU Nantes - Hôpital Nord-Laennec, Saint-Herblain (44)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - CHU, Dijon (21)
+  - CHU - Institut cœur-poumon, Lille (59)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU, Poitiers (86)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CHR Metz-Thionville - Hôpital de Mercy, Ars-Laquenexy (57)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - CHU, Besançon (25)
+  - CH, Annecy (74)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU Réunion - Site Sud, Saint-Pierre (974)
+  - CH, Chartres (28)
+  - GHICL - Hôpital Saint-Philibert, Lomme (59)
+  - CH, Lens (62)
+  - CH, Pau (64)
+  - CH, La Roche-sur-Yon (85)
+  - CHU, Angers (49)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - CHU, Nîmes (30)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - Institut Arnault-Tzanck, Saint-Laurent-du-Var (06)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - GH, La Rochelle (17)
+  - CH, Perpignan (66)
+  - CH Saint-Joseph-Saint-Luc, Lyon (69)
+  - CH, Vannes (56)
+  - CHI, Toulon (83)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - GHI, Le Raincy-Montfermeil (93)
+  - Hôpital Nord, Marseille (13)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: SCHIZOPHRENIE (conservé)
+COPIE: CHU, Montpellier (34) (+45 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU, Montpellier (34)
+  - CH Le Vinatier, Bron (69)
+  - CH Charles-Perrens, Bordeaux (33)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU, Saint-Étienne (42)
+  - Hôpitaux Sud, Marseille (13)
+  - Hôpital Louis-Mourier, Colombes (92)
+  - GHU Paris Psychiatrie et neurosciences, Paris (75)
+  - EPS Ville-Évrard, Neuilly-sur-Marne (93)
+  - GH Paul Guiraud, Villejuif (94)
+  - CH Guillaume-Régnier, Rennes (35)
+  - EPS Alsace-Nord, Brumath (67)
+  - CH Sainte-Marie, Nice (06)
+  - EPSM de la Marne, Châlons-en-Champagne (51)
+  - CHU, Strasbourg (67)
+  - CH Maurice-Despinoy, Fort-de-France (972)
+  - CHU, Clermont-Ferrand (63)
+  - Hôpitaux de Saint-Maurice, Saint-Maurice (94)
+  - CH du Rouvray, Sotteville-lès-Rouen (76)
+  - CHU, Tours (37)
+  - CHU, Toulouse (31)
+  - CH Drôme Vivarais, Montéléger (26)
+  - Nouvel Hôpital de Navarre, Évreux (27)
+  - Hôpital de la Conception, Marseille (13)
+  - CH Montperrin, Aix-en-Provence (13)
+  - EPSM Lille-Métropole, Armentières (59)
+  - CHU, Brest (29)
+  - EPSM de l'agglomération Lilloise, Saint-André-Lez-Lille (59)
+  - CH, Versailles (78)
+  - CHU, Nantes (44)
+  - CH Gérard-Marchant, Toulouse (31)
+  - Centre psychothérapique de Nancy, Laxou (54)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CH Les Murets, La Queue-en-Brie (94)
+  - CH, Lannemezan (65)
+  - CH, Le Havre (76)
+  - CH des Pyrénées, Pau (64)
+  - CH La Chartreuse, Dijon (21)
+  - CH Esquirol, Limoges (87)
+  - CH Henri-Laborit, Poitiers (86)
+  - EPS Barthélemy-Durand, Étampes (91)
+  - CH, Rouffach (68)
+  - CH, Saint-Nazaire (44)
+  - CH, Erstein (67)
+  - CH, Thuir (66)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: TARACTE (conservé)
+COPIE: Fondation Rothschild, Paris (75) (+100 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Fondation Rothschild, Paris (75)
+  - CH national d'ophtalmologie des Quinze-Vingts, Paris (75)
+  - OphtalmoPôle, Paris (75)
+  - CHU, Dijon (21)
+  - CH, Lens (62)
+  - GH mutualiste, Grenoble (38)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHI, Créteil (94)
+  - Clinique mutualiste, Pessac (33)
+  - CH, Bourges (18)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - CHU Amiens-Picardie/Institut ophtalmologique de Picardie, Salouël (80)
+  - CH, Chambéry (73)
+  - Hôpitaux civils, Colmar (68)
+  - Clinique du Ter, Ploemeur (56)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - Hôpital Nord Franche-Comté-Belfort, Trévenans (90)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - GH, Mulhouse (68)
+  - CHI, Eaubonne-Montmorency (95)
+  - CH, Tarbes (65)
+  - Clinique Beau-Soleil, Montpellier (34)
+  - CH, Mantes-la-Jolie (78)
+  - Hôpital Albert-Schweitzer, Colmar (68)
+  - CHU, Poitiers (86)
+  - CH/Clinique, Charleville-Mézières (08)
+  - Hôpital d'instruction des armées Desgenettes, Lyon (69)
+  - Clinique mutualiste La Sagesse, Rennes (35)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - CH, Le Puy-en-Velay (43)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CH, Hazebrouck (59)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - Pôle de santé du Villeneuvois, Villeneuve-sur-Lot (47)
+  - CH, Annecy (74)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - CH, Rodez (12)
+  - CHR Metz-Thionville - Hôp. de Mercy, Ars-Laquenexy (57)
+  - CH, Valence (26)
+  - CH, Villefranche-de-Rouergue (12)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CHI, Villeneuve-Saint-Georges (94)
+  - Hôpital Nord, Marseille (13)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - GHI, Le Raincy-Montfermeil (93)
+  - Hôpital Ambroise-Paré, Boulogne-Billancourt (92)
+  - Hôpital Foch, Suresnes (92)
+  - Institut mutualiste Montsouris, Paris (75)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Polyclinique de Limoges - Site Chénieux, Limoges (87)
+  - Hôpital privé Geoffroy-Saint-Hilaire, Paris (75)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Nouvelle Clinique Bel-Air, Bordeaux (33)
+  - Clinique Rhéna, Strasbourg (67)
+  - Clinique Honoré-Cave, Montauban (82)
+  - Institut ophtalmique de Somain, Somain (59)
+  - Clinique Ambroise-Paré, Lille (59)
+  - Clinique Mathilde, Rouen (76)
+  - Clinique Monticelli-Vélodrome, Marseille (13)
+  - Cli. mutualiste de Bretagne-Occidentale, Quimper (29)
+  - Polyclinique Médipôle Saint-Roch, Cabestany (66)
+  - Clinique de l'Anjou, Angers (49)
+  - Polyclinique de Courlancy, Reims (51)
+  - Clinique de l'Atlantique, Puilboreau (17)
+  - Clinique ophtalmologique Thiers, Bordeaux (33)
+  - Clinique Delay, Bayonne (64)
+  - Clinique Saint-Michel, Toulon (83)
+  - Clinique Jouvenet, Paris (75)
+  - Hôpital privé Océane, Vannes (56)
+  - Hôpital privé Sainte-Marie, Chalon-sur-Saône (71)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Hôpital privé La Châtaigneraie, Beaumont (63)
+  - Clinique Pasteur-Lanroze, Brest (29)
+  - Clinique du Diaconat-Fonderie, Mulhouse (68)
+  - Polyclinique Saint-Roch, Montpellier (34)
+  - Hôpital privé Dijon-Bourgogne, Dijon (21)
+  - Centre médico-chirurgical du Mans, Le Mans (72)
+  - Institut ophtalmologique de Picardie, Amiens (80)
+  - Clinique Axium, Aix-en-Provence (13)
+  - Centre hospitalier privé Sainte-Marie, Osny (95)
+  - Hôpital-clinique Claude-Bernard, Metz (57)
+  - Clinique Saint-Jean-de-Dieu, Paris (75)
+  - Hôpital privé de la Baie, Avranches (50)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Clinique Fontvert, Sorgues (84)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Clinique Saint-André, Vandœuvre-lès-Nancy (54)
+  - Polyclinique Saint-Jean, Cagnes-sur-Mer (06)
+  - Hôpital privé Sévigné, Cesson-Sévigné (35)
+  - Clinique de la Muette, Paris (75)
+  - Clinique Belledonne, Saint-Martin-d'Hères (38)
+  - Nouvelles Cliniques de Tours, Saint-Cyr-sur-Loire (37)
+  - Clinique mutualiste catalane, Perpignan (66)
+  - Centre Clinical, Soyaux (16)
+  - Hôpital privé d'Antony, Antony (92)
+  - Hôpital privé La Louvière, Lille (59)
+  - Hôpital privé Cannes-Oxford, Cannes (06)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: TROUBLESBIPOLAIRES (conservé)
+COPIE: CH Charles-Perrens, Bordeaux (33) (+45 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CH Charles-Perrens, Bordeaux (33)
+  - EPS Ville-Évrard, Neuilly-sur-Marne (93)
+  - CH Le Vinatier, Bron (69)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU, Clermont-Ferrand (63)
+  - CHU, Montpellier (34)
+  - CH Guillaume-Régnier, Rennes (35)
+  - CHU, Brest (29)
+  - GHU Paris Psychiatrie et neurosciences, Paris (75)
+  - CH, Versailles (78)
+  - Hôpital Louis-Mourier, Colombes (92)
+  - Centre psychothérapique de Nancy, Laxou (54)
+  - Hôpital Lariboisière-Fernand-Widal, Paris (75)
+  - CHU, Nîmes (30)
+  - CH du Rouvray, Sotteville-lès-Rouen (76)
+  - CH des Pyrénées, Pau (64)
+  - CH Drôme Vivarais, Montéléger (26)
+  - GH Paul Guiraud, Villejuif (94)
+  - CHU, Tours (37)
+  - CHU, Grenoble (38)
+  - CH La Chartreuse, Dijon (21)
+  - CH Montperrin, Aix-en-Provence (13)
+  - CH Esquirol, Limoges (87)
+  - CHU, Toulouse (31)
+  - CH Henri-Laborit, Poitiers (86)
+  - CH, Lannemezan (65)
+  - Hôpitaux Sud, Marseille (13)
+  - CHU, Nantes (44)
+  - CH Gérard-Marchant, Toulouse (31)
+  - EPSM Lille-Métropole, Armentières (59)
+  - CH Le Mas Careiron, Uzès (30)
+  - Hôpitaux de Saint-Maurice, Saint-Maurice (94)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - GH, La Rochelle (17)
+  - Hôpital de la Conception, Marseille (15)
+  - CH, Thuir (66)
+  - EPS Alsace-Nord, Brumath (67)
+  - CH Henri-Guerin, Pierrefeu-du-Var (83)
+  - ASM, Limoux (11)
+  - CH Le Bon Sauveur, Bégard (22)
+  - EPSM Morbihan, Saint-Avé (56)
+  - EPSM de la Marne, Châlons-en-Champagne (51)
+  - CHU, Saint-Étienne (42)
+  - CHU, Strasbourg (67)
+  - Nouvel Hôpital de Navarre, Évreux (27)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UACCIDENTSVASCULAIRESCREBRAUX (conservé)
+COPIE: CHU - Hôpital Purpan, Toulouse (31) (+40 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - HCL - Hôpital Pierre-Wertheimer, Bron (69)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital central, Nancy (54)
+  - Fondation Rothschild, Paris (75)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU, Poitiers (86)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - CH, Valenciennes (59)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - CHU, Dijon (21)
+  - CHU, Angers (49)
+  - CHU Nantes - Hôpital Nord-Laennec, Saint-Herblain (44)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - Hôpital Foch, Suresnes (92)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CHU, Nîmes (30)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - Hôpital Lariboisière, Paris (75)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU - Hôpital Maison-Blanche, Reims (51)
+  - CH, Pau (64)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CHU, Besançon (25)
+  - CH, Versailles (78)
+  - GHU Paris Psychiatrie et neurosciences, Paris (75)
+  - CH, Lens (62)
+  - CH, Valence (26)
+  - Hôpital Bichat, Paris (75)
+  - Hôpitaux civils, Colmar (68)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UACCOUCHEMENTSARISQUES (conservé)
+COPIE: Activité (+22 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Activité
+  - Durée de séjour
+  - Obstétricien de garde
+  - Anesthésiste de garde
+  - Pédiatre de garde
+  - Césariennes
+  - Péridurales
+  - Episiotomies
+  - Extractions instru.
+  - Naissances multiples
+  - Autoanalgésies
+  - Allaitement
+  - Bloc opératoire
+  - Réanimation adulte
+  - Néonatalogie
+  - Réanimation néonatale
+  - Psychologue
+  - Unité Kangourou
+  - Unité démédicalisée
+  - Chambres à 1 lit
+  - Chambres avec SDB
+  - Suivi à domicile
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UACCOUCHEMENTSNORMAUX (conservé)
+COPIE: Hôpital Saint-Joseph, Marseille (13) (+42 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital Saint-Joseph, Marseille (13)
+  - Clinique du Val-d'Ouest Vendôme, Écully (69)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Polyclinique Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - Hôpital Nord Franche-Comté-Belfort, Trévenans (90)
+  - Clinique mutualiste La Sagesse, Rennes (35)
+  - Clinique Rive-Gauche, Toulouse (31)
+  - CHI, Quimper (29)
+  - CH, Versailles (78)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Polyclinique Saint-Roch, Montpellier (34)
+  - CHI, Évreux (27)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Hôpital privé d'Antony, Antony (92)
+  - CH, Chartres (28)
+  - CH, Roubaix (59)
+  - Grand Hôpital de l'Est Francilien, Jossigny (77)
+  - Hôpital des Diaconesses, Paris (75)
+  - Polyclinique de Keraudren, Brest (29)
+  - CH, La Roche-sur-Yon (85)
+  - Hôpital Joseph-Ducuing, Toulouse (31)
+  - CHI, Eaubonne-Montmorency (95)
+  - Santé Atlantique, Saint-Herblain (44)
+  - CH, Annecy (74)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - CH, Grasse (06)
+  - GH, Seclin (59)
+  - Pôle santé Léonard-de-Vinci, Chambray-lès-Tours (37)
+  - CH, Villefranche-sur-Saône (69)
+  - Hôpital privé Beauregard, Marseille (13)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - CH, Avignon (84)
+  - CHI, Villeneuve-Saint-Georges (94)
+  - Maison de Santé Protestante de Bordeaux-Bagatelle, Talence (33)
+  - CH, Rambouillet (78)
+  - Clinique de l'Anjou, Angers (49)
+  - GHICL - Hôpital Saint-Vincent-de-Paul, Lille (59)
+  - Hôpital privé de Marne-la-Vallée, Bry-sur-Marne (94)
+  - Clinique Victor-Pauchet, Amiens (80)
+  - CH, Saint-Nazaire (44)
+  - Clinique Sainte-Clotilde, Sainte-Clotilde (974)
+  - GH, Melun (77)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UADENOMEDELAPROSTATE (conservé)
+COPIE: Hôpitaux (+2 autres) (3)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpitaux
+  - Cliniques
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UAMYGDALESETVEGETATIONS (conservé)
+COPIE: Clinique mutualiste La Sagesse, Rennes (35) (+80 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Clinique mutualiste La Sagesse, Rennes (35)
+  - GHICL - Clinique Sainte-Marie, Cambrai (59)
+  - GHSV - Clinique Sainte-Barbe, Strasbourg (67)
+  - GHICL - Hôpital Saint-Vincent-de-Paul, Lille (59)
+  - CH, Pontoise (95)
+  - Hôpital Robert-Debré, Paris (75)
+  - CHI, Aix-en-Provence (13)
+  - Hôpital Necker-Enfants malades, Paris (75)
+  - Hôpital Trousseau, Paris (75)
+  - Hôpital Albert-Schweitzer, Colmar (68)
+  - Hôpitaux pédiatriques, Nice (06)
+  - CH, Blois (41)
+  - CHU - Hôpital Clocheville, Tours (37)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - Hôpital Nord, Marseille (13)
+  - Hôpitaux civils, Colmar (68)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CH, Vannes (56)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHI, Villeneuve-Saint-Georges (94)
+  - CH, Roubaix (59)
+  - CH, Annecy (74)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CH, Cholet (49)
+  - CHU, Poitiers (86)
+  - CHI, Créteil (94)
+  - CHU, Nîmes (30)
+  - CH, Saint-Nazaire (44)
+  - CH, Denain (59)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - Fondation Rothschild, Paris (75)
+  - Maison de Santé Protestante de Bordeaux-Bagatelle, Talence (33)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHR Metz-Thionville - Hôpital de Mercy, Ars-Laquenexy (57)
+  - CH, Valence (26)
+  - CHI, Lorient (56)
+  - Hôpital européen, Marseille (13)
+  - CHU, Angers (49)
+  - CH, Boulogne-sur-Mer (62)
+  - Clinique Marcel-Sembat, Boulogne-Billancourt (92)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Clinique Paris-Bercy, Charenton-le-Pont (94)
+  - Polyclinique du Parc, Saint-Saulve (59)
+  - Hôpital privé Les Franciscaines, Versailles (78)
+  - Clinique des Orchidées, Le Port (974)
+  - Clinique du Val-d'Ouest Vendôme, Écully (69)
+  - Clinique du Parc, Lyon (69)
+  - Hôpital privé de Provence, Aix-en-Provence (13)
+  - Clinique mutualiste Bénigne-Joly, Talant (21)
+  - Clinique de l'Anjou, Angers (49)
+  - Hôpital privé Le Bois, Lille (59)
+  - Institut Arthur-Vernes, Paris (75)
+  - Clinique Belharra, Bayonne (64)
+  - Hôpital privé de Villeneuve-d'Ascq, Villeneuve-d'Ascq (59)
+  - Hôpital privé de Bois-Bernard, Bois-Bernard (62)
+  - Clinique Rive-Gauche, Toulouse (31)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Nouvelle Clinique Bordeaux-Tondu, Bordeaux (33)
+  - Clinique Pasteur-Lanroze, Brest (29)
+  - Clinique Jean-Causse, Colombiers (34)
+  - Hôpital privé de la Loire, Saint-Étienne (42)
+  - Hôpital privé La Montagne-Lambert, La Garenne-Colombes (92)
+  - Hôpital privé La Louvière, Lille (59)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Hôpital privé La Châtaigneraie, Beaumont (63)
+  - Infirmerie protestante de Lyon, Caluire-et-Cuire (69)
+  - Polyclinique du Parc, Caen (14)
+  - Polyclinique de Limoges - Site Chénieux, Limoges (87)
+  - Clinique Durieux, Saint-Pierre (974)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Hôpital privé Pays-de-Savoie, Annemasse (74)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Clinique Saint-Amé, Lambres-lez-Douai (59)
+  - Clinique Saint-Augustin, Bordeaux (33)
+  - Hôpital privé d'Antony, Antony (92)
+  - Clinique Rhéna, Strasbourg (67)
+  - Hôpital privé Sévigné, Cesson-Sévigné (35)
+  - Clinique du Parc, Saint-Priest-en-Jarez (42)
+  - Hôpital privé du Confluent, Nantes (44)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UANGIOPLASTIECORONAIRE (conservé)
+COPIE: CHU - Hôpital Rangueil, Toulouse (31) (+85 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - CHR Metz-Thionville - Hôpital de Mercy, Ars-Laquenexy (57)
+  - Institut mutualiste Montsouris, Paris (75)
+  - Grand Hôpital de l'Est Francilien, Meaux/Jossigny/Coulommiers (77)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34)
+  - CHU - Hôp. de la Côte de Nacre, Caen (14)
+  - CHU, Dijon (21)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CH, Avignon (84)
+  - CHU, Poitiers (86)
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CHU, Besançon (25)
+  - HCL - Hôpital Louis-Pradel, Bron (69)
+  - CH, Valenciennes (59)
+  - CHU Réunion - Site Félix-Guyon, Saint-Denis (974)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU, Nîmes (30)
+  - GH, Mulhouse (68)
+  - CHU - Institut cœur-poumon, Lille (59)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - CH, Brive-la-Gaillarde (19)
+  - GH, La Rochelle (17)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CH, La Roche-sur-Yon (85)
+  - CHU, Toulon (83)
+  - CH, Valence (26)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôpital Nord, Marseille (13)
+  - CHU, Saintes (17)
+  - CHU, Orléans (45)
+  - CH, Vichy (03)
+  - HCL - Hôp. de la Croix-Rousse, Lyon (69)
+  - Hôpital Nord Franche-Comté-Belfort, Trévenans (90)
+  - CHI, Aix-en-Provence (13)
+  - CH, Lens (62)
+  - CHU Nantes - Hôpital Nord-Laennec, Saint-Herblain (44)
+  - Institut Arnault-Tzanck, Saint-Laurent-du-Var (06)
+  - CH, Pau (64)
+  - CH, Vannes (56)
+  - CH, Saint-Brieuc (22)
+  - Clinique Pasteur, Toulouse (31)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Hôp.-clinique Claude-Bernard, Metz (57)
+  - Hôpital privé Nancy-Lorraine, Nancy (54)
+  - Polyclinique Les Fleurs, Ollioules (83)
+  - Hôpital privé Jacques-Cartier, Massy (91)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Clinique Rhône-Durance, Avignon (84)
+  - Clinique Saint-Hilaire, Rouen (76)
+  - Cli. Louis-Pasteur, Essey-lès-Nancy (54)
+  - Centre de cardiologie du Pays basque, Bayonne (64)
+  - Clinique de la Sauvegarde, Lyon (69)
+  - Clinique Saint-Pierre, Perpignan (66)
+  - Centre cardiologique du Nord, Saint-Denis (93)
+  - Clinique Convert, Bourg-en-Bresse (01)
+  - Polycli. de Reims-Bezannes, Bezannes (51)
+  - Nouvelles Cliniques de Tours, Saint-Cyr-sur-Loire (37)
+  - Hôp. privé Dijon-Bourgogne, Dijon (21)
+  - Clinique du Millénaire, Montpellier (34)
+  - Clinique Rhéna, Strasbourg (67)
+  - Pôle santé Oréliance, Saran (45)
+  - Clinique Saint-Vincent, Besançon (25)
+  - Clinique Saint-Augustin, Bordeaux (33)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Cli. du Diaconat-Fonderie, Mulhouse (68)
+  - Clinique Turin, Paris (75)
+  - Hôpital privé Saint-Martin, Pessac (33)
+  - Cli. du Pont-de-Chaume, Montauban (82)
+  - Clinique des Cèdres, Cornebarrieu (31)
+  - Hôpital privé de Parly-II, Le Chesnay (78)
+  - Hôp. privé Les Franciscaines, Nîmes (30)
+  - Clinique du Parc, Castelnau-le-Lez (34)
+  - Hôpital privé de Bois-Bernard, Bois-Bernard (62)
+  - Cli. Esquirol-Saint-Hilaire, Agen (47)
+  - Clinique Saint-George, Nice (06)
+  - Polyclinique Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - Polyclinique Vauban, Valenciennes (59)
+  - Euromed Cardio, Marseille (13)
+  - Polyclinique Saint-Laurent, Rennes (35)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UCARDIOLOGIEINTERVENTIONNELLE (conservé)
+COPIE: Clinique Pasteur, Toulouse (31) (+71 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Clinique Pasteur, Toulouse (31)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Centre cardiologique du Nord, Saint-Denis (93)
+  - Hôpital privé Jacques-Cartier, Massy (91)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Centre de cardio. du Pays basque, Bayonne (64)
+  - Inf. protestante de Lyon, Caluire-et-Cuire (69)
+  - Clinique du Millénaire, Montpellier (34)
+  - Pôle Santé-République, Clermont-Ferrand (63)
+  - Polyclinique Les Fleurs, Ollioules (83)
+  - Clinique Rhône-Durance, Avignon (84)
+  - Hôpital privé de Parly-II, Le Chesnay (78)
+  - Nouvelles Cli. de Tours, Saint-Cyr-sur-Loire (37)
+  - Hôpital privé Clairval, Marseille (13)
+  - Clinique Saint-Pierre, Perpignan (66)
+  - Clinique Saint-Joseph, Trélazé (49)
+  - Polyclinique Lyon-Nord, Rillieux-la-Pape (69)
+  - Hôpital privé Nancy-Lorraine, Nancy (54)
+  - Clinique Saint-Augustin, Bordeaux (33)
+  - Clinique de la Sauvegarde, Lyon (69)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Clinique Saint-George, Nice (06)
+  - Hôpital privé de Bois-Bernard, Bois-Bernard (62)
+  - Polyclinique Saint-Laurent, Rennes (35)
+  - Pôle santé Oréliance, Saran (45)
+  - Hôp. privé Claude-Galien, Quincy-sous-Sénart (91)
+  - Clinique Rhéna, Strasbourg (67)
+  - Hôpital privé Le Bois, Lille (59)
+  - Hôpital privé Les Franciscaines, Nîmes (30)
+  - Clinique du Parc, Castelnau-le-Lez (34)
+  - Clinique Saint-Hilaire, Rouen (76)
+  - Polyclinique Vauban, Valenciennes (59)
+  - Clinique Saint-Vincent, Besançon (25)
+  - Clinique Louis-Pasteur, Essey-lès-Nancy (54)
+  - Clinique Les Fontaines, Melun (77)
+  - Clinique Esquirol-Saint-Hilaire, Agen (47)
+  - Cli. médicale et cardio. d'Aressy, Aressy (64)
+  - Hôpital-clinique Claude-Bernard, Metz (57)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - CHU Nantes - Hôp. Nord-Laennec, Saint-Herblain (44)
+  - Institut mutualiste Montsouris, Paris (75)
+  - HCL - Hôpital Louis-Pradel, Bron (69)
+  - Centre chirurgical Marie-Lannelongue, Le Plessis-Robinson (92)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU, Dijon (21)
+  - CHU - Institut cœur-poumon, Lille (59)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU - Hôp. de Brabois, Vandœuvre-lès-Nancy (54)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - Hôpital Bichat, Paris (75)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôp. Arnaud-de-Villeneuve, Montpellier (34)
+  - CHU, Besançon (25)
+  - Hôp. européen Georges-Pompidou, Paris (75)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU, Poitiers (86)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU, Angers (49)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - Instit. Arnault-Tzanck, Saint-Laurent-du-Var (06)
+  - Centre cardio. du Nord, Saint-Denis (93)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UCHIRURGIEDESCANCERSOSSEUXDELADULTE (conservé)
+COPIE: TUMEURS DU CERVEAU DE L'ADULTE (+3 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - TUMEURS DU CERVEAU DE L'ADULTE
+  - CANCER DES OS DE L'ENFANT ET DE L'ADOLESCENT
+  - CHIRURGIE DES CANCERS OSSEUX DE L'ADULTE
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UCHIRURGIEDESTESTICULESDELENFANTETDELADOLESCENT (conservé)
+COPIE: CHU - Hôpital Pellegrin, Bordeaux (33) (+72 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU, Angers (49)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CHU, Nîmes (30)
+  - Cli. mutualiste de la Porte-de-l'Orient, Lorient (56)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - Clinique mutualiste de l'Estuaire, Saint-Nazaire (44)
+  - CH/Clinique, Charleville-Mézières (08)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - Clinique mutualiste, Saint-Étienne (42)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CH, Roubaix (59)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - Hôpital européen, Marseille (13)
+  - Hôpitaux civils, Colmar (68)
+  - Hôpital Tenon, Paris (75)
+  - Hôpital Saint-Louis, Paris (75)
+  - Hôpital privé de Provence, Aix-en-Provence (13)
+  - Cli. urologique Nantes-Atlantis, Saint-Herblain (44)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Hôpital privé Sévigné, Cesson-Sévigné (35)
+  - Polyclinique Saint-Privat, Boujan-sur-Libron (34)
+  - Polyclinique Pau-Pyrénées - Site Navarre, Pau (64)
+  - Polyclinique Saint-Côme, Compiègne (60)
+  - Polyclinique du Beaujolais, Villefranche (69)
+  - Clinique de l'Anjou, Angers (49)
+  - Clinique Rhéna, Strasbourg (67)
+  - Clinique Saint-George, Nice (06)
+  - Polyclinique Médipôle Saint-Roch, Cabestany (66)
+  - Hôpital privé des Côtes-d'Armor, Plérin (22)
+  - Polyclinique de Blois, La Chaussée-Saint-Victor (41)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Centre médico-chirurgical du Mans, Le Mans (72)
+  - Clinique du Diaconat-Roosevelt, Mulhouse (68)
+  - Polyclinique Grand-Sud, Nîmes (30)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Hôpital Robert-Debré, Paris (75)
+  - CHU - Hôpital Sud, Rennes (35)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - Hôpitaux pédiatriques, Nice (06)
+  - HCL - Hôpital Femme-mère-enfant, Bron (69)
+  - CHU - American Memorial Hospital, Reims (51)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU, Besançon (25)
+  - CHU - Hôpitaux Mère-enfants, Toulouse (31)
+  - CHU - Hôpital Clocheville, Tours (37)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CHU, Poitiers (86)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - Hôpital Trousseau, Paris (75)
+  - CH, Aulnay-sous-Bois (93)
+  - CH, Lens (62)
+  - CHU - Hôpital Jeanne-de-Flandre, Lille (59)
+  - CHU - Hôpital Mère-enfant, Limoges (87)
+  - Hôpital Necker-Enfants malades, Paris (75)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - Clinique Marcel-Sembat, Boulogne-Billancourt (92)
+  - Clinique Rive-Gauche, Toulouse (31)
+  - Clinique du Val-d'Ouest Vendôme, Écully (69)
+  - Clinique Saint-Jean-de-Dieu, Paris (75)
+  - Polyclinique Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - Cli. Saint-Jean Sud-de-France, Saint-Jean-de-Védas (34)
+  - Hôpital privé Dijon-Bourgogne, Dijon (21)
+  - Hôpital privé d'Antony, Antony (92)
+  - Clinique du Parc, Saint-Priest-en-Jarez (42)
+  - Polyclinique de la Région-Mantaise, Mantes-la-Jolie (78)
+  - Clinique Claude-Bernard, Ermont (95)
+  - Nouvelle Clinique Bordeaux-Tondu, Bordeaux (33)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UCHIRURGIEDUDOSDELENFANTETDELADOLESCENT (conservé)
+COPIE: CHU - Centre chirurgical Émile-Gallé, Nancy (54) (+70 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Centre chirurgical Émile-Gallé, Nancy (54)
+  - CH, Valenciennes (59)
+  - HCL - Édouard-Herriot, Lyon (69)
+  - Hôpital Saint-Antoine, Paris (75)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - Hôpital européen, Marseille (13)
+  - CHU - Hôpital Pasteur, Nice (06)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU, Besançon (25)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - Hôpital Avicenne, Bobigny (93)
+  - CHU - Hôpital de la Timone (adultes), Marseille (13)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - Hôpital européen Georges-Pompidou, Paris (75)
+  - CHU Martinique - Site P. Zobda-Quitman, Fort-de-France (972)
+  - CHU - Hôpital de la Cavale-Blanche, Brest (29)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CH, Saint-Quentin (02)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - Hôpital Robert-Debré*, Paris (75)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Clinique Lille-Sud, Lesquin (59)
+  - Hôpital privé Saint-Martin, Pessac (33)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Clinique Axium, Aix-en-Provence (13)
+  - Hôpital privé de l'Ouest parisien, Trappes (78)
+  - Clinique Aguilera, Biarritz (64)
+  - Hôp. privé Toulon-Hyères-Saint-Jean, Toulon (83)
+  - Hôp. privé Paul-d'Égine, Champigny-sur-Marne (94)
+  - Clinique Conti, L'Isle-Adam (95)
+  - Hôpital privé des Peupliers, Paris (75)
+  - Centre médico-chirurgical Floréal, Bagnolet (93)
+  - Pôle santé Oréliance, Saran (45)
+  - Centre hospitalier privé du Montgardé, Aubergenville (78)
+  - Hôpital privé Dijon-Bourgogne, Dijon (21)
+  - Clinique Kennedy, Montélimar (26)
+  - Hôpital privé La Châtaigneraie, Beaumont (63)
+  - Clinique Rhéna, Strasbourg (67)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Hôpital privé La Montagne-Lambert, La Garenne-Colombes (92)
+  - Hôpital privé Cannes-Oxford, Cannes (06)
+  - Hôpital-clinique Claude-Bernard, Metz (57)
+  - Hôp. privé du Vert-Galant, Tremblay-en-France (93)
+  - Hôpital privé Pays-de-Savoie, Annemasse (74)
+  - Centre de la main d'Angers, Trélazé (49)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Clinique Fontvert, Sorgues (84)
+  - Clinique du Pré, Le Mans (72)
+  - Hôpital privé Océane, Vannes (56)
+  - Clinique de l'Yvette, Longjumeau (91)
+  - Hôpital Trousseau, Paris (75)
+  - Hôpital Necker-Enfants malades, Paris (75)
+  - HCL - Hôpital Femme-mère-enfant, Bron (69)
+  - CHU - Hôp. de Brabois, Vandœuvre-lès-Nancy (54)
+  - Hôpital Robert-Debré, Paris (75)
+  - Hôpital de la Timone (enfants), Marseille (13)
+  - CHU - Hôpital Jeanne-de-Flandre, Lille (59)
+  - CHU - Hôpital Sud, Rennes (35)
+  - CHU - Hôpitaux Mère-enfants, Toulouse (31)
+  - CHU - Hôpital Clocheville, Tours (37)
+  - Hôpitaux pédiatriques, Nice (06)
+  - CHU - Hôtel-Dieu - Hôp. Mère-enfants, Nantes (44)
+  - CHU, Angers (49)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - Hôpital des Massues, Lyon (69)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UCHIRURGIEMAXILLOFACIALE (conservé)
+COPIE: CHU - Hôpital Roger-Salengro, Lille (59) (+90 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Roger-Salengro, Lille (59)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - Hôpital Necker-Enfants malades*, Paris (75)
+  - CHU - Hôpital Gui-de-Chauliac, Montpellier (34)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Purpan, Toulouse (31)
+  - Hôpital de la Conception, Marseille (13)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - Centre Antoine-Lacassagne (CLCC), Nice (06)
+  - CHU, Nîmes (30)
+  - CHU - Hôpital de Hautepierre, Strasbourg (67)
+  - CHU, Besançon (25)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU, Dijon (21)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU, Angers (49)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - CHU - Hôpital européen, Marseille (13)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - CH, Annecy (74)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU - Hôpital d'Estaing, Clermont-Ferrand (63)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - CH, Perpignan (66)
+  - Hôpital Beaujon, Clichy (92)
+  - Clinique mutualiste de Bonneveine, Marseille (13)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU - Hôpital central, Nancy (54)
+  - CHU - Hôp. de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - HCL - Hôpital Femme-mère-enfant*, Bron (69)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - CHR Metz-Thionville - Hôpital de Mercy, Ars-Laquenexy (57)
+  - CH, Ancenis (44)
+  - CHI, Villeneuve-Saint-Georges (94)
+  - Gustave-Roussy (CLCC), Villejuif (94)
+  - CH, Valenciennes (59)
+  - CH, Villefranche-sur-Saône (69)
+  - CHI, Lorient (56)
+  - CHU, Orléans (45)
+  - CH, Pontoise (95)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - CH, Annonay (07)
+  - Hôpital Lariboisière, Paris (75)
+  - CHU Réunion - Site Félix-Guyon, Saint-Denis (974)
+  - CH, Bayonne (64)
+  - CHU, Poitiers (86)
+  - Fondation Rothschild, Paris (75)
+  - Hôpital privé La Châtaigneraie, Beaumont (63)
+  - Hôpital privé Saint-Grégoire, Saint-Grégoire (35)
+  - Hôpital privé du Confluent, Nantes (44)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Clinique Turin, Paris (75)
+  - Polyclinique Saint-Roch, Montpellier (34)
+  - Clinique mutualiste Jules-Verne, Nantes (44)
+  - Hôpital privé de la Loire, Saint-Étienne (42)
+  - Clinique Rive-Gauche, Toulouse (31)
+  - Nouvelles Cliniques de Tours, Saint-Cyr-sur-Loire (37)
+  - Nouvelle Clinique Bordeaux-Tondu, Bordeaux (33)
+  - Cli. Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - Hôpital privé Jean-Mermoz, Lyon (69)
+  - Hôpital privé Clairval, Marseille (13)
+  - Clinique de la Plaine, Clermont-Ferrand (63)
+  - Clinique Juge, Marseille (13)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Clinique Trénel, Sainte-Colombe (69)
+  - Clinique mutualiste Bénigne-Joly, Talant (21)
+  - Nouvelle Clinique Bel-Air, Bordeaux (33)
+  - Clinique Saint-George, Nice (06)
+  - Hôpital privé Le Bois, Lille (59)
+  - Polycli. Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - Clinique Médipôle-Garonne, Toulouse (31)
+  - Polyclinique Jean-Villar, Bruges (33)
+  - Hôpital privé Toulon-Hyères-Saint-Jean, Toulon (83)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Clinique de l'Anjou, Angers (49)
+  - Hôpital privé Claude-Galien, Quincy-sous-Sénart (91)
+  - Clinique du Val-d'Ouest Vendôme, Écully (69)
+  - Clinique Saint-Jean-de-Dieu, Paris (75)
+  - Clinique de l'Alma, Paris (75)
+  - Hôp/ privé Paris-Essonne Les Charmilles, Arpajon (91)
+  - Hôp. privé de la Seine-Saint-Denis, Le Blanc-Mesnil (93)
+  - Clinique La Croix du Sud, Toulouse (31)
+  - Pôle santé Léonard-de-Vinci, Chambray-lès-Tours (37)
+  - Polyclinique Pau-Pyrénées - Site Navarre, Pau (64)
+  - Clinique Delay, Bayonne (64)
+  - Clinique d'Argonay, Argonay (74)
+  - Clinique Belledonne, Saint-Martin-d'Hères (38)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UEPILEPSIEDELENFANTETDELADOLESCENT (conservé)
+COPIE: Hôpital de la Timone (enfants) (+30 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital de la Timone (enfants)
+  - HCL - Hôpital Femme-mère-enfant
+  - Hôpital Robert-Debré
+  - Hôpital Necker-Enfants malades
+  - CHU - Hôpital de Hautepierre
+  - Fondation Rothschild
+  - CHU - Hôpital Roger-Salengro
+  - CHU - Hôpital Purpan
+  - CHU - Hôpital Pellegrin
+  - CHU Amiens-Picardie
+  - CHU Grenoble - Site Nord
+  - Hôpital Raymond-Poincaré
+  - CHU - Hôpital Clocheville
+  - CHU - Hôpitaux de Brabois
+  - CHU, Angers
+  - CHU, Dijon
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre
+  - CHU - Hôpital Gui-de-Chauliac
+  - CHU - Hôpitaux Mère-enfants
+  - CHU - Hôpital Sud
+  - Hôpital Trousseau
+  - CHU - Hôpital Nord
+  - CHU, Besançon
+  - CHU - American Memorial Hospital
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants
+  - CHU - Hôpital Dupuytren
+  - CHU - Hôpital Charles-Nicolle
+  - CHU - Hôpital de la Côte de Nacre
+  - Hôpital Nord Franche-Comté-Belfort
+  - CHU Réunion - Site Félix-Guyon
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UHYPERTENSIONARTERIELE (conservé)
+COPIE: CHU - Hôpital Rangueil, Toulouse (31) (+50 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôp. européen Georges-Pompidou, Paris (75)
+  - Hôpital Hôtel-Dieu, Paris (75)
+  - CHU - Hôpital Saint-André, Bordeaux (33)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CHU - Institut cœur-poumon, Lille (59)
+  - Hôpital Avicenne, Bobigny (93)
+  - CHU - Hôp. de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU, Poitiers (86)
+  - Hôpital Bichat, Paris (75)
+  - CHU - Hôpital Lapeyronie, Montpellier (34)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - Hôpital Lariboisière, Paris (75)
+  - HCL - Hôpital de la Croix-Rousse, Lyon (69)
+  - Hôpital franco-britannique Kléber, Levallois-Perret (92)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - Hôpital Saint-Antoine, Paris (75)
+  - CH, Saint-Malo (35)
+  - CHU - Gabriel-Montpied, Clermont-Ferrand (63)
+  - HCL - Hôpital Louis-Pradel, Bron (69)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - Centre cardiologique du Nord, Saint-Denis (93)
+  - Clinique Pasteur, Toulouse (31)
+  - Clinique Rhéna, Strasbourg (67)
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Médipôle Lyon-Villeurbanne, Villeurbanne (69)
+  - Clinique Saint-Jean-Sud-de-France, Saint-Jean-de-Védas (34)
+  - Polyclinique Les Fleurs, Ollioules (83)
+  - Hôpital privé Saint-Martin, Caen (14)
+  - Clinique Louis-Pasteur, Essey-lès-Nancy (54)
+  - Clinique Rhône-Durance, Avignon (84)
+  - Hôpital privé de Villeneuve-d'Ascq, Villeneuve-d'Ascq (59)
+  - Institut Arnault-Tzanck, Saint-Laurent-du-Var (06)
+  - Clinique Saint-Augustin, Bordeaux (33)
+  - Clinique du Grand-Large, Brest (29)
+  - Groupe hospitalier privé Ambroise-Paré-Hartmann, Neuilly-sur-Seine (92)
+  - Clinique Saint-Pierre, Perpignan (66)
+  - Hôpital privé de la Loire, Saint-Étienne (42)
+  - Polyclinique Vauban, Valenciennes (59)
+  - Infirmerie protestante de Lyon, Caluire-et-Cuire (69)
+  - Hôpital privé Les Franciscaines, Nîmes (30)
+  - Médipôle de Savoie, Challes-les-Eaux (73)
+  - Polyclinique Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - Clinique de la Sauvegarde, Lyon (69)
+  - Hôpital privé Drôme-Ardèche, Guilherand-Granges (07)
+  - Clinique Saint-Vincent, Besançon (25)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: ULEUCEMIEDELADULTE (conservé)
+COPIE: Polyclinique de Reims-Bezannes, Bezannes (51) (+50 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Polyclinique de Reims-Bezannes, Bezannes (51)
+  - Clinique du Val-d'Or, Saint-Cloud (92)
+  - Polyclinique Bordeaux-Nord-Aquitaine, Bordeaux (33)
+  - Hôpital privé de la Loire, Saint-Étienne (42)
+  - Clinique du Parc, Castelnau-le-Lez (34)
+  - Hôpital privé d'Antony, Antony (92)
+  - Hôpital privé Nancy-Lorraine, Nancy (54)
+  - Clinique Rhéna, Strasbourg (67)
+  - Polyclinique Saint-Laurent*, Rennes (35)
+  - Clinique Victor-Pauchet, Amiens (80)
+  - Hôpital privé Arras-Les Bonnettes, Arras (62)
+  - Pôle santé Oréliance, Saran (45)
+  - Institut Arnault-Tzanck, Saint-Laurent-du-Var (06)
+  - Clinique de l'Union, Saint-Jean (31)
+  - Santé Atlantique, Saint-Herblain (44)
+  - Infirmerie protestante de Lyon, Caluire-et-Cuire (69)
+  - Clinique des Cèdres, Cornebarrieu (31)
+  - Clinique mutualiste de Bretagne-Occidentale, Quimper (29)
+  - Clinique Pasteur, Toulouse (31)
+  - Hôpital privé Claude-Galien, Quincy-sous-Sénart (91)
+  - Institut Paoli-Calmettes (CLCC), Marseille (13)
+  - Hôpital Saint-Louis, Paris (75)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - IUCT Oncopole, Toulouse (31)
+  - CHU - Hôtel-Dieu - Hôp. Mère-enfants, Nantes (44)
+  - CHU - Hôp. de Brabois, Vandœuvre-lès-Nancy (54)
+  - Gustave-Roussy (CLCC), Villejuif (94)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - CHU - Hôp. d'Estaing, Clermont-Ferrand (63)
+  - Institut de cancérologie Strasbourg Europe, Strasbourg (67)
+  - CHU Amiens-Picardie, Salouël (80)
+  - Hôpital Saint-Antoine, Paris (75)
+  - CHU - Hôpital de l'Archet, Nice (06)
+  - CHU/Institut de cancérologie de la Loire, Saint-Étienne/Saint-Priest-en-Jarez (42)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU, Poitiers (86)
+  - CHU, Besançon (25)
+  - Hôpital de la Pitié-Salpêtrière, Paris (75)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU - Hôpital Saint-Éloi, Montpellier (34)
+  - Centre Henri-Becquerel (CLCC), Rouen (76)
+  - CHU - Hôpital Morvan, Brest (29)
+  - CHU, Angers (49)
+  - Hôpital d'instruction des armées Percy, Clamart (92)
+  - Hôpital Necker-Enfants malades, Paris (75)
+  - CHU - Hôpital Bretonneau, Tours (37)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: ULEUCEMIEDELENFANTETDELADOLESCENT (conservé)
+COPIE: Leucémie de l'enfant et de l'adolescent (+2 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Leucémie de l'enfant et de l'adolescent
+  - Lymphome-myélome de l'adulte
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UMALADIESINFLAMMATOIRESCHRONIQUESDELINTESTINMICI (conservé)
+COPIE: Hôpital Saint-Antoine, Paris (75) (+40 autres) (1)
+STATUT: success
+TITRES TROUVÉS:
+  - Hôpital Saint-Antoine, Paris (75)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - Hôpital Beaujon, Clichy (92)
+  - CHU - Hôpital Rangueil, Toulouse (31)
+  - CHU - Hôpital Saint-Éloi, Montpellier (34)
+  - CHU - Hôpital Claude-Huriez, Lille (59)
+  - Hôpital Nord, Marseille (13)
+  - Hôpital Paris Saint-Joseph, Paris (75)
+  - Hôpital Saint-Louis, Paris (75)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CHU - Hôpital Haut-Lévêque, Pessac (33)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU, Poitiers (86)
+  - Hôpital européen, Marseille (13)
+  - CHU, Angers (49)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU - Hôpital de l'Archet, Nice (06)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - CHU, Nîmes (30)
+  - CHU - Hôpital Trousseau, Tours (37)
+  - CH, Annecy (74)
+  - Hôpital Robert-Debré*, Paris (75)
+  - CH, Chambéry (73)
+  - Hôpital Saint-Joseph, Marseille (13)
+  - Hôpital Necker*-Enfants malades, Paris (75)
+  - CHU, Besançon (25)
+  - CHU - Hôpital Pontchaillou, Rennes (35)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CH, Avignon (84)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - CHU, Orléans (45)
+  - CHU, Dijon (21)
+  - Hôpital Louis-Mourier, Colombes (92)
+  - Hôpitaux civils, Colmar (68)
+  - CHU - Hôpital civil, Strasbourg (67)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UPROTHSEDEHANCHE (conservé)
+COPIE: Cli. Médipôle-Garonne (+49 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - Cli. Médipôle-Garonne
+  - Clinique Rhéna
+  - Santé Atlantique
+  - Clinique Arago
+  - Clinique du sport
+  - Cli. du Croisé-Laroche
+  - Hôpital privé Saint-Martin
+  - Polyclinique de Courlancy
+  - Clinique de l'Atlantique
+  - Hôp. privé Saint-Grégoire
+  - Clinique de l'Union
+  - Clinique Belharra
+  - Hôp. privé La Châtaigneraie
+  - Pôle santé Oréliance
+  - Clinique du Cèdre
+  - Polycli. Saint-Roch
+  - Clinique Claude-Bernard
+  - Clinique mutualiste de Bretagne-Occidentale
+  - Clinique Saint-Vincent
+  - Cli. Belledonne
+  - Pôle Santé-République
+  - Polyclinique du Parc
+  - Hôp. privé Dijon-Bourgogne
+  - Clinique Jouvenet
+  - Centre orthopédique médico-chirurgical de Dracy-le-Fort
+  - Médipôle de Savoie
+  - Clinique de la Sauvegarde
+  - Polyclinique La Ligne-Bleue
+  - Clinique Pasteur-Lanroze
+  - Clinique Saint-Jean-Sud-de-France
+  - Hôp. privé Arras-Les Bonnettes
+  - Cli. mutualiste catalane
+  - Cli. Louis-Pasteur
+  - Hôpital privé du Confluent
+  - Hôp. privé Sévigné
+  - Polyclinique de Limoges
+  - Site Chénieux
+  - Clinique Maussins-Nollet
+  - Pôle santé Léonard-de-Vinci
+  - Nouvelles Cliniques de Tours
+  - Clinique Juge
+  - Clinique du Renaison
+  - Polyclinique de Poitiers
+  - Clinique du Parc
+  - Clinique Ambroise-Paré
+  - Clinique Saint-George
+  - Clinique Les Fontaines
+  - Polyclinique Médipôle Saint-Roch
+  - Clinique du Pré
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: USTRESSPOSTTRAUMATIQUE (conservé)
+COPIE: CHU, Tours (37) (+40 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU, Tours (37)
+  - Hôpital d'instruction des armées Robert-Picqué, Villenave-d'Ornon (33)
+  - Hôpital d'instruction des armées Laveran, Marseille (13)
+  - CH Henri-Laborit, Poitiers (86)
+  - CH Charles-Perrens, Bordeaux (33)
+  - Centre psychothérapique de Nancy, Laxou (54)
+  - Hôpital Hôtel-Dieu, Paris (75)
+  - Hôpital d'instruction des armées Bégin, Saint-Mandé (94)
+  - CH, Cadillac-sur-Garonne (33)
+  - Hôpital d'instruction des armées Legouest, Metz (57)
+  - EPS Ville-Évrard, Neuilly-sur-Marne (93)
+  - CHU, Strasbourg (67)
+  - GH Paul Guiraud, Villejuif (94)
+  - Hôpital d'instruction des armées Desgenettes, Lyon (69)
+  - CHU Réunion, Saint-Paul (974)
+  - Hôpitaux pédiatriques, Nice (06)
+  - Hôpital Tenon, Paris (75)
+  - CH, Arras (62)
+  - CHU, Caen (14)
+  - Hôpital d'instruction des armées Sainte-Anne, Toulon (83)
+  - CH Esquirol, Limoges (87)
+  - CHU, Toulouse (31)
+  - CHU, Lille (59)
+  - CHU, Nantes (44)
+  - CH Montfavet, Avignon (84)
+  - Hôpital Avicenne, Bobigny (93)
+  - CH Guillaume-Régnier, Rennes (35)
+  - CHU, Rouffach (68)
+  - CHU, Nîmes (30)
+  - Hôpital d'instruction des armées Percy, Clamart (92)
+  - CH Édouard-Toulouse, Marseille (13)
+  - Hôpital Saint-Antoine, Paris (75)
+  - CH Georges-Daumezon, Fleury-les-Aubrais (45)
+  - Hôpital de la Conception, Marseille (13)
+  - Hôpital Bicêtre, Le Kremlin-Bicêtre (94)
+  - CH, Thuir (66)
+  - Hôpital Corentin-Celton, Issy-les-Moulineaux (92)
+  - EPSM du Finistère-Sud, Quimper (29)
+  - CHU, Montpellier (34)
+  - HCL - Hôpital Femme-mère-enfant, Bron (69)
+  - ---------------------------------------
+----------------------------------------
+
+ORIGINAL: UTUMEURSDUCERVEAUDELENFANTETDELADOLESCENT (conservé)
+COPIE: CHU, Lille (59) (+45 autres)
+STATUT: success
+TITRES TROUVÉS:
+  - CHU, Lille (59)
+  - HCL - Hôpital Lyon-Sud, Pierre-Bénite (69)
+  - Hôpital Saint-Louis, Paris (75)
+  - Gustave-Roussy (CLCC), Villejuif (94)
+  - Hôpital de la Timone (adultes), Marseille (13)
+  - Hôpital Ambroise-Paré, Boulogne-Billancourt (92)
+  - IUCT Oncopole, Toulouse (31)
+  - CHU, Dijon (21)
+  - CHU - Hôpital de la Côte de Nacre, Caen (14)
+  - CHU - Hôtel-Dieu - Hôpital Mère-enfants, Nantes (44)
+  - CHU, Nîmes (30)
+  - CHU Grenoble - Site Nord, La Tronche (38)
+  - CHU, Nice (06)
+  - Hôpital Henri-Mondor, Créteil (94)
+  - Hôpital Cochin, Paris (75)
+  - CHU - Hôpital d'Estaing, Clermont-Ferrand (63)
+  - CHU Amiens-Picardie, Salouël (80)
+  - CHU - Hôpital Dupuytren, Limoges (87)
+  - Centre Léon-Bérard (CLCC), Lyon (69)
+  - CHU - Hôpital Charles-Nicolle, Rouen (76)
+  - CH, Valence (26)
+  - CHU - Hôpital Nord, Saint-Étienne (42)
+  - CH, Annecy (74)
+  - CHU - Hôpital Pellegrin, Bordeaux (33)
+  - CHU - Hôpital Robert-Debré, Reims (51)
+  - Hôpital Nord, Marseille (13)
+  - Hôpitaux civils, Colmar (68)
+  - Centre François-Baclesse (CLCC), Caen (14)
+  - Centre Eugène-Marquis (CLCC), Rennes (35)
+  - CH, Le Mans (72)
+  - Institut Curie (CLCC), Paris (75)
+  - CHU, Bordeaux (33)
+  - CHU-Hôpital Purpan/HFE, Toulouse (31)
+  - Hôp. Necker-Enfants malades, Paris (75)
+  - Hôp. de la Timone (enfants), Marseille (13)
+  - CHU - Hôpitaux de Brabois, Vandœuvre-lès-Nancy (54)
+  - CHU, Angers (49)
+  - CHU, Montpellier (34)
+  - Centre Oscar-Lambret (CLCC), Lille (59)
+  - HCL - Hôp. Femme-mère-enfant, Bron (69)
+  - CHU - Hôp. de Hautepierre, Strasbourg (67)
+  - CHU - American Memorial Hospital, Reims (51)
+  - CHU - Hôpital Sud, Rennes (35)
+  - CHU - Hôp. de la Côte de Nacre, Caen (14)
+  - Centre Antoine-Lacassagne (CLCC), Nice (06)
+  - ---------------------------------------
+----------------------------------------
+

@@ -1,0 +1,32 @@
+{
+  "dpi": 300,
+  "language": "fra",
+  "resize_factor": 2.0,
+  "thresholding": true,
+  "blur": false,
+  "min_conf": 30,
+  "unwanted_chars_pattern": "[@©]",
+  "bin_width": 50,
+  "peak_min_count": 20,
+  "tol_y": 8,
+  "row_exclude_patterns": [
+    "\\bReader\\b",
+    "\\bZINIO\\b",
+    "https?://",
+    "\\d{2}/\\d{2}/\\d{4}",
+    "\\d{2}:\\d{2}"
+  ],
+  "crop_top_ratio": 0.0,
+  "crop_bottom_ratio": 1.0,
+  "crop_left_ratio": 0.0,
+  "crop_right_ratio": 0.40,
+  "n_slices": 1,  "save_debug": true,
+  "export_excel": true,
+  "output_basename": "colonnes_gauches",
+  "default_directory": "C:\\Users\\LeviWEBERT\\OneDrive - ALBUS PARTNERS\\Bureau\\Scan Medecine\\tri_image_automatique\\images_renommees",
+  "enable_dynamic_analysis": true,
+  "min_column_width": 50,
+  "max_column_width": 800,
+  "text_density_threshold": 0.1,
+  "column_gap_threshold": 20
+}

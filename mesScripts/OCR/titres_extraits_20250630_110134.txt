@@ -1,0 +1,1085 @@
+================================================================================
+EXTRACTION DES TITRES - RÉSULTATS GEMINI
+Date d'extraction: 2025-06-30 11:01:34
+Fichier source: resultats_analyse_gemini.txt
+Total de titres extraits: 579
+================================================================================
+
+FICHIER: ABLATIONDESVARICES_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\ABLATIONDESVARICES\ABLATIONDESVARICES_1.jpg
+TITRES:
+- ABLATION DES VARICES
+- CHIRURGIE DES CAROTIDES
+
+------------------------------------------------------------
+
+FICHIER: ANSUFFISANCECARDIAQUE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\ANSUFFISANCECARDIAQUE\ANSUFFISANCECARDIAQUE.jpg
+TITRES:
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- HOSPITALISATIONS DE JOUR
+- INDICE DE GRAVITÉ
+- MORTALITÉ
+- RYTHMOLOGIE
+- CHIRURGIE CARDIAQUE
+- GREFFES
+- ECMO
+- URGENCES 24 H SUR 24
+- TÉLÉSURVEILLANCE
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: APPENDICITE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\APPENDICITE\APPENDICITE_1.jpg
+TITRES:
+- APPAREIL DIGESTIF
+- CANCER DU FOIE
+- APPENDICITE
+
+------------------------------------------------------------
+
+FICHIER: APPENDICITE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\APPENDICITE_1\APPENDICITE.jpg
+TITRES:
+- APPENDICITE
+- HÔPITAUX
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- CŒLIOCHIRURGIE
+- ÉVALUATION DE LA MORTALITÉ
+- NOTE /20
+
+------------------------------------------------------------
+
+FICHIER: ARTHROSEDELAMAIN_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\ARTHROSEDELAMAIN\ARTHROSEDELAMAIN_1.jpg
+TITRES:
+- CHIRURGIE DE L'ÉPAULE
+- ARTHROSE DE LA MAIN
+- CHIRURGIE DU CANAL CARPIEN
+- ARTHROSE DE LA MAIN
+
+------------------------------------------------------------
+
+FICHIER: AUDITION_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\AUDITION\AUDITION_1.jpg
+TITRES:
+- CANCER ORL
+- AUDITION
+
+------------------------------------------------------------
+
+FICHIER: CALCULSURINAIRES_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CALCULSURINAIRES\CALCULSURINAIRES_1.jpg
+TITRES:
+- UROLOGIE
+- CALCULS URINAIRES
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: CANCERDELAPROSTATE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDELAPROSTATE\CANCERDELAPROSTATE.jpg
+TITRES:
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- INDICE DE GRAVITÉ
+- ULTRASONS
+- CURIETHÉRAPIE
+- TRAITEMENTS FOCAUX
+- ROBOTS CHIRURGICAUX
+- SUIVI À DOMICILE
+- NOTE / 20
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- INDICE DE GRAVITÉ
+- ULTRASONS
+- CURIETHÉRAPIE
+- TRAITEMENTS FOCAUX
+- ROBOTS CHIRURGICAUX
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: CANCERDELATHYRODE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDELATHYRODE\CANCERDELATHYRODE_1.jpg
+TITRES:
+- CHIRURGIE DES SARCOMES DES TISSUS MOUS
+- CANCER DE LA THYROÏDE
+
+------------------------------------------------------------
+
+FICHIER: CANCERDELAVESSE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDELAVESSE\CANCERDELAVESSE_1.jpg
+TITRES:
+- UROLOGIE
+- CANCER DE LA VESSIE
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: CANCERDELOVAIRE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDELOVAIRE\CANCERDELOVAIRE_1.jpg
+TITRES:
+- CANCER DE L'OVAIRE
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: CANCERDELPUTERUS.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDELPUTERUS\CANCERDELPUTERUS.jpg
+TITRES:
+- GYNÉCOLOGIE
+- CANCER DE L'UTÉRUS
+- HÔPITAUX
+- CENTRE EXPERT
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- CURIETHÉRAPIE
+- NOTE / 20
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- CURIETHÉRAPIE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: CANCERDUCOLONOUDELINTESTIN.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDUCOLONOUDELINTESTIN\CANCERDUCOLONOUDELINTESTIN.jpg
+TITRES:
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE MOY. DE SÉJOUR
+- INDICE DE GRAVITÉ
+- CŒLIOCHIRURGIE
+- RÉANIMATION
+- PET-SCAN
+- UPOG
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: CANCERDUPANCRAS_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDUPANCRAS\CANCERDUPANCRAS_1.jpg
+TITRES:
+- CANCER DE L'ESTOMAC OU DE L'ŒSOPHAGE
+- APPAREIL DIGESTIF
+- CANCER DU PANCRÉAS
+
+------------------------------------------------------------
+
+FICHIER: CANCERDUPOUMON.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDUPOUMON\CANCERDUPOUMON.jpg
+TITRES:
+- CANCÉROLOGIE
+- CANCER DU POUMON
+- HÔPITAUX
+
+------------------------------------------------------------
+
+FICHIER: CANCERDUREIN_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDUREIN\CANCERDUREIN_1.jpg
+TITRES:
+- CENTRE EXPERT
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- INDICE DE GRAVITÉ
+- TECHNICITÉ
+- CŒLIOCHIRURGIE
+- THERMO-ABLATIONS
+- GREFFES
+- ROBOTS CHIRURGICAUX
+- NOTE / 20
+- ROBOTS CHIR.
+
+------------------------------------------------------------
+
+FICHIER: CANCERDUSEIN.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDUSEIN\CANCERDUSEIN.jpg
+TITRES:
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- GANGLIONS SENTINELLES
+- CHIMIOTHÉRAPIE
+- RADIOTHÉRAPIE
+- CHIRURGIE RÉPARATRICE
+- PET-SCAN
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: GANCERDUSEN.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCERDUSEIN2\GANCERDUSEN.jpg
+TITRES:
+- CLINIQUES
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- GANGLIONS SENTINELLES
+- CHIMIOTHÉRAPIE
+- RADIOTHÉRAPIE
+- CHIRURGIE RÉPARATRICE
+- PET-SCAN
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: CANCEROR.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CANCEROR\CANCEROR.jpg
+TITRES:
+- CHIRURGIE CARDIAQUE ADULTE
+- HÔPITAUX
+- CLINIQUES
+- CHIRURGIE CARDIAQUE PÉDIATRIQUE
+
+------------------------------------------------------------
+
+FICHIER: CHIRURGIEDELACHEVILLE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CHIRURGIEDELACHEVILLE\CHIRURGIEDELACHEVILLE_1.jpg
+TITRES:
+- LIGAMENTS DU GENOU
+- CHIRURGIE DE LA CHEVILLE
+
+------------------------------------------------------------
+
+FICHIER: CHIRURGIEDELACORNEE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CHIRURGIEDELACORNEE\CHIRURGIEDELACORNEE_1.jpg
+TITRES:
+- CHIRURGIE DE LA CORNÉE
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: CHIRURGIEDELARETINE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CHIRURGIEDELARETINE\CHIRURGIEDELARETINE_1.jpg
+TITRES:
+- CHIRURGIE DE LA RÉTINE
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: CHIRURGIEDELOBESITE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CHIRURGIEDELOBESITE\CHIRURGIEDELOBESITE_1.jpg
+TITRES:
+- CANCER DU CÔLON OU DE L'INTESTIN
+- APPAREIL DIGESTIF
+- CHIRURGIE DE L'OBÉSITÉ
+
+------------------------------------------------------------
+
+FICHIER: CHIRURGIEDENTAIREETORALEDELENFANTETDELADOLESCENT_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CHIRURGIEDENTAIREETORALEDELENFANTETDELADOLESCENT\CHIRURGIEDENTAIREETORALEDELENFANTETDELADOLESCENT_1.jpg
+TITRES:
+- CHIRURGIE DENTAIRE ET ORALE DE L'ADULTE
+- CHIRURGIE DENTAIRE ET ORALE DE L'ENFANT ET DE L'ADOLESCENT
+
+------------------------------------------------------------
+
+FICHIER: CHIRURGIEDESCAROTIDES_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CHIRURGIEDESCAROTIDES\CHIRURGIEDESCAROTIDES_1.jpg
+TITRES:
+- VEINES ET ARTÈRES
+- CHIRURGIE DES CAROTIDES
+- CHIRURGIE DES ARTÈRES
+
+------------------------------------------------------------
+
+FICHIER: CHIRURGIEDUDOSDELADULTE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CHIRURGIEDUDOSDELADULTE\CHIRURGIEDUDOSDELADULTE_1.jpg
+TITRES:
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- INDICE DE GRAVITÉ
+- SPÉCIALISATION
+- URGENCES 24H/24
+- IRM-SCAN. 24H/24
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: CHIRURGIEDUNEZETDESSINUS_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CHIRURGIEDUNEZETDESSINUS\CHIRURGIEDUNEZETDESSINUS_1.jpg
+TITRES:
+- CHIRURGIE DENTAIRE ET ORALE DE L'ENFANT ET DE L'ADOLESCENT
+- CHIRURGIE DU NEZ ET DES SINUS
+
+------------------------------------------------------------
+
+FICHIER: CHIRURGIEDURECTUM_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CHIRURGIEDURECTUM\CHIRURGIEDURECTUM_1.jpg
+TITRES:
+- CHIRURGIE DE L'OBÉSITÉ
+- CHIRURGIE DU RECTUM
+
+------------------------------------------------------------
+
+FICHIER: CHRURGEDUPIED_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\CHRURGEDUPIED\CHRURGEDUPIED_1.jpg
+TITRES:
+- CHIRURGIE DU PIED
+- CHIRURGIE DE LA CHEVILLE
+
+------------------------------------------------------------
+
+FICHIER: EDIT.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\DEPRESSION\EDIT.jpg
+TITRES:
+- CENTRE EXPERT FONDAMENTAL
+- CENTRE EXPERT
+- URGENCES PSYCHIATRIQUES
+- NOMBRE DE PATIENTS
+- AMBULATOIRE
+- SPÉCIALISATION
+- DENSITÉ DES ACTES MÉDICAUX
+- DENSITÉ DES ACTES NON MÉDICAUX
+- ISOLEMENT THÉRAPEUTIQUE
+- PATIENTS CMP
+- CMP
+- ACCUEIL SOIGNANT IMMÉDIAT
+- EXAMEN MÉDICAL COMPLET
+- RÉHABILITATION PSYCHOSOCIALE
+- CENTRE D'INTERVENTION PRÉCOCE
+- SISMOTHÉRAPIE
+- VIGILANS
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: DIABETEDELADULTE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\DIABETEDELADULTE\DIABETEDELADULTE.jpg
+TITRES:
+- CENTRE EXPERT
+- ACTIVITÉ
+- NOTORIÉTÉ
+- HOSPITALISATIONS DE JOUR
+- DURÉE DE SÉJOUR
+- INDICE DE GRAVITÉ
+- PIED DIABÉTIQUE
+- POMPES À INSULINE EXTERNES
+- PANCRÉAS ARTIFICIELS
+- POMPES À INSULINE INTERNES
+- GREFFES D'ÎLOTS PANCRÉATIQUES
+- TÉLÉSURVEILLANCE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: DIABETEDELENFANTETDELADOLESCENT.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\DIABETEDELENFANTETDELADOLESCENT\DIABETEDELENFANTETDELADOLESCENT.jpg
+TITRES:
+- CENTRE EXPERT
+- ACTIVITÉ
+- HOSPITALISATIONS DE JOUR
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- INDICE DE GRAVITÉ
+- POMPES INSULINE EXT.
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: ENDOMETRIOSE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\ENDOMETRIOSE\ENDOMETRIOSE_1.jpg
+TITRES:
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- CŒLIOCHIRURGIE
+- RÉUNION PLURIDISCIPLINAIRE
+- ALGOLOGUE
+- SEXOLOGUE
+- PSYCHOLOGUE
+- AIDE MÉDICALE À LA PROCRÉA.
+- CONGÉLATION D'OVO.
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: FIBROMEUTRIN_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\FIBROMEUTRIN\FIBROMEUTRIN_1.jpg
+TITRES:
+- GYNÉCOLOGIE
+- FIBROME UTÉRIN
+- HÔPITAUX
+- CLINIQUES
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- INDICE DE GRAVITÉ
+- CŒLIOCHIRURGIE
+- EMBOLISATION
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: GLANDESSALIVAIRES_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\GLANDESSALIVAIRES\GLANDESSALIVAIRES_1.jpg
+TITRES:
+- AUDITION
+- TÊTE ET COU
+- GLANDES SALIVAIRES
+
+------------------------------------------------------------
+
+FICHIER: HERMIESDELABDOMEN_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\HERMIESDELABDOMEN\HERMIESDELABDOMEN_1.jpg
+TITRES:
+- APPAREIL DIGESTIF
+- HERNIES DE L'ABDOMEN
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: INFARCTUSDUMYOCARDE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\INFARCTUSDUMYOCARDE\INFARCTUSDUMYOCARDE_1.jpg
+TITRES:
+- CARDIOLOGIE
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: MALADIEDEPARKINSON.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\MALADIEDEPARKINSON\MALADIEDEPARKINSON.jpg
+TITRES:
+- HÔPITAUX
+- CENTRE EXPERT
+- RECHERCHE CLINIQUE
+- NOMBRE DE PATIENTS
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- STIMULATIONS CÉRÉBRALES PROFONDES
+- POMPES À DUODOPA
+- POMPES À APOMORPHINE
+- SCINTIGRAPHIES CÉRÉBRALES ET CARDIAQUES
+- KINÉSITHÉRAPEUTE
+- ERGOTHÉRAPEUTE
+- ORTHOPHONISTE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: img00002 (27)-EDIT.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\MATERNITE\img00002 (27)-EDIT.jpg
+TITRES:
+- ACTIVITÉ
+- DURÉE DE SÉJOUR
+- OBSTÉTRICIEN DE GARDE
+- ANESTHÉSISTE DE GARDE
+- PÉDIATRE DE GARDE
+- CÉSARIENNES
+- PÉRIDURALES
+- ÉPISIOTOMIES
+- EXTRACTIONS INSTRUMENTALES
+- DÉCLENCHEMENTS
+- AUTOANALGÉSIES
+- ALLAITEMENT
+- PSYCHOLOGUE
+- BLOC OPÉRATOIRE
+- NÉONATALOGIE
+- UNITÉ KANGOUROU
+- UNITÉ DÉMÉDICALISÉE
+- PRÉSENCE DU PÈRE
+- CHAMBRES À 1 LIT
+- CHAMBRES AVEC SDB
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: img00002 (27).jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\MATERNITE\img00002 (27).jpg
+TITRES:
+- HÔPITAUX
+- MATERNITÉS
+- ACTIVITÉ
+- DURÉE DE SÉJOUR
+- OBSTÉTRICIEN DE GARDE
+- ANESTHÉSISTE DE GARDE
+- PÉDIATRE DE GARDE
+- CÉSARIENNES
+- PÉRIDURALES
+- ÉPISIOTOMIES
+- EXTRACTIONS INSTRUMENTALES
+- DÉCLENCHEMENTS
+- AUTOANALGÉSIES
+- ALLAITEMENT
+- PSYCHOLOGUE
+- BLOC OPÉRATOIRE
+- NÉONATALOGIE
+- UNITÉ KANGOUROU
+- UNITÉ DÉMÉDICALISÉE
+- PRÉSENCE DU PÈRE
+- CHAMBRES À 1 LIT
+- CHAMBRES AVEC SDB
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: MEDECINEVASCULAIRE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\MEDECINEVASCULAIRE\MEDECINEVASCULAIRE.jpg
+TITRES:
+- MÉDECINE VASCULAIRE
+- HÔPITAUX
+- CENTRE EXPERT
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- INDICE DE GRAVITÉ
+- ACTES MÉDICAUX VASCULAIRES
+- UNITÉ DE MÉDECINE VASCULAIRE
+- PLATEAU TECHNIQUE SPÉCIALISÉ
+- LYMPHŒDÈME
+- PLAIE ET CICATRISATION
+- TÉLÉMÉDECINE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: MSICULEBLIAIRE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\MSICULEBLIAIRE\MSICULEBLIAIRE_1.jpg
+TITRES:
+- VÉSICULE BILIAIRE
+- APPAREIL DIGESTIF
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: img00001 (7).jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\pGEAUCOME\img00001 (7).jpg
+TITRES:
+- GLAUCOME
+- STRABISME
+
+------------------------------------------------------------
+
+FICHIER: pGEAUCOME_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\pGEAUCOME\pGEAUCOME_1.jpg
+TITRES:
+- CENTRE EXPERT
+- CENTRE MUCOVISCIDOSE
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- CANCERS THORACIQUES
+- ASTHME
+- APNÉE DU SOMMEIL
+- UNITÉ DE SOINS INTENSIFS
+- BRONCHOSCOPIE INTERVENTIONNELLE
+- CHIRURGIE PULMONAIRE
+- GREFFES
+- RÉUNION MULTI. ASTHME SÉVÈRE
+- RÉUNION MULTI. FIBROSE INTERSTITIELLE
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: PNEUMOLOGIE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\PNEUMOLOGIE_1\PNEUMOLOGIE.jpg
+TITRES:
+- PNEUMOLOGIE
+- CLINIQUES
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- TAUX D'ASTHME
+- CHIRURGIE PULMONAIRE
+- APNÉE DU SOMMEIL
+- UNITÉ DE SOINS INTENSIFS
+- BRONCHOSCOPIE INTERVENTIONNELLE
+- RÉUNION MULTI. ASTHME CRITIQUE
+- RÉUNION MULTI. FIBROSE INTERSTIT.
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: PROCTOLOGIE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\PROCTOLOGIE\PROCTOLOGIE_1.jpg
+TITRES:
+- PROCTOLOGIE
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: PROTHESEDEGENOU_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\PROTHESEDEGENOU\PROTHESEDEGENOU_1.jpg
+TITRES:
+- PROTHÈSE DE GENOU
+- ORTHOPÉDIE
+- HÔPITAUX
+- CLINIQUES
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- INDICE DE GRAVITÉ
+- RÉCUPÉRATION RAPIDE
+- CHANGEMENT
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: PROTHESEDEHANCHE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\PROTHESEDEHANCHE\PROTHESEDEHANCHE.jpg
+TITRES:
+- CENTRE EXPERT
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- RÉCUPÉRATION RAPIDE
+- CHANGEMENT
+- UPOG
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: RYTHMOLOGIE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\RYTHMOLOGIE\RYTHMOLOGIE.jpg
+TITRES:
+- USIC
+- ACTIVITÉ PACEMAKER
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- ACTIVITÉ DÉFIBRILLATEUR
+- ABLATION DES FOYERS ARYTHMIQUES
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: SCHIZOPHRENIE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\SCHIZOPHRENIE\SCHIZOPHRENIE_1.jpg
+TITRES:
+- Centre expert
+- Urgences psychiatriques
+- Nombre de patients
+- Ambulatoire
+- Spécialisation
+- Densité des actes médicaux
+- Densité des actes non médicaux
+- Isolement thérapeutique
+- Patient en CMP
+- CMP
+- Accueil soignant immédiat
+- Examen médical complet
+- Réhabilitation psychosociale
+- Centre d'intervention précoce
+- Sismothérapie
+- Vigilans
+- Note / 20
+
+------------------------------------------------------------
+
+FICHIER: TARACTE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\TARACTE\TARACTE_1.jpg
+TITRES:
+- CATARACTE
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: TROUBLESBIPOLAIRES.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\TROUBLESBIPOLAIRES\TROUBLESBIPOLAIRES.jpg
+TITRES:
+- CENTRE EXPERT FONDAMENTAL
+- CENTRE EXPERT
+- URGENCES PSYCHIATRIQUES
+- NOMBRE DE PATIENTS
+- AMBULATOIRE
+- SPÉCIALISATION
+- DENSITÉ DES ACTES MÉDICAUX
+- DENSITÉ DES ACTES NON MÉDICAUX
+- ISOLEMENT THÉRAPEUTIQUE
+- PATIENTS CMP
+- CMP
+- ACCUEIL SOIGNANT IMMÉDIAT
+- EXAMEN MÉDICAL COMPLET
+- RÉHABILITATION PSYCHOSOCIALE
+- CENTRE D'INTERVENTION PRÉCOCE
+- SISMOTHÉRAPIE
+- VIGILANS
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: UACCIDENTSVASCULAIRESCREBRAUX.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UACCIDENTSVASCULAIRESCREBRAUX\UACCIDENTSVASCULAIRESCREBRAUX.jpg
+TITRES:
+- ACTIVITÉ
+- TAUX D'ENTRÉE EN UNV
+- MORTALITÉ
+- THROMBOLYSES
+- THROMBECTOMIES
+- UNITÉ NEURO-VASCULAIRE
+- NEUROLOGUE DE GARDE
+- IRM/SCANNER SUR PLACE 24 H SUR 24
+- NEURORADIOLOGUE INTERVENTIONNEL
+- KINÉSITHÉRAPEUTE
+- ORTHOPHONISTE
+- PSYCHOLOGUE
+- DISPOSITIF TÉLÉ-AVC
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: UACCOUCHEMENTSARISQUES.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UACCOUCHEMENTSARISQUES\UACCOUCHEMENTSARISQUES.jpg
+TITRES:
+- ACCOUCHEMENTS À RISQUES
+- MATERNITÉS
+- HÔPITAUX
+- ACTIVITÉ
+- DURÉE DE SÉJOUR
+- OBSTÉTRICIEN DE GARDE
+- ANESTHÉSISTE DE GARDE
+- PÉDIATRE DE GARDE
+- CÉSARIENNES
+- PÉRIDURALES
+- ÉPISIOTOMIES
+- EXTRACTIONS INSTRU.
+- NAISSANCES MULTIPLES
+- AUTOANALGÉSIES
+- ALLAITEMENT
+- BLOC OPÉRATOIRE
+- RÉANIMATION ADULTE
+- NÉONATALOGIE
+- RÉANIMATION NÉONATALE
+- PSYCHOLOGUE
+- UNITÉ KANGOUROU
+- UNITÉ DÉMÉDICALISÉE
+- CHAMBRES À 1 LIT
+- CHAMBRES AVEC SDB
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: UACCOUCHEMENTSNORMAUX.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UACCOUCHEMENTSNORMAUX\UACCOUCHEMENTSNORMAUX.jpg
+TITRES:
+- ACTIVITÉ
+- DURÉE DE SÉJOUR
+- OBSTÉTRICIEN DE GARDE
+- ANESTHÉSISTE DE GARDE
+- PÉDIATRE DE GARDE
+- CÉSARIENNES
+- PÉRIDURALES
+- ÉPISIOTOMIES
+- EXTRACTIONS INSTRUMENTALES
+- DÉCLENCHEMENTS
+- AUTOANALGÉSIES
+- ALLAITEMENT
+- PSYCHOLOGUE
+- BLOC OPÉRATOIRE
+- NÉONATALOGIE
+- UNITÉ KANGOUROU
+- ACCOUCHEMENT DÉMÉDICALISÉ
+- PRÉSENCE DU PÈRE
+- CHAMBRES À 1 LIT
+- CHAMBRES AVEC SDB
+- SUIVI À DOMICILE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: UADENOMEDELAPROSTATE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UADENOMEDELAPROSTATE\UADENOMEDELAPROSTATE_1.jpg
+TITRES:
+- ADÉNOME DE LA PROSTATE
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: UAMYGDALESETVEGETATIONS_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UAMYGDALESETVEGETATIONS\UAMYGDALESETVEGETATIONS_1.jpg
+TITRES:
+- AMYGDALES ET VÉGÉTATIONS
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: UANGIOPLASTIECORONAIRE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UANGIOPLASTIECORONAIRE\UANGIOPLASTIECORONAIRE_1.jpg
+TITRES:
+- CARDIOLOGIE
+- ANGIOPLASTIE CORONAIRE
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: UCARDIOLOGIEINTERVENTIONNELLE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UCARDIOLOGIEINTERVENTIONNELLE\UCARDIOLOGIEINTERVENTIONNELLE_1.jpg
+TITRES:
+- RYTHMOLOGIE
+- CARDIOLOGIE
+- CARDIOLOGIE INTERVENTIONNELLE
+
+------------------------------------------------------------
+
+FICHIER: UCHIRURGIEDESCANCERSOSSEUXDELADULTE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UCHIRURGIEDESCANCERSOSSEUXDELADULTE\UCHIRURGIEDESCANCERSOSSEUXDELADULTE.jpg
+TITRES:
+- TUMEURS DU CERVEAU DE L'ADULTE
+- CANCER DES OS DE L'ENFANT ET DE L'ADOLESCENT
+- CHIRURGIE DES CANCERS OSSEUX DE L'ADULTE
+
+------------------------------------------------------------
+
+FICHIER: UCHIRURGIEDESTESTICULESDELENFANTETDELADOLESCENT_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UCHIRURGIEDESTESTICULESDELENFANTETDELADOLESCENT\UCHIRURGIEDESTESTICULESDELENFANTETDELADOLESCENT_1.jpg
+TITRES:
+- CHIRURGIE DES TESTICULES DE L'ADULTE
+- CHIRURGIE DES TESTICULES DE L'ENFANT ET DE L'ADOLESCENT
+
+------------------------------------------------------------
+
+FICHIER: UCHIRURGIEDUDOSDELENFANTETDELADOLESCENT_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UCHIRURGIEDUDOSDELENFANTETDELADOLESCENT\UCHIRURGIEDUDOSDELENFANTETDELADOLESCENT_1.jpg
+TITRES:
+- URGENCES DE LA MAIN
+- CHIRURGIE DU DOS DE L'ENFANT ET DE L'ADOLESCENT
+
+------------------------------------------------------------
+
+FICHIER: UCHIRURGIEMAXILLOFACIALE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UCHIRURGIEMAXILLOFACIALE\UCHIRURGIEMAXILLOFACIALE_1.jpg
+TITRES:
+- TÊTE ET COU
+- CHIRURGIE MAXILLO-FACIALE
+- HÔPITAUX
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: UEPILEPSIEDELENFANTETDELADOLESCENT.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UEPILEPSIEDELENFANTETDELADOLESCENT\UEPILEPSIEDELENFANTETDELADOLESCENT.jpg
+TITRES:
+- CENTRE EXPERT EUROPÉEN
+- CENTRE EXPERT
+- ACTIVITÉ
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- AMBULATOIRE
+- INDICE DE GRAVITÉ
+- ACTIVITÉ CHIRURGICALE
+- STIMULATION DU NERF VAGUE
+- UNITÉ D'ÉPILEPTOLOGIE
+- NEUROPÉDIATRE
+- PSYCHIATRE
+- PSYCHOLOGUE
+- INFIRMIÈRE EN PRATIQUE AVANCÉE
+- INFIRMIÈRE COORDINATRICE
+- ÉDUCATION THÉRAPEUTIQUE
+- PET-SCAN
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: UHYPERTENSIONARTERIELE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UHYPERTENSIONARTERIELE\UHYPERTENSIONARTERIELE_1.jpg
+TITRES:
+- HYPERTENSION ARTÉRIELLE
+- CHIRURGIE DES ARTÈRES
+
+------------------------------------------------------------
+
+FICHIER: ULEUCEMIEDELADULTE_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\ULEUCEMIEDELADULTE\ULEUCEMIEDELADULTE_1.jpg
+TITRES:
+- CANCER DU POUMON
+- LEUCÉMIE DE L'ADULTE
+
+------------------------------------------------------------
+
+FICHIER: edit1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\ULEUCEMIEDELENFANTETDELADOLESCENT\edit1.jpg
+TITRES:
+- LEUCÉMIE DE L'ENFANT ET DE L'ADOLESCENT
+- LYMPHOME-MYÉLOME DE L'ADULTE
+
+------------------------------------------------------------
+
+FICHIER: UMALADIESINFLAMMATOIRESCHRONIQUESDELINTESTINMICI.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UMALADIESINFLAMMATOIRESCHRONIQUESDELINTESTINMICI\UMALADIESINFLAMMATOIRESCHRONIQUESDELINTESTINMICI.jpg
+TITRES:
+- HÔPITAUX
+- CENTRE EXPERT
+- NOMBRE DE PATIENTS
+- NOTORIÉTÉ
+- DURÉE DE SÉJOUR
+- HOSPITALISATIONS DE JOUR
+- INDICE DE GRAVITÉ
+- BIOTHÉRAPIES
+- CHIRURGIE DIGESTIVE
+- RÉUNION PLURIDISCIPLINAIRE
+- NUTRITIONNISTE
+- DERMATOLOGUE
+- RHUMATOLOGUE
+- INFIRMIÈRE DE COORDINATION
+- ÉDUCATION THÉRAPEUTIQUE
+- TÉLÉMÉDECINE
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: UPROTHSEDEHANCHE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UPROTHSEDEHANCHE\UPROTHSEDEHANCHE.jpg
+TITRES:
+- PROTHÈSE DE HANCHE
+- CLINIQUES
+
+------------------------------------------------------------
+
+FICHIER: USTRESSPOSTTRAUMATIQUE.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\USTRESSPOSTTRAUMATIQUE\USTRESSPOSTTRAUMATIQUE.jpg
+TITRES:
+- CENTRE EXPERT
+- ENFANTS/ADOLESCENTS
+- URGENCES PSYCHIATRIQUES
+- NOMBRE DE PATIENTS
+- AMBULATOIRE
+- SPÉCIALISATION
+- DENSITÉ DES ACTES
+- PATIENTS CMP
+- CMP
+- RÉHABILITATION PSYCHOSOCIALE
+- VIGILANS
+- NOTE / 20
+
+------------------------------------------------------------
+
+FICHIER: UTUMEURSDUCERVEAUDELENFANTETDELADOLESCENT_1.jpg
+CHEMIN: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\tri_image_script\images\UTUMEURSDUCERVEAUDELENFANTETDELADOLESCENT\UTUMEURSDUCERVEAUDELENFANTETDELADOLESCENT_1.jpg
+TITRES:
+- CANCERS DE LA PEAU
+- CANCÉROLOGIE
+- TUMEURS DU CERVEAU DE L'ENFANT ET DE L'ADOLESCENT
+- === STATISTIQUES FINALES ===
+- Total d'images analysées: 225
+- Images originales: 74
+- Images de tableaux: 151
+- Fichier de résultats: resultats_analyse_gemini.txt
+
+================================================================================
+STATISTIQUES:
+Nombre de fichiers traités: 71
+Répartition par fichier:
+  - ABLATIONDESVARICES_1.jpg: 2 titre(s)
+  - ANSUFFISANCECARDIAQUE.jpg: 14 titre(s)
+  - APPENDICITE_1.jpg: 3 titre(s)
+  - APPENDICITE.jpg: 10 titre(s)
+  - ARTHROSEDELAMAIN_1.jpg: 4 titre(s)
+  - AUDITION_1.jpg: 2 titre(s)
+  - CALCULSURINAIRES_1.jpg: 4 titre(s)
+  - CANCERDELAPROSTATE.jpg: 20 titre(s)
+  - CANCERDELATHYRODE_1.jpg: 2 titre(s)
+  - CANCERDELAVESSE_1.jpg: 4 titre(s)
+  - CANCERDELOVAIRE_1.jpg: 3 titre(s)
+  - CANCERDELPUTERUS.jpg: 18 titre(s)
+  - CANCERDUCOLONOUDELINTESTIN.jpg: 10 titre(s)
+  - CANCERDUPANCRAS_1.jpg: 3 titre(s)
+  - CANCERDUPOUMON.jpg: 3 titre(s)
+  - CANCERDUREIN_1.jpg: 12 titre(s)
+  - CANCERDUSEIN.jpg: 11 titre(s)
+  - GANCERDUSEN.jpg: 12 titre(s)
+  - CANCEROR.jpg: 4 titre(s)
+  - CHIRURGIEDELACHEVILLE_1.jpg: 2 titre(s)
+  - CHIRURGIEDELACORNEE_1.jpg: 3 titre(s)
+  - CHIRURGIEDELARETINE_1.jpg: 3 titre(s)
+  - CHIRURGIEDELOBESITE_1.jpg: 3 titre(s)
+  - CHIRURGIEDENTAIREETORALEDELENFANTETDELADOLESCENT_1.jpg: 2 titre(s)
+  - CHIRURGIEDESCAROTIDES_1.jpg: 3 titre(s)
+  - CHIRURGIEDUDOSDELADULTE_1.jpg: 8 titre(s)
+  - CHIRURGIEDUNEZETDESSINUS_1.jpg: 2 titre(s)
+  - CHIRURGIEDURECTUM_1.jpg: 2 titre(s)
+  - CHRURGEDUPIED_1.jpg: 2 titre(s)
+  - EDIT.jpg: 18 titre(s)
+  - DIABETEDELADULTE.jpg: 13 titre(s)
+  - DIABETEDELENFANTETDELADOLESCENT.jpg: 8 titre(s)
+  - ENDOMETRIOSE_1.jpg: 13 titre(s)
+  - FIBROMEUTRIN_1.jpg: 11 titre(s)
+  - GLANDESSALIVAIRES_1.jpg: 3 titre(s)
+  - HERMIESDELABDOMEN_1.jpg: 4 titre(s)
+  - INFARCTUSDUMYOCARDE_1.jpg: 3 titre(s)
+  - MALADIEDEPARKINSON.jpg: 16 titre(s)
+  - img00002 (27)-EDIT.jpg: 22 titre(s)
+  - img00002 (27).jpg: 24 titre(s)
+  - MEDECINEVASCULAIRE.jpg: 13 titre(s)
+  - MSICULEBLIAIRE_1.jpg: 4 titre(s)
+  - img00001 (7).jpg: 2 titre(s)
+  - pGEAUCOME_1.jpg: 18 titre(s)
+  - PNEUMOLOGIE.jpg: 16 titre(s)
+  - PROCTOLOGIE_1.jpg: 3 titre(s)
+  - PROTHESEDEGENOU_1.jpg: 11 titre(s)
+  - PROTHESEDEHANCHE.jpg: 11 titre(s)
+  - RYTHMOLOGIE.jpg: 7 titre(s)
+  - SCHIZOPHRENIE_1.jpg: 17 titre(s)
+  - TARACTE_1.jpg: 3 titre(s)
+  - TROUBLESBIPOLAIRES.jpg: 18 titre(s)
+  - UACCIDENTSVASCULAIRESCREBRAUX.jpg: 15 titre(s)
+  - UACCOUCHEMENTSARISQUES.jpg: 26 titre(s)
+  - UACCOUCHEMENTSNORMAUX.jpg: 22 titre(s)
+  - UADENOMEDELAPROSTATE_1.jpg: 3 titre(s)
+  - UAMYGDALESETVEGETATIONS_1.jpg: 3 titre(s)
+  - UANGIOPLASTIECORONAIRE_1.jpg: 4 titre(s)
+  - UCARDIOLOGIEINTERVENTIONNELLE_1.jpg: 3 titre(s)
+  - UCHIRURGIEDESCANCERSOSSEUXDELADULTE.jpg: 3 titre(s)
+  - UCHIRURGIEDESTESTICULESDELENFANTETDELADOLESCENT_1.jpg: 2 titre(s)
+  - UCHIRURGIEDUDOSDELENFANTETDELADOLESCENT_1.jpg: 2 titre(s)
+  - UCHIRURGIEMAXILLOFACIALE_1.jpg: 4 titre(s)
+  - UEPILEPSIEDELENFANTETDELADOLESCENT.jpg: 18 titre(s)
+  - UHYPERTENSIONARTERIELE_1.jpg: 2 titre(s)
+  - ULEUCEMIEDELADULTE_1.jpg: 2 titre(s)
+  - edit1.jpg: 2 titre(s)
+  - UMALADIESINFLAMMATOIRESCHRONIQUESDELINTESTINMICI.jpg: 17 titre(s)
+  - UPROTHSEDEHANCHE.jpg: 2 titre(s)
+  - USTRESSPOSTTRAUMATIQUE.jpg: 12 titre(s)
+  - UTUMEURSDUCERVEAUDELENFANTETDELADOLESCENT_1.jpg: 8 titre(s)

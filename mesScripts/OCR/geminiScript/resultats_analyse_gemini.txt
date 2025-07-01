@@ -1,0 +1,52 @@
+=== ANALYSE D'IMAGES AVEC GEMINI ===
+Date: 2025-06-25 14:30:00
+Dossier analysé: C:\test\images
+============================================================
+
+============================================================
+DOSSIER: Cardiologie
+============================================================
+
+FICHIER: img00001.jpg
+CHEMIN: C:\test\Cardiologie\img00001.jpg
+RÉPONSE GEMINI:
+TYPE: Image originale - Page de classement
+TITRES EXTRAITS:
+- Cardiologie interventionnelle
+- Cardiologie générale
+----------------------------------------
+
+FICHIER: tableau_001.jpg
+CHEMIN: C:\test\Cardiologie\tableau_001.jpg
+RÉPONSE GEMINI:
+CLASSEMENT: Tableau d'hôpitaux
+HÔPITAUX IDENTIFIÉS:
+[1er][Clinique La Croix du Sud, Toulouse (31)]
+[2e][Hôp. privé de Provence, Aix-en-Provence (13)]
+[3e][Polyclinique de Reims-Bezannes, Bezannes (51)]
+[10e][Clinique de l'Union, Saint-Jean (31)]
+[11e][CHU Hôtel-Dieu Hôpital Mère-enfants, Nantes (44)]
+1ᵉʳ Hôpital Cochin, Paris (75)
+2ᵉ Centre chirurgical Marie-Lannelongue, Le Plessis-Robinson (92)
+10ᵉ CHU Hôpital Larrey, Toulouse (31)
+1erCHU Centre chirurgical Émile-Gallé, Nancy (54)
+2eCHU Hôpital d'Estaing, Clermont-Ferrand (63)
+10eCH, Annecy (74)
+----------------------------------------
+
+============================================================
+DOSSIER: Neurologie
+============================================================
+
+FICHIER: tableau_002.jpg
+CHEMIN: C:\test\Neurologie\tableau_002.jpg
+RÉPONSE GEMINI:
+CLASSEMENT: Tableau d'hôpitaux
+HÔPITAUX IDENTIFIÉS:
+[12e][Clinique Rhéna, Strasbourg (67)]
+[13e][CHU, Poitiers (86)]
+12ᵉ CHU Hôpital Charles-Nicolle, Rouen (76)
+13ᵉ CHU Hôpital Pasteur, Nice (06)
+12eCHU Hôpital Charles-Nicolle, Rouen (76)
+13eCHU Hôpital de la Cavale-Blanche, Brest (29)
+----------------------------------------

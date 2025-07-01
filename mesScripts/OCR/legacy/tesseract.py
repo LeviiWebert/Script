@@ -1,24 +1,49 @@
-import pymupdf as fitz  # PyMuPDF
-import pytesseract
-import cv2
-import numpy as np
-import os
-import pandas as pd
-import logging
-import re
-import unicodedata
-from datetime import datetime
+"""
+ANCIENNE VERSION - DÉPRÉCIÉ
+Ce fichier est conservé pour compatibilité mais il est recommandé d'utiliser la nouvelle architecture modulaire.
+Utilisez main.py à la place.
 
-# Configuration de Tesseract
-tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-pytesseract.pytesseract.tesseract_cmd = tesseract_cmd
+Pour migrer vers la nouvelle version :
+    from main import MedicalDocumentProcessor
+    processor = MedicalDocumentProcessor()
+    results = processor.process_document('chemin/vers/fichier.pdf')
+"""
 
-# Logs\ n
-logging.basicConfig(
-    level=logging.DEBUG,
-    format='[%(levelname)s] %(asctime)s - %(message)s',
-    datefmt='%Y-%m-%d %H:%M:%S'
+import warnings
+warnings.warn(
+    "Ce fichier est déprécié. Utilisez 'main.py' pour la nouvelle architecture modulaire.",
+    DeprecationWarning,
+    stacklevel=2
 )
+
+# Imports pour compatibilité ascendante
+try:
+    from main import MedicalDocumentProcessor
+    from config import setup_logging
+    setup_logging()
+except ImportError:
+    # Fallback vers l'ancienne implémentation si les nouveaux modules ne sont pas disponibles
+    import pymupdf as fitz  # PyMuPDF
+    import pytesseract
+    import cv2
+    import numpy as np
+    import os
+    import pandas as pd
+    import logging
+    import re
+    import unicodedata
+    from datetime import datetime
+
+    # Configuration de Tesseract
+    tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+    pytesseract.pytesseract.tesseract_cmd = tesseract_cmd
+
+    # Logs
+    logging.basicConfig(
+        level=logging.DEBUG,
+        format='[%(levelname)s] %(asctime)s - %(message)s',
+        datefmt='%Y-%m-%d %H:%M:%S'
+    )
 
 # Paramètres
 default_params = {
@@ -40,10 +65,10 @@ default_params = {
         r"\d{2}:\d{2}"
     ],
     # Crop ratios
-    "crop_top_ratio": 0.35,    # décale le haut de 5 % de la hauteur
-    "crop_bottom_ratio": 0.95,
-    "crop_left_ratio": 0.05,
-    "crop_right_ratio": 0.95,
+    "crop_top_ratio": 0.0,    # décale le haut de 5 % de la hauteur
+    "crop_bottom_ratio": 0.0,
+    "crop_left_ratio": 0.0,
+    "crop_right_ratio": 0.80,
     # Slices\ n    "n_slices": 1,
     "save_debug": True,
     "export_excel": True,

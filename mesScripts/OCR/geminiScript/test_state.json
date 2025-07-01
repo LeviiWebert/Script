@@ -1,0 +1,37 @@
+{
+  "daily_requests": 7,
+  "current_delay": 12.0,
+  "consecutive_errors": 0,
+  "total_errors": 2,
+  "day_start": "2025-06-25T00:00:00",
+  "delay_history": [
+    [
+      true,
+      ""
+    ],
+    [
+      true,
+      ""
+    ],
+    [
+      true,
+      ""
+    ],
+    [
+      false,
+      "quota exceeded"
+    ],
+    [
+      false,
+      "timeout"
+    ],
+    [
+      true,
+      ""
+    ],
+    [
+      true,
+      ""
+    ]
+  ]
+}
