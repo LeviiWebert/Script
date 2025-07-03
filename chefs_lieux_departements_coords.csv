@@ -1,0 +1,75 @@
+numéro,département,chef_lieu,latitude,longitude,status
+1,Hauts-de-France,Montigny-en-Gohelle,50.4269,2.92988,trouvé
+2,Hauts-de-France,Saint-Omer,50.7515771,2.2534183,trouvé
+3,Hauts-de-France,Loos,50.6092082,3.0162523,trouvé
+4,Hauts-de-France,Berlairmont,,,non_trouvé
+5,Hauts-de-France,Le Cateau-Cambrésis,50.1058353,3.5417479,trouvé
+6,Hauts-de-France,Fontaine-au-Pire,50.1285441,3.3747544,trouvé
+7,Hauts-de-France,Péronne,49.9289578,2.9321899,trouvé
+8,Hauts-de-France,Noyon,49.5805561,3.0000288,trouvé
+9,Hauts-de-France,Creil,49.2607914,2.4733771,trouvé
+10,Hauts-de-France,Beauvais,49.4300997,2.0823355,trouvé
+11,Hauts-de-France,Beaurevoir,49.9972222,3.3097222,trouvé
+12,Hauts-de-France,Saint-Quentin,49.8465253,3.2876843,trouvé
+13,Hauts-de-France,Tergnier,49.6558465,3.2918511,trouvé
+14,Hauts-de-France,Hirson,49.9203419,4.0837186,trouvé
+15,Hauts-de-France,Soissons,49.3837621,3.327613,trouvé
+16,Hauts-de-France,Brasles,49.05,3.4286111,trouvé
+17,Hauts-de-France,Fère-en-Tardenois,49.2011635,3.513536,trouvé
+18,Provence-Alpes-Côte d’Azur,Rognac,43.4872341,5.2342903,trouvé
+19,Provence-Alpes-Côte d’Azur,Vitrolles,44.4347105,5.9496043,trouvé
+20,Provence-Alpes-Côte d’Azur,Cabriès,43.4411965,5.3798882,trouvé
+21,Provence-Alpes-Côte d’Azur,Marignane,43.4162729,5.2146275,trouvé
+22,Provence-Alpes-Côte d’Azur,Miramas,43.582733,5.0025809,trouvé
+23,Provence-Alpes-Côte d’Azur,Fos-sur-Mer,43.4380714,4.945595,trouvé
+24,Provence-Alpes-Côte d’Azur,Marseille,43.2961743,5.3699525,trouvé
+25,Île-de-France,Châtenay-Malabry,48.7670404,2.2775316,trouvé
+26,Île-de-France,Neuilly-sur-Seine,48.884683,2.2695658,trouvé
+27,Île-de-France,Bonnières-sur-Seine,49.037481,1.5809775,trouvé
+28,Île-de-France,Saint-Mammès,48.3887016,2.807564,trouvé
+29,Île-de-France,Saint-Rémy-lès-Chevreuse,48.7054888,2.071109,trouvé
+30,Île-de-France,Montereau-Fault-Yonne,48.3849647,2.9557006,trouvé
+31,Île-de-France,Buchelay,48.9793554,1.6716534,trouvé
+32,Île-de-France,Paris,48.8588897,2.320041,trouvé
+33,Île-de-France,Clamart,48.8003835,2.2630238,trouvé
+34,Pays de la Loire,Nantes,47.2186371,-1.5541362,trouvé
+35,Pays de la Loire,Saint-Sébastien-sur-Loire,47.2035029,-1.4992075,trouvé
+36,Pays de la Loire,Guérande,47.3282126,-2.4298014,trouvé
+37,Pays de la Loire,Rezé,47.1905456,-1.5695287,trouvé
+38,Pays de la Loire,Batz-sur-Mer,47.2771383,-2.4791931,trouvé
+39,Pays de la Loire,Saint-Barthélemy-d’Anjou,47.4683081,-0.4932941,trouvé
+40,Pays de la Loire,Le Mans,48.0073849,0.1967849,trouvé
+41,Nouvelle-Aquitaine,Angoulême,45.6484505,0.1561947,trouvé
+42,Nouvelle-Aquitaine,L’Isle-d’Espagnac,45.6646231,0.2003336,trouvé
+43,Nouvelle-Aquitaine,La Rochelle,46.159732,-1.1515951,trouvé
+44,Nouvelle-Aquitaine,Royan,45.6245332,-1.0287636,trouvé
+45,Nouvelle-Aquitaine,Saintes,45.7460663,-0.6300671,trouvé
+46,Nouvelle-Aquitaine,Bordeaux,44.841225,-0.5800364,trouvé
+47,Nouvelle-Aquitaine,Talence,44.8088438,-0.5879629,trouvé
+48,Nouvelle-Aquitaine,Mérignac,44.842168,-0.6469022,trouvé
+49,Nouvelle-Aquitaine,Biganos,44.642014,-0.9766226,trouvé
+50,Nouvelle-Aquitaine,Agen,44.2015827,0.6176112,trouvé
+51,Nouvelle-Aquitaine,Niort,46.3239233,-0.4646064,trouvé
+52,Nouvelle-Aquitaine,Limoges,45.8354243,1.2644847,trouvé
+53,Occitanie,Carcassonne,43.2130358,2.3491069,trouvé
+54,Occitanie,Nîmes,43.8374249,4.3600687,trouvé
+55,Occitanie,Parignargues,43.8736484,4.2073378,trouvé
+56,Occitanie,Toulouse,43.6044622,1.4442469,trouvé
+57,Occitanie,Villeneuve-de-Rivière,43.1220125,0.6653753,trouvé
+58,Occitanie,Montpellier,43.6112422,3.8767337,trouvé
+59,Occitanie,Cahors,44.4495,1.4364999,trouvé
+60,Occitanie,Tarbes,43.232858,0.0781021,trouvé
+61,Occitanie,Espira-de-l’Agly,42.7771379,2.8325432,trouvé
+62,Occitanie,Albi,43.9277552,2.147899,trouvé
+63,Grand Est,Charleville-Mézières,49.7735712,4.7206939,trouvé
+64,Grand Est,Villers-Semeuse,49.7430945,4.7455902,trouvé
+65,Grand Est,Vouziers,49.3980838,4.7003648,trouvé
+66,Grand Est,Signy-l’Abbaye,49.6980622,4.4194543,trouvé
+67,Grand Est,Revin,49.9421221,4.6374643,trouvé
+68,Grand Est,Troyes,48.2971626,4.0746257,trouvé
+69,Grand Est,Romilly-sur-Seine,48.5197475,3.7263678,trouvé
+70,Grand Est,Villers-Allerand,49.1660122,4.0245971,trouvé
+71,Grand Est,Reims,49.2577886,4.031926,trouvé
+72,Grand Est,Nancy,48.6937223,6.1834097,trouvé
+73,Grand Est,Schiltigheim,48.6047148,7.7484488,trouvé
+74,Grand Est,Heimsbrunn,47.7273086,7.2258025,trouvé

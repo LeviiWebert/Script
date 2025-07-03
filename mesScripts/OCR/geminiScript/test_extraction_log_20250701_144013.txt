@@ -1,0 +1,22 @@
+2025-07-01 14:40:13,526 - INFO - 🚀 DÉBUT TEST - Image: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\UACCOUCHEMENTSARISQUES.jpg
+2025-07-01 14:40:13,526 - INFO - 📊 Excel référence: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\data_propre_ext_LP-167_Acc_Risque.xlsx
+2025-07-01 14:40:13,526 - INFO - 📊 Chargement Excel référence: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\data_propre_ext_LP-167_Acc_Risque.xlsx
+2025-07-01 14:40:13,732 - INFO - ✅ Excel chargé: (50, 34)
+2025-07-01 14:40:13,732 - INFO - 🔍 Début extraction avec découpage optimisé: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\UACCOUCHEMENTSARISQUES.jpg
+2025-07-01 14:40:13,732 - INFO - 🔍 Extraction des headers depuis la partie haute: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\UACCOUCHEMENTSARISQUES.jpg
+2025-07-01 14:40:50,818 - INFO - ✅ Headers détectés: ['HÔPITAUX', 'ACTIVITÉ', 'DURÉE DE SÉJOUR', 'OBSTÉTRICIEN DE GARDE', 'ANESTHÉSISTE DE GARDE', 'PÉDIATRE DE GARDE', 'CÉSARIENNES', 'PÉRIDURALES', 'ÉPISIOTOMIES', 'EXTRACTIONS INSTRUMENTALES', 'NAISSANCES MULTIPLES', 'AUTOANALGÉSIES', 'ALLAITEMENT', 'BLOC OPÉRATOIRE', 'RÉANIMATION ADULTE', 'NÉONATALOGIE', 'RÉANIMATION NÉONATALE', 'PSYCHOLOGUE', 'UNITÉ KANGOUROU', 'UNITÉ DÉMÉDICALISÉE', 'CHAMBRES À 1 LIT', 'CHAMBRES AVEC SDB', 'SUIVI À DOMICILE', 'NOTE / 20']
+2025-07-01 14:40:50,818 - INFO - 📋 Headers pré-détectés: 24 colonnes
+2025-07-01 14:40:50,818 - INFO - 🔪 Découpage intelligent de l'image: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\UACCOUCHEMENTSARISQUES.jpg
+2025-07-01 14:40:50,868 - INFO - 📐 Dimensions image: 2371x2469
+2025-07-01 14:40:50,886 - INFO - ✂️ Partie 1: 0-1303 (largeur: 1303px)
+2025-07-01 14:40:50,890 - INFO - ✂️ Partie 2: 1067-2371 (largeur: 1304px)
+2025-07-01 14:40:50,892 - INFO - ✅ Image découpée en 2 parties
+2025-07-01 14:40:50,895 - INFO - 📤 Analyse partie 1/2: partie_1_sur_2
+2025-07-01 14:42:15,737 - INFO - ✅ Partie 1 analysée: 50 lignes
+2025-07-01 14:42:15,738 - INFO - 📤 Analyse partie 2/2: partie_2_sur_2
+2025-07-01 14:44:10,540 - INFO - ✅ Partie 2 analysée: 50 lignes
+2025-07-01 14:44:10,541 - INFO - 🔀 Fusion de 2 parties...
+2025-07-01 14:44:10,542 - INFO - 📋 Utilisation des headers pré-détectés: ['HÔPITAUX', 'ACTIVITÉ', 'DURÉE DE SÉJOUR', 'OBSTÉTRICIEN DE GARDE', 'ANESTHÉSISTE DE GARDE', 'PÉDIATRE DE GARDE', 'CÉSARIENNES', 'PÉRIDURALES', 'ÉPISIOTOMIES', 'EXTRACTIONS INSTRUMENTALES', 'NAISSANCES MULTIPLES', 'AUTOANALGÉSIES', 'ALLAITEMENT', 'BLOC OPÉRATOIRE', 'RÉANIMATION ADULTE', 'NÉONATALOGIE', 'RÉANIMATION NÉONATALE', 'PSYCHOLOGUE', 'UNITÉ KANGOUROU', 'UNITÉ DÉMÉDICALISÉE', 'CHAMBRES À 1 LIT', 'CHAMBRES AVEC SDB', 'SUIVI À DOMICILE', 'NOTE / 20']
+2025-07-01 14:44:10,542 - INFO - ✅ Fusion terminée: 24 colonnes, 50 lignes, 100.0% rempli
+2025-07-01 14:44:10,542 - INFO - 🔍 Début comparaison avec référence...
+2025-07-01 14:44:10,597 - INFO - ✅ Comparaison terminée - Score global: 13.7%

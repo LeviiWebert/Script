@@ -1,0 +1,11 @@
+2025-07-01 14:27:58,930 - INFO - 🚀 DÉBUT TEST - Image: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\UACCOUCHEMENTSARISQUES.jpg
+2025-07-01 14:27:58,930 - INFO - 📊 Excel référence: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\data_propre_ext_LP-167_Acc_Risque.xlsx
+2025-07-01 14:27:58,930 - INFO - 📊 Chargement Excel référence: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\data_propre_ext_LP-167_Acc_Risque.xlsx
+2025-07-01 14:27:59,134 - INFO - ✅ Excel chargé: (50, 34)
+2025-07-01 14:27:59,134 - INFO - 🔍 Début extraction: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\UACCOUCHEMENTSARISQUES.jpg
+2025-07-01 14:27:59,134 - INFO - 📤 Envoi vers Gemini...
+2025-07-01 14:29:43,623 - INFO - 📥 Réponse reçue: 14452 caractères
+2025-07-01 14:29:43,624 - INFO - ✅ JSON extrait avec succès
+2025-07-01 14:29:43,625 - INFO - 🔍 Début comparaison avec référence...
+2025-07-01 14:29:43,662 - INFO - ✅ Comparaison terminée - Score global: 24.6%
+2025-07-01 14:29:43,672 - ERROR - Erreur sauvegarde Excel: 25 columns passed, passed data had 26 columns

@@ -1,0 +1,11 @@
+2025-07-01 14:23:27,703 - INFO - 🚀 DÉBUT TEST - Image: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\UACCOUCHEMENTSARISQUES.jpg
+2025-07-01 14:23:27,703 - INFO - 📊 Excel référence: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\data_propre_ext_LP-167_Acc_Risque.xlsx
+2025-07-01 14:23:27,718 - INFO - 📊 Chargement Excel référence: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\data_propre_ext_LP-167_Acc_Risque.xlsx
+2025-07-01 14:23:28,105 - INFO - ✅ Excel chargé: (50, 34)
+2025-07-01 14:23:28,105 - INFO - 🔍 Début extraction: C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Reference test extraction\UACCOUCHEMENTSARISQUES.jpg
+2025-07-01 14:23:28,127 - INFO - 📤 Envoi vers Gemini...
+2025-07-01 14:26:30,330 - INFO - 📥 Réponse reçue: 21659 caractères
+2025-07-01 14:26:30,330 - INFO - ✅ JSON extrait avec succès
+2025-07-01 14:26:30,330 - INFO - 🔍 Début comparaison avec référence...
+2025-07-01 14:26:30,414 - INFO - ✅ Comparaison terminée - Score global: 45.9%
+2025-07-01 14:26:30,529 - INFO - 💾 Données sauvegardées: test_results\donnees_extraites_20250701_142630.xlsx
