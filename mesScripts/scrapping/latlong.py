@@ -3,7 +3,7 @@ from geopy.geocoders import Nominatim
 from time import sleep
 import json
 
-# Liste des départements et chefs-lieux
+# Liste des régions et chefs-lieux
 # departements = [
 #     (1, "Ain", "Bourg-en-Bresse"),
 #     (2, "Aisne", "Laon"),
@@ -107,7 +107,7 @@ import json
 #     (974, "La Réunion", "Saint-Denis"),
 #     (976, "Mayotte", "Mamoudzou")
 # ]
-departements = [
+regions = [
     (1, "Hauts-de-France", "Montigny-en-Gohelle"),
     (2, "Hauts-de-France", "Saint-Omer"),
     (3, "Hauts-de-France", "Loos"),
@@ -185,16 +185,16 @@ departements = [
 ]
 
 # Configuration du géolocalisateur
-geolocator = Nominatim(user_agent="chef_lieu_locator_v2")
+geolocator = Nominatim(user_agent="ville_locator_v2")
 results = []
 
-def get_coordinates(ville, departement=None):
+def get_coordinates(ville, region=None):
     """
     Essaie plusieurs stratégies pour obtenir les coordonnées
     """
     strategies = [
         f"{ville}, France",
-        f"{ville}, {departement}, France" if departement else None,
+        f"{ville}, {region}, France" if region else None,
         ville,
         f"{ville} France"
     ]
@@ -220,16 +220,16 @@ def get_coordinates(ville, departement=None):
 print("🚀 Début de la géolocalisation des chefs-lieux...")
 print("=" * 60)
 
-for i, (num, dep, ville) in enumerate(departements, 1):
-    print(f"\n[{i}/{len(departements)}] 📍 {ville} ({dep})")
+for i, (num, reg, locality) in enumerate(regions, 1):
+    print(f"\n[{i}/{len(regions)}] 📍 {locality} ({reg})")
     
     # Obtenir les coordonnées avec plusieurs stratégies
-    lat, lon = get_coordinates(ville, dep)
+    lat, lon = get_coordinates(locality, reg)
     
     results.append({
         "numéro": num,
-        "département": dep,
-        "chef_lieu": ville,
+        "régions": reg,
+        "ville": locality,
         "latitude": lat,
         "longitude": lon,
         "status": "trouvé" if lat else "non_trouvé"
@@ -250,8 +250,8 @@ print(f"❌ Coordonnées manquantes: {len(results) - trouvees}")
 non_trouvees = [r for r in results if r["latitude"] is None]
 if non_trouvees:
     print(f"\n⚠️ Villes non localisées:")
-    for ville in non_trouvees:
-        print(f"  - {ville['chef_lieu']} ({ville['département']})")
+    for locality in non_trouvees:
+        print(f"  - {locality['ville']} ({locality['régions']})")
 
 # Sauvegarde en JSON
 output_file = "chefs_lieux_departements_coords.json"

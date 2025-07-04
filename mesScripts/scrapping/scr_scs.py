@@ -32,10 +32,9 @@ def nettoyer_texte(texte):
         return ""
     return re.sub(r'\s+', '', texte.replace('%',''))
 
-def recuperer_donnees_region(code_region):
+def recuperer_donnees_region(code_region,url):
     """Récupère les données pour une région donnée"""
-    url = f"https://www.scansante.fr/applications/cartographie-activite-SSR/submit?snatnav=&annee=2024&tgeo=reg&codegeo={code_region}&SePP=3&SeTailEt=0&catmaj=&gn=&gpmedeco="
-    
+    url = url[0] + code_region + url[1]
     try:
         print(f"Récupération des données pour {regions[code_region]}...")
         
@@ -53,6 +52,14 @@ def recuperer_donnees_region(code_region):
         response.raise_for_status()
         
         soup = BeautifulSoup(response.content, 'html.parser')
+        
+        # Récupérer les titres depuis les tableaux avec class 'systitleandfootercontainer'
+        titres = []
+        title_tables = soup.find_all('table', class_='systitleandfootercontainer')
+        for title_table in title_tables:
+            title_text = title_table.get_text().strip()
+            if title_text:
+                titres.append(title_text)
         
         # Chercher le tableau
         table = soup.find_all('table', class_='table',limit=2)
@@ -110,7 +117,13 @@ def recuperer_donnees_region(code_region):
         # Ajouter une colonne avec le nom de la région
         df.insert(0, 'Région', code_region)
         
+        # Ajouter une colonne avec les titres extraits (concaténés)
+        titre_complet = " | ".join(titres) if titres else "Aucun titre trouvé"
+        df.insert(1, 'Titre_Section', titre_complet)
+        
         print(f"  {len(df)} lignes récupérées pour {regions[code_region]}")
+        if titres:
+            print(f"  Titres trouvés: {titre_complet}")
         return df
         
     except requests.exceptions.RequestException as e:
@@ -123,36 +136,55 @@ def recuperer_donnees_region(code_region):
 def main():
     """Fonction principale"""
     print("Début de la récupération des données SSR...")
-    
-    # Créer un writer Excel
-    nom_fichier = "donnees_ssr_regions_2024.xlsx"
-    
-    with pd.ExcelWriter(nom_fichier, engine='openpyxl') as writer:
-        # DataFrame pour consolider toutes les données
-        df_complet = pd.DataFrame()
+    """["https://www.scansante.fr/applications/cartographie-activite-PSY/submit?snatnav=&annee=2024&tgeo=reg&codegeo=","&base=bpri&nat_pec=99&form_act=99&type_diag=1&cat_diag=", "PSY"],
+        ["https://www.scansante.fr/applications/cartographie-activite-SSR/submit?snatnav=&annee=2024&tgeo=reg&codegeo=","&SePP=0&SeTailEt=0&catmaj=&gn=&gpmedeco=", "SSR"],"""
+    urls = [
         
-        # Parcourir toutes les régions
-        for code_region, nom_region in regions.items():
-            # Récupérer les données de la région
-            df_region = recuperer_donnees_region(code_region)
+        ["https://www.scansante.fr/applications/analyse-croisee-consommation-production-SSR/submit?snatnav=&mbout=&type_fin=finP&annee=2024&tgeo=reg_ts&codegeo=","&CM=&GN=&type_hosp=HC", "Consommation_Production_SSR"],
+        ["https://www.scansante.fr/applications/analyse-croisee-consommation-production-Psy/submit?snatnav=&mbout=&annee=2024&tgeo=reg_ts&codegeo=","&type_hosp=TP&DP=", "Consommation_Production_PSY"]
+    ]
+    
+    # Traiter chaque URL séparément
+    for url_info in urls:
+        url_parts = url_info[:2]  # [début_url, fin_url]
+        nom_fichier = f"donnees_{url_info[2]}_regions_2024.xlsx"
+        
+        print(f"\n=== Traitement de {url_info[2]} ===")
+        
+        with pd.ExcelWriter(nom_fichier, engine='openpyxl') as writer:
+            df_complet = pd.DataFrame()
+            regions_traitees = 0
             
-            if not df_region.empty:
-                # Créer une feuille par région (nom nettoyé pour Excel)
-                # nom_feuille = nom_region.replace('Ô', 'O').replace('É', 'E').replace('-', '_')[:31]  # Limite Excel: 31 caractères
-                # df_region.to_excel(writer, sheet_name=nom_feuille, index=False)
+            # Parcourir toutes les régions pour cette URL
+            for code_region, nom_region in regions.items():
+                print(f"\nTraitement de {nom_region} pour {url_info[2]}...")
                 
-                # Ajouter au DataFrame complet
-                df_complet = pd.concat([df_complet, df_region], ignore_index=True)
-            # Pause entre les requêtes pour ne pas surcharger le serveur
-            time.sleep(1)
-        
+                # Récupérer les données de la région pour cette URL
+                df_region = recuperer_donnees_region(code_region, url_parts)
+                
+                if not df_region.empty:
+                    # Créer une feuille par région
+                    nom_feuille = nom_region.replace('Ô', 'O').replace('É', 'E').replace('-', '_').replace(' ', '_')[:31]  # Limite Excel: 31 caractères
+                    df_region.to_excel(writer, sheet_name=nom_feuille, index=False)
+                    
+                    # Ajouter au DataFrame complet
+                    df_complet = pd.concat([df_complet, df_region], ignore_index=True)
+                    regions_traitees += 1
+                    
+                # Pause entre les requêtes pour ne pas surcharger le serveur
+                time.sleep(1)
+            
             # Créer une feuille avec toutes les données consolidées
             if not df_complet.empty:
                 df_complet.to_excel(writer, sheet_name='TOUTES_REGIONS', index=False)
-                print(f"\nDonnées consolidées: {len(df_complet)} lignes au total")
+                print(f"\nDonnées consolidées pour {url_info[2]}: {len(df_complet)} lignes au total")
+            else:
+                # Créer une feuille vide si aucune donnée
+                pd.DataFrame({"Message": ["Aucune donnée trouvée"]}).to_excel(writer, sheet_name='Aucune_donnee', index=False)
+        
+        print(f"Fichier créé: {nom_fichier} ({regions_traitees} régions traitées)")
     
-    print(f"\nTerminé ! Fichier Excel créé: {nom_fichier}")
-    print(f"Le fichier contient une feuille par région + une feuille consolidée 'TOUTES_REGIONS'")
+    print(f"\nTerminé ! Tous les fichiers ont été créés.")
 
 if __name__ == "__main__":
     main()

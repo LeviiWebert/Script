@@ -6,6 +6,7 @@ import urllib.parse
 import pandas as pd
 import os
 import sys
+from geopy.geocoders import Nominatim
 
 # Try to import selenium, if not available, provide installation instructions
 try:
@@ -20,17 +21,46 @@ except ImportError:
     SELENIUM_AVAILABLE = False
     print("ERREUR: Le module 'selenium' n'est pas installé.")
     print("Pour installer les dépendances nécessaires, exécutez:")
-    print("pip install selenium beautifulsoup4 pandas openpyxl requests")
+    print("pip install selenium beautifulsoup4 pandas openpyxl requests geopy")
     print("\nVous devrez également télécharger ChromeDriver depuis:")
     print("https://chromedriver.chromium.org/")
     print("Et l'ajouter à votre PATH système.")
     sys.exit(1)
 
-def load_coordinates_data():
-    """Load coordinates data from JSON file"""
-    json_path = r"C:\Users\LeviWEBERT\OneDrive - ALBUS PARTNERS\Bureau\Scan Medecine\Script\chefs_lieux_departements_coords.json"
-    with open(json_path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+# Liste des villes (prise du script carte_couverture_france.py)
+cities = [
+    "Lille", "Dunkerque", "Amiens", "Reims", "Metz", "Strasbourg",
+    "Paris", "Chartres", "Orléans", "Troyes",
+    "Caen", "Rennes", "Saint-Brieuc", "Brest", "Lorient", "Vannes",
+    "Nantes", "Angers", "Tours", "Poitiers", "Limoges", "Clermont-Ferrand",
+    "Dijon", "Besançon",
+    "La Rochelle", "Bordeaux", "Mont-de-Marsan", "Pau", "Bayonne",
+    "Toulouse", "Montpellier", "Marseille", "Avignon", "Lyon", "Grenoble"
+]
+
+def get_city_coordinates():
+    """Get coordinates for all cities using geocoding"""
+    geolocator = Nominatim(user_agent="scrape_emeis_cliniques")
+    city_coords = []
+    
+    print("Récupération des coordonnées des villes...")
+    for city in cities:
+        try:
+            location = geolocator.geocode(city + ", France")
+            if location:
+                city_coords.append({
+                    "ville": city,
+                    "latitude": location.latitude,
+                    "longitude": location.longitude
+                })
+                print(f"✔ Coordonnées trouvées pour {city}: {location.latitude:.4f}, {location.longitude:.4f}")
+            else:
+                print(f"❌ Coordonnées non trouvées pour {city}")
+        except Exception as e:
+            print(f"Erreur pour {city}: {e}")
+        time.sleep(1)  # Pause pour éviter le blocage par le serveur
+    
+    return city_coords
 
 def setup_driver():
     """Setup Chrome driver with options"""
@@ -54,21 +84,22 @@ def setup_driver():
         print("Téléchargez ChromeDriver depuis: https://chromedriver.chromium.org/")
         return None
 
-def scrape_emeis_for_location(driver, chef_lieu, latitude, longitude, numero_dept, nom_dept):
+def scrape_emeis_for_location(driver, ville, latitude, longitude):
     """Scrape Emeis clinics for a specific location"""
     try:
         # Construct URL
-        base_url = "https://www.emeis-cliniques.fr/resultats-recherche"
+        #base_url = "https://www.emeis-cliniques.fr/resultats-recherche"
+        base_url = "https://www.emeis.fr/resultats-recherche"
         params = {
-            'combine': chef_lieu,
+            'combine': ville,
             'field_lat_long_distance[latitude]': str(latitude),
             'field_lat_long_distance[longitude]': str(longitude),
-            'field_lat_long_distance[search_distance]': '25',
+            'field_lat_long_distance[search_distance]': '100',
             'field_metier_site_tid': 'All'
         }
         
         url = f"{base_url}?{urllib.parse.urlencode(params)}"
-        print(f"Scraping {chef_lieu} ({numero_dept}) - {nom_dept}")
+        print(f"Scraping {ville}")
         print(f"URL: {url}")
         
         driver.get(url)
@@ -91,7 +122,7 @@ def scrape_emeis_for_location(driver, chef_lieu, latitude, longitude, numero_dep
         try:
             table = wait.until(EC.presence_of_element_located((By.ID, "table_recherche")))
         except Exception as e:
-            print(f"Table not found for {chef_lieu}: {e}")
+            print(f"Table not found for {ville}: {e}")
             return []
         
         # Extract data from table
@@ -105,8 +136,11 @@ def scrape_emeis_for_location(driver, chef_lieu, latitude, longitude, numero_dep
                 if len(cells) >= 5:
                     # Extract image URL
                     img_cell = cells[0]
-                    img_element = img_cell.find_element(By.TAG_NAME, "img")
-                    image_url = img_element.get_attribute("src") if img_element else ""
+                    try:
+                        img_element = img_cell.find_element(By.TAG_NAME, "img")
+                        image_url = img_element.get_attribute("src") if img_element else ""
+                    except:
+                        image_url = ""
                     
                     # Extract clinic name and URL
                     name_cell = cells[1]
@@ -130,9 +164,7 @@ def scrape_emeis_for_location(driver, chef_lieu, latitude, longitude, numero_dep
                         "Type de séjour": type_sejour,
                         "Téléphone": telephone,
                         "URL de l'image": image_url,
-                        "Ville de recherche": chef_lieu,
-                        "Numéro département": numero_dept,
-                        "Nom département": nom_dept,
+                        "Ville de recherche": ville,
                         "Latitude recherche": latitude,
                         "Longitude recherche": longitude
                     }
@@ -143,11 +175,11 @@ def scrape_emeis_for_location(driver, chef_lieu, latitude, longitude, numero_dep
                 print(f"Error extracting row data: {e}")
                 continue
         
-        print(f"Found {len(clinics)} clinics for {chef_lieu}")
+        print(f"Found {len(clinics)} clinics for {ville}")
         return clinics
         
     except Exception as e:
-        print(f"Error scraping {chef_lieu}: {e}")
+        print(f"Error scraping {ville}: {e}")
         return []
 
 def main():
@@ -155,9 +187,13 @@ def main():
     if not SELENIUM_AVAILABLE:
         print("Impossible de continuer sans Selenium. Installez les dépendances d'abord.")
         return
-        
-    # Load coordinates data
-    coordinates_data = load_coordinates_data()
+    
+    # Get coordinates for cities
+    city_coordinates = get_city_coordinates()
+    
+    if not city_coordinates:
+        print("Aucune coordonnée récupérée. Arrêt du script.")
+        return
     
     # Setup driver
     driver = setup_driver()
@@ -168,17 +204,13 @@ def main():
     all_clinics = []
     
     try:
-        for location in coordinates_data:
-            chef_lieu = location["chef_lieu"]
-            latitude = location["latitude"]
-            longitude = location["longitude"]
-            numero_dept = location["numéro"]
-            nom_dept = location["département"]
+        for city_data in city_coordinates:
+            ville = city_data["ville"]
+            latitude = city_data["latitude"]
+            longitude = city_data["longitude"]
             
             # Scrape clinics for this location
-            clinics = scrape_emeis_for_location(
-                driver, chef_lieu, latitude, longitude, numero_dept, nom_dept
-            )
+            clinics = scrape_emeis_for_location(driver, ville, latitude, longitude)
             
             all_clinics.extend(clinics)
             
