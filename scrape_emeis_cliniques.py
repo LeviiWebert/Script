@@ -133,7 +133,7 @@ def scrape_emeis_for_location(driver, ville, latitude, longitude):
         for row in rows:
             try:
                 cells = row.find_elements(By.TAG_NAME, "td")
-                if len(cells) >= 5:
+                if len(cells) >= 4:
                     # Extract image URL
                     img_cell = cells[0]
                     try:
@@ -152,22 +152,26 @@ def scrape_emeis_for_location(driver, ville, latitude, longitude):
                     location = cells[2].text.strip()
                     
                     # Extract type of stay
-                    type_sejour = cells[3].text.strip()
+                    #type_sejour = cells[3].text.strip()
                     
                     # Extract phone number
-                    telephone = cells[4].text.strip()
-                    
+                    #telephone = cells[4].text.strip()
+                    telephone = cells[3].text.strip()
                     clinic_data = {
-                        "Nom de la clinique": clinic_name,
-                        "URL de la clinique": clinic_url,
+                        "Nom de l'Ehpad": clinic_name,
+                        "URL de l'Ehpad": clinic_url,
                         "Localité": location,
-                        "Type de séjour": type_sejour,
                         "Téléphone": telephone,
-                        "URL de l'image": image_url,
-                        "Ville de recherche": ville,
-                        "Latitude recherche": latitude,
-                        "Longitude recherche": longitude
+                        "URL de l'image": image_url
                     }
+                    # clinic_data = {
+                    #     "Nom de la clinique": clinic_name,
+                    #     "URL de la clinique": clinic_url,
+                    #     "Localité": location,
+                    #     "Type de séjour": type_sejour,
+                    #     "Téléphone": telephone,
+                    #     "URL de l'image": image_url
+                    # }
                     
                     clinics.append(clinic_data)
                     
@@ -228,10 +232,11 @@ def main():
         
         # Create Excel file with formatting
         with pd.ExcelWriter(output_file, engine='openpyxl') as writer:
-            df.to_excel(writer, sheet_name='Cliniques Emeis', index=False)
+            #df.to_excel(writer, sheet_name='Cliniques Emeis', index=False)
+            df.to_excel(writer, sheet_name='Ehpad Emeis', index=False)
             
             # Get the worksheet to format
-            worksheet = writer.sheets['Cliniques Emeis']
+            worksheet = writer.sheets['Ehpad Emeis']
             
             # Auto-adjust column widths
             for column in worksheet.columns:
